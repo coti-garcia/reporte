@@ -8,21 +8,20 @@
   >
     <div class="container-fluid container-fluid--cp-150">
       <b-link class="menu-btn" @click="toggleClass('addClass', 'active')">
-        <i class="fas fa-bars"></i>
+        <i class="fas fa-bars"></i> <span>índice</span>
       </b-link>
       <b-navbar-brand class="navbar-brand logo-light mr-sm-auto" to="/">
-        <img :src="'../assets/img/logo/light-logo.png'" alt="logo" />
+        <!-- <img
+          src="@/assets/img/logo/logo_horizontal_transparente.png"
+          alt="logo"
+        /> -->
       </b-navbar-brand>
       <b-navbar-brand class="navbar-brand logo-dark mr-sm-auto" to="/">
-        <img :src="'../assets/img/logo/logo-dark.png'" alt="logo" />
+        <img
+          src="@/assets/img/logo/logo_horizontal_transparente.png"
+          alt="logo"
+        />
       </b-navbar-brand>
-      <b-btn-group class="header-button d-none d-sm-block">
-        <b-link
-          href="https://1.envato.market/c/25198880/275988/4415?subId1=hasthemes&subId2=demo&subId3=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F25198880%3Flicense%3Dregular%26size%3Dsource&u=https%3A%2F%2Fthemeforest.net%2Fcart%2Fconfigure_before_adding%2F25198880%3Flicense%3Dregular%26size%3Dsource"
-          class="btn"
-          >Purchase Now</b-link
-        >
-      </b-btn-group>
     </div>
   </b-navbar>
 </template>
@@ -121,10 +120,19 @@ export default {
       border-color: transparent;
     }
   }
+  a.menu-btn {
+    color: #fff;
+    span {
+      padding-left: 15px;
+    }
+  }
   &.is-sticky {
     padding: 10px 15px;
     a.menu-btn {
       color: $theme-color--default;
+      span {
+        display: none;
+      }
     }
     .header-button {
       a {
