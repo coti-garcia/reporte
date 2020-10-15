@@ -50,3 +50,15 @@ export default {
   },
 };
 </script>
+<style scoped>
+.chart-progress__inner--blue {
+  background-color: transparent;
+  background-image: url(https://communicationsguide.ucdavis.edu/sites/g/files/dgvnsk6246/files/inline-images/Turquoise.png);
+  background-size: 101%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.app-showcase-progress__title .chart-progress__inner-wrapper {
+  padding: 10px;
+}
+</style>

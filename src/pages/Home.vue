@@ -1,58 +1,91 @@
 <template>
-	<div class="main-container">
-		<!-- Navbar section -->
-		<HeaderShowcase />
+  <div class="main-container">
+    <!-- Navbar section -->
+    <HeaderShowcase />
 
-		<!-- hero section -->
-		<HeroAppShowcase />
+    <!-- Intro -->
+    <HeroAppShowcase />
 
-		<!-- brand logo carousel -->
-		<BrandLogoCarousel class="pb-0" />
-		
-		<!-- feature section -->
-		<FeatureAppShowcase />
+    <!-- 1. Presentacion -->
+    <Presentacion />
 
-		<!-- download section -->
-		<Download />
+    <!-- 2. Cartas de presentación -->
+    <Cartas />
 
-		<!-- three step process -->
-		<ThreeStepProcessWrap />
+    <!-- 3.	UC Davis EE. UU. -->
+    <UCDavisUS />
 
-		<!-- newsletter section -->
-		<AppShowcaseNewsletter />
+    <!-- 4. three step process -->
+    <RelacionHistorica />
 
-		<!-- footer section -->
-        <FooterAppShowcase />
+    <!-- 5. newsletter section -->
+    <AppShowcaseNewsletter />
+    <div
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
+      id="mision"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo circleValue="06" class="section-space--mb_40" />
+          </div>
+        </div>
+        <SectionTitle sectionTitle="Nuestra misión" class="wow move-up" />
+        <!-- tab conetent section -->
+        <TabOne />
+      </div>
+    </div>
+    <div
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
+      id="impacto"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo circleValue="07" class="section-space--mb_40" />
+          </div>
+        </div>
+        <SectionTitle sectionTitle="Impacto" class="wow move-up" />
+      </div>
+    </div>
+    <!-- footer section -->
+    <FooterAppShowcase />
 
-		<!-- overlay menu section -->
-		<OverlayMenu/>
-	</div>
+    <!-- overlay menu section -->
+    <OverlayMenu />
+  </div>
 </template>
 
 <script>
-	import HeaderShowcase from "../components/HeaderShowcase";
-	import HeroAppShowcase from "../components/HeroAppShowcase";
-	import BrandLogoCarousel from "../components/BrandLogoCarousel";
-	import FeatureAppShowcase from "../components/FeatureAppShowcase";
-	import Download from "../components/Download";
-	import ThreeStepProcessWrap from "../components/ThreeStepProcessWrap";
-	import AppShowcaseNewsletter from "../components/sections/AppShowcaseNewsletter";
-	import FooterAppShowcase from "../components/FooterAppShowcase";
-	import OverlayMenu from "../components/OverlayMenu";
-
-	export default {
-		name: "app",
-		components: {
-			HeaderShowcase,
-			HeroAppShowcase,
-			BrandLogoCarousel,
-			FeatureAppShowcase,
-			Download,
-			ThreeStepProcessWrap,
-			AppShowcaseNewsletter,
-			FooterAppShowcase,
-			OverlayMenu
-		}
-	};
+import HeaderShowcase from "@/components/HeaderShowcase";
+import Cartas from "@/components/Cartas";
+import HeroAppShowcase from "@/components/HeroAppShowcase";
+import UCDavisUS from "@/components/UCDavisUS";
+import Presentacion from "@/components/Presentacion";
+import RelacionHistorica from "@/components/RelacionHistorica";
+import AppShowcaseNewsletter from "@/components/sections/AppShowcaseNewsletter";
+import FooterAppShowcase from "@/components/FooterAppShowcase";
+import OverlayMenu from "@/components/OverlayMenu";
+import SectionTitle from "@/components/SectionTitle";
+import ChartCircleTwo from "@/components/ChartCircleTwo";
+import TabOne from "../components/TabOne";
+export default {
+  name: "app",
+  components: {
+    HeaderShowcase,
+    Cartas,
+    Cartas,
+    UCDavisUS,
+    HeroAppShowcase,
+    Presentacion,
+    RelacionHistorica,
+    AppShowcaseNewsletter,
+    FooterAppShowcase,
+    OverlayMenu,
+    ChartCircleTwo,
+    SectionTitle,
+    TabOne,
+  },
+};
 </script>
 
