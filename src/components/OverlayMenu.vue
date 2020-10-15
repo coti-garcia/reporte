@@ -72,6 +72,9 @@ export default {
         font-weight: 600;
         letter-spacing: 1px;
         color: $white;
+        @media #{$small-mobile} {
+          font-size: 18px;
+        }
         span {
           color: $white;
         }
@@ -109,6 +112,10 @@ export default {
   }
   &::after {
     transform: rotate(45deg);
+  }
+  @media #{$small-mobile} {
+    top: 20px;
+    right: 30px;
   }
 }
 </style>
