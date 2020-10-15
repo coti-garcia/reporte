@@ -1,15 +1,24 @@
 <template>
   <div
     class="feature-app-showcase section-space--pt_120 section-space--mb_120"
-    id="about"
+    id="presentacion"
   >
     <div class="container">
       <div class="row">
         <div class="col">
-          <ChartCircleTwo circleValue="01" class="section-space--mb_40" />
+          <ChartCircleTwo
+            circleValue="01"
+            class="section-space--mb_40"
+            color="arboretum"
+            sectionProgress="10"
+          />
         </div>
       </div>
-      <SectionTitle sectionTitle="Presentación" class="wow move-up" />
+      <SectionTitle
+        color="arboretum"
+        sectionTitle="Presentación"
+        class="wow move-up"
+      />
     </div>
   </div>
 </template>
@@ -30,5 +39,5 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 </style>

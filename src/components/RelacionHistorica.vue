@@ -1,10 +1,18 @@
 <template>
   <div>
-    <div class="app-showcase-process-wrapper section-space--pt_30" id="service">
+    <div
+      class="app-showcase-process-wrapper section-space--pt_30"
+      id="relacion-historica"
+    >
       <div class="container">
         <div class="row">
           <div class="col">
-            <ChartCircleTwo circleValue="04" class="section-space--mb_40" />
+            <ChartCircleTwo
+              color="pinot"
+              sectionProgress="40"
+              circleValue="04"
+              class="section-space--mb_40"
+            />
           </div>
         </div>
       </div>
@@ -23,7 +31,11 @@
       </div>
     </div>
     <div class="app-showcase-step-wrap">
-      <SectionTitle sectionTitle="Relación histórica" class="wow move-up" />
+      <SectionTitle
+        color="pinot"
+        sectionTitle="Relación histórica"
+        class="wow move-up"
+      />
       <!-- App Showcase Process Step component -->
     </div>
   </div>

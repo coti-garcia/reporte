@@ -10,67 +10,67 @@
           ><span>Home</span></b-nav-item
         >
         <b-nav-item
-          href="#home"
+          href="#presentacion"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Presentación</span></b-nav-item
         >
         <b-nav-item
-          href="#about"
+          href="#cartas"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Cartas de presentación</span></b-nav-item
         >
         <b-nav-item
-          href="#service"
+          href="#uc-devis-us"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>UC Davis EE.UU</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#relacion-historica"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Relación histórica</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#uc-davis-chile"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>UC Davis Chile</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#mision"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Nuestra misión</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#impacto"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Impacto</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#quienes-somos"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Quienes somos</span></b-nav-item
         >
         <b-nav-item
-          href="#contact"
+          href="#areas-trabajo"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Áreas de trabajo UC Davis Chile</span>
         </b-nav-item>
         <b-nav-item
-          href="#contact"
+          href="#alianzas"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
-          ><span>Principales alianzas.</span>
+          ><span>Principales alianzas</span>
         </b-nav-item>
         <b-nav-item
-          href="#contact"
+          href="#proyectos"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Listado de principales proyectos</span>

@@ -4,7 +4,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import VueRouter from 'vue-router'
 import BootstrapVue from 'bootstrap-vue'
 import VueSilentbox from 'vue-silentbox'
-import {VueMasonryPlugin} from 'vue-masonry';
+import { VueMasonryPlugin } from 'vue-masonry';
 import WOW from 'wow.js/dist/wow.js';
 
 Vue.use(VueMasonryPlugin)
@@ -35,7 +35,7 @@ const router = new VueRouter({
 new Vue({
     render: h => h(App),
     router,
-    mounted(){
+    mounted() {
         new WOW().init();
     }
 }).$mount('#app')

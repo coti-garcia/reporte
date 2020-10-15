@@ -27,10 +27,19 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <ChartCircleTwo circleValue="06" class="section-space--mb_40" />
+            <ChartCircleTwo
+              color="strawberry"
+              sectionProgress="54"
+              circleValue="06"
+              class="section-space--mb_40"
+            />
           </div>
         </div>
-        <SectionTitle sectionTitle="Nuestra misión" class="wow move-up" />
+        <SectionTitle
+          color="strawberry"
+          sectionTitle="Nuestra misión"
+          class="wow move-up"
+        />
         <!-- tab conetent section -->
         <TabOne />
       </div>
@@ -42,15 +51,110 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <ChartCircleTwo circleValue="07" class="section-space--mb_40" />
+            <ChartCircleTwo
+              color="poppy"
+              sectionProgress="63"
+              circleValue="07"
+              class="section-space--mb_40"
+            />
           </div>
         </div>
-        <SectionTitle sectionTitle="Impacto" class="wow move-up" />
+        <SectionTitle
+          color="poppy"
+          sectionTitle="Impacto"
+          class="wow move-up"
+        />
       </div>
     </div>
     <!-- footer section -->
-    <FooterAppShowcase />
-
+    <div
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
+      id="quienes-somos"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo
+              color="arboretum"
+              sectionProgress="72"
+              circleValue="08"
+              class="section-space--mb_40"
+            />
+          </div>
+        </div>
+        <SectionTitle
+          color="arboretum"
+          sectionTitle="Quiénes somos"
+          class="wow move-up"
+        />
+      </div>
+    </div>
+    <div
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
+      id="areas-trabajo"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo
+              color="bodega"
+              sectionProgress="81"
+              circleValue="09"
+              class="section-space--mb_40"
+            />
+          </div>
+        </div>
+        <SectionTitle
+          color="bodega"
+          sectionTitle="Áreas de trabajo UC Davis Chile"
+          class="wow move-up"
+        />
+      </div>
+    </div>
+    <div
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
+      id="alianzas"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo
+              color="cabernet"
+              sectionProgress="90"
+              circleValue="10"
+              class="section-space--mb_40"
+            />
+          </div>
+        </div>
+        <SectionTitle
+          color="cabernet"
+          sectionTitle="Principales alianzas"
+          class="wow move-up"
+        />
+      </div>
+    </div>
+    <div
+      class="feature-app-showcase section-space--mb_120 section-space--pb_120"
+      id="proyectos"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <ChartCircleTwo
+              color="pinot"
+              sectionProgress="100"
+              circleValue="11"
+              class="section-space--mb_40"
+            />
+          </div>
+        </div>
+        <SectionTitle
+          color="pinot"
+          sectionTitle="Listado de principales proyectos"
+          class="wow move-up"
+        />
+      </div>
+    </div>
     <!-- overlay menu section -->
     <OverlayMenu />
   </div>

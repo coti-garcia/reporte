@@ -1,5 +1,5 @@
 <template>
-  <div class="newsletter-section section-space--pb_120" id="contact">
+  <div class="newsletter-section section-space--pb_120" id="uc-davis-chile">
     <div class="app-showcase-section__titel">
       <div class="vc_row-separator center_curve top">
         <svg
@@ -17,13 +17,19 @@
             <ChartCircleTwo
               circleValue="05"
               class="section-space--mb_40 section-space--mt_30"
+              color="icing"
+              sectionProgress="50"
             />
           </div>
         </div>
       </div>
     </div>
     <div class="container">
-      <SectionTitle sectionTitle="UC Davis Chile" class="wow move-up" />
+      <SectionTitle
+        color="icing"
+        sectionTitle="UC Davis Chile"
+        class="wow move-up"
+      />
     </div>
   </div>
 </template>

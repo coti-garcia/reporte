@@ -1,18 +1,23 @@
 <template>
   <div
     class="testimonial-slider-area section-space--ptb_120 bg-gray"
-    id="testimonial"
+    id="cartas"
   >
     <div class="container">
       <div class="row">
         <div class="col">
-          <ChartCircleTwo circleValue="02" class="section-space--mb_40" />
+          <ChartCircleTwo
+            circleValue="02"
+            class="section-space--mb_40"
+            color="bodega"
+            sectionProgress="20"
+          />
         </div>
       </div>
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title text-center section-space--mb_60">
-            <h2 class="section-title font-width--light">
+            <h2 class="section-title font-width--light bodega">
               Cartas de presentación
             </h2>
           </div>
@@ -156,9 +161,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-h2 {
-  color: #022851;
-}
 .testimonial-slider__text {
   color: #333;
 }

@@ -3,19 +3,19 @@
     <b-tabs class="ht-tab-menu wow move-up">
       <b-tab title="Objetivos" active>
         <!-- tab content one component -->
-        <TabContentOne />
+        <!-- <TabContentOne /> -->
       </b-tab>
       <b-tab title="Valores">
         <!-- tab content two component -->
-        <TabContentTwo />
+        <!-- <TabContentTwo /> -->
       </b-tab>
       <b-tab title="Misión (Propósito)">
         <!-- tab content third component -->
-        <TabContentThree />
+        <!-- <TabContentThree /> -->
       </b-tab>
       <b-tab title="Visión">
         <!-- tab content one component -->
-        <TabContentOne />
+        <!-- <TabContentOne /> -->
       </b-tab>
     </b-tabs>
   </div>
@@ -35,3 +35,13 @@ export default {
   },
 };
 </script>
+
+<style lang="scss">
+#mision {
+  .ht-tab-menu {
+    .nav-tabs li a.active {
+      background: $strawberry !important;
+    }
+  }
+}
+</style>

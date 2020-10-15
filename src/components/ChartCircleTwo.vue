@@ -5,9 +5,12 @@
         <div class="circle-progress-wrapper">
           <div class="chart-progress">
             <div class="chart-progress__inner-wrapper">
-              <div class="chart-progress__inner chart-progress__inner--blue">
+              <div
+                class="chart-progress__inner chart-progress__inner--blue"
+                :class="color"
+              >
                 <vue-circle
-                  :progress="75"
+                  :progress="sectionProgress"
                   :size="160"
                   line-cap="round"
                   :fill="blue"
@@ -47,16 +50,41 @@ export default {
   },
   props: {
     circleValue: String,
+    color: String,
+    sectionProgress: Number,
   },
 };
 </script>
-<style scoped>
+<style lang="scss" scoped>
+.circle-design--blue {
+  background: $gold;
+}
 .chart-progress__inner--blue {
   background-color: transparent;
-  background-image: url(https://communicationsguide.ucdavis.edu/sites/g/files/dgvnsk6246/files/inline-images/Turquoise.png);
   background-size: 101%;
   background-repeat: no-repeat;
   background-position: center center;
+}
+.chart-progress__inner--blue.strawberry {
+  background-image: url("../assets/img/watercolor/watercolor-strawberry.png");
+}
+.chart-progress__inner--blue.arboretum {
+  background-image: url("../assets/img/watercolor/watercolor-arboretum.png");
+}
+.chart-progress__inner--blue.bodega {
+  background-image: url("../assets/img/watercolor/watercolor-bodega.png");
+}
+.chart-progress__inner--blue.cabernet {
+  background-image: url("../assets/img/watercolor/watercolor-cabernet.png");
+}
+.chart-progress__inner--blue.pinot {
+  background-image: url("../assets/img/watercolor/watercolor-pinot.png");
+}
+.chart-progress__inner--blue.icing {
+  background-image: url("../assets/img/watercolor/watercolor-icing.png");
+}
+.chart-progress__inner--blue.poppy {
+  background-image: url("../assets/img/watercolor/watercolor-poppy.png");
 }
 .app-showcase-progress__title .chart-progress__inner-wrapper {
   padding: 10px;
