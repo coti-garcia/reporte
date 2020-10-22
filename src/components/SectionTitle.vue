@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-h2.font-weight--bold.mb-15.wow.move-up.cabernet {
+h2.cabernet {
   color: $cabernet;
 }
 </style>

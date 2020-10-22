@@ -10,7 +10,7 @@
                 :class="color"
               >
                 <vue-circle
-                  :progress="sectionProgress"
+                  :progress="parseInt(sectionProgress)"
                   :size="160"
                   line-cap="round"
                   :fill="blue"
@@ -48,11 +48,7 @@ export default {
       blue: { gradient: ["#0047BA", "#022851"] },
     };
   },
-  props: {
-    circleValue: String,
-    color: String,
-    sectionProgress: Number,
-  },
+  props: ["circleValue", "color", "sectionProgress"],
 };
 </script>
 <style lang="scss" scoped>

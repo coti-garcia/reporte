@@ -28,7 +28,7 @@ $black: #000000;
 $body-text-color: #7e7e7e;
 $body-font-weight: 400;
 $body-line-height: 1.74;
-$body-font-size: 15px;
+$body-font-size: 17px;
 $body-bg-color: $white;
 
 // Heading Text
@@ -157,4 +157,34 @@ $poppy: #F18A00;
 }
 .poppy{
     color: $poppy;
+}
+.white{
+    color: #FFF;
+}
+.bg-blue {
+    background-color: $blue;
+}
+.bg-gold{
+    background-color: $gold;
+}
+.bg-arboretum{
+    background-color: $arboretum;
+}
+.bg-bodega{
+    background-color: $bodega;
+}
+.bg-carbernet{
+    background-color: $cabernet;
+}
+.bg-pinot{
+    background-color: $pinot;
+}
+.bg-icing{
+    background-color: $icing;
+}
+.bg-strawberry{
+    background-color: $strawberry;
+}
+.bg-poppy{
+    background-color: $poppy;
 }
