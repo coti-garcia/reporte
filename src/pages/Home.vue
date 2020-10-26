@@ -19,7 +19,24 @@
     <RelacionHistorica />
 
     <!-- 5. newsletter section -->
-    <AppShowcaseNewsletter />
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <ChartCircleTwo
+            circleValue="05"
+            class="section-space--mb_40 section-space--mt_30"
+            color="icing"
+            sectionProgress="50"
+          />
+          <SectionTitle
+            color="icing"
+            sectionTitle="UC Davis Chile"
+            class="wow move-up"
+          />
+        </div>
+      </div>
+    </div>
+
     <div
       class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
       id="mision"

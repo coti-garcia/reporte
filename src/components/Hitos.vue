@@ -1,9 +1,8 @@
 <template>
   <div
     class="app-landing--center-slider-wrapper bg-blue section-space--ptb_120"
-    id="gallery"
   >
-    <div class="app-landing-listing-title-wrap drak-area section-space--pb_60">
+    <div class="app-landing-listing-title-wrap drak-area section-space--pt_60">
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
@@ -13,7 +12,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-9 wow move-up">
+          <div class="col-lg-6 wow move-up">
             <ul class="check-list green-check-list section-space--mb_50">
               <li class="list-item">61 premios nobel</li>
               <li class="list-item">
@@ -31,16 +30,15 @@
               <li class="list-item">14 startups creadas entre 2018 y 2019</li>
             </ul>
           </div>
-        </div>
-        <div class="row section-space--pb_60">
-          <div class="col-lg-12">
+
+          <div class="col-lg-3">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>US$8,1</h2>
                 <h5>billones</h5>
               </div>
-              <div class="title-details_two wow move-up">
-                <h2>de contribución anual <br />a la economía de California</h2>
+              <div class="subtitle wow move-up">
+                de contribución anual <br />a la economía de California
               </div>
             </div>
           </div>
@@ -57,4 +55,61 @@ export default {
 </script>
 
 <style lang="scss">
+.app-landing--center-slider-wrapper {
+  transform: skewY(-8deg);
+  .app-landing-listing-title-wrap {
+    transform: skewY(8deg);
+  }
+}
+.app-landing-title-contet {
+  display: flex;
+  flex-direction: column;
+  & .title-details_one {
+    max-width: 287px;
+    width: 100%;
+    & h2 {
+      font-size: 55px;
+      line-height: 1.1;
+      font-weight: 700;
+    }
+    & h5 {
+      font-size: 18px;
+      line-height: 2;
+      letter-spacing: 5px;
+      font-weight: 700;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+  }
+  .subtitle {
+    color: #fff;
+    font-size: 25px;
+  }
+  & .title-details_two {
+    margin-left: 0px;
+  }
+
+  @media #{$tablet-device} {
+    & .title-details_one {
+      margin-bottom: 30px;
+    }
+  }
+  @media #{$small-mobile} {
+    & .title-details_one {
+      text-align: left;
+    }
+    & .title-details_two {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-left: 0px;
+    }
+  }
+  @media #{$large-mobile} {
+    & .title-details_two {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-left: 0px;
+    }
+  }
+}
 </style>

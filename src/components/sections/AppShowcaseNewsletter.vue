@@ -11,25 +11,6 @@
           <path d="M 0 0 Q 50 200 100 0"></path>
         </svg>
       </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <ChartCircleTwo
-              circleValue="05"
-              class="section-space--mb_40 section-space--mt_30"
-              color="icing"
-              sectionProgress="50"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <SectionTitle
-        color="icing"
-        sectionTitle="UC Davis Chile"
-        class="wow move-up"
-      />
     </div>
   </div>
 </template>

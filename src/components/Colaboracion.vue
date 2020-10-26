@@ -13,7 +13,7 @@
               >
                 <div class="payment-process-step__media text-center">
                   <img
-                    src="http://via.placeholder.com/1500x1000"
+                    src="../assets/img/extension.jpg"
                     alt=""
                     class="img-fluid"
                   />
@@ -25,9 +25,9 @@
               >
                 <div class="payment-process-step__content float-md-right">
                   <div class="payment-process__inner">
-                    <h4 class="font-weight--blod section-space--mb_40">
+                    <h2 class="font-weight--blod section-space--mb_40">
                       Colaboración y extensionismo
-                    </h4>
+                    </h2>
                     <div class="sub-text section-space--mb_20">
                       Desde sus inicios, UC Davis trabaja en conjunto con
                       instituciones públicas y privadas y pone énfasis en la
@@ -107,7 +107,13 @@ export default {
     margin-bottom: 30px;
     padding-top: 0;
     span {
-      line-height: 1;
+      line-height: 1.1;
+      font-weight: 700;
+    }
+    h6 {
+      margin-top: 10px;
+      font-size: 15px;
+      line-height: 1.4;
     }
     &::before {
       display: none;

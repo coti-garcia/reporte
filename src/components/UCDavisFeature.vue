@@ -5,24 +5,64 @@
         <div class="col-lg-6 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
-              <div class="section-title">
-                <h4>
-                  Fundada en 1908, UC Davis es una de las universidades públicas
-                  más importantes del mundo, con una reconocida trayectoria en
-                  docencia e investigación en campos como salud humana,
-                  veterinaria, agricultura y ciencias ambientales.
-                </h4>
+              <h4>
+                Fundada en 1908, UC Davis es una de las universidades públicas
+                más importantes del mundo, con una reconocida trayectoria en
+                docencia e investigación en campos como salud humana,
+                veterinaria, agricultura y ciencias ambientales.
+              </h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 wow move-up">
+          <div class="feature-app-landing__wrap">
+            <div class="feature-app-landing__inner">
+              <div class="feature-app-landing__content">
+                <h5 class="heading mb-10">
+                  <span class="big-num arboretum">4</span> Colleges
+                </h5>
+                <div class="text">
+                  <ul>
+                    <li>Agricultura y Ciencias medioambientales</li>
+                    <li>Ciencias biológicas</li>
+                    <li>Ingeniería</li>
+                    <li>Letras y Ciencia</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 wow move-up">
+        <div class="col-lg-3 col-md-6 wow move-up">
+          <div class="feature-app-landing__wrap">
+            <div class="feature-app-landing__inner">
+              <div class="feature-app-landing__content">
+                <h5 class="heading mb-10">
+                  <span class="big-num arboretum">6</span> Facultades
+                </h5>
+                <div class="text">
+                  <ul>
+                    <li>Educación</li>
+                    <li>Leyes</li>
+                    <li>Administración</li>
+                    <li>Leyes</li>
+                    <li>Medicina</li>
+                    <li>Medicina veterinaria</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__icon">
-                <div class="icon">
-                  <i class="fa fa-arrow-alt-to-bottom"></i>
-                </div>
+                <img
+                  src="../assets/img/icons/001-rank.svg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
               <div class="feature-app-landing__content">
                 <h5 class="heading mb-10">Rankings</h5>
@@ -46,60 +86,15 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 wow move-up">
+        <div class="col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__icon">
-                <div class="icon">
-                  <i class="fa fa-bell"></i>
-                </div>
-              </div>
-              <div class="feature-app-landing__content">
-                <h5 class="heading mb-10">4 Colleges</h5>
-                <div class="text">
-                  <ul>
-                    <li>Agricultura y Ciencias medioambientales</li>
-                    <li>Ciencias biológicas</li>
-                    <li>Ingeniería</li>
-                    <li>Letras y Ciencia</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-6 wow move-up">
-          <div class="feature-app-landing__wrap">
-            <div class="feature-app-landing__inner">
-              <div class="feature-app-landing__icon">
-                <div class="icon">
-                  <i class="fa fa-rocket"></i>
-                </div>
-              </div>
-              <div class="feature-app-landing__content">
-                <h5 class="heading mb-10">6 Facultades</h5>
-                <div class="text">
-                  <ul>
-                    <li>Educación</li>
-                    <li>Leyes</li>
-                    <li>Administración</li>
-                    <li>Leyes</li>
-                    <li>Medicina</li>
-                    <li>Medicina veterinaria</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 col-md-6 wow move-up">
-          <div class="feature-app-landing__wrap">
-            <div class="feature-app-landing__inner">
-              <div class="feature-app-landing__icon">
-                <div class="icon">
-                  <i class="fa fa-bolt"></i>
-                </div>
+                <img
+                  src="../assets/img/icons/002-diploma.svg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
               <div class="feature-app-landing__content">
                 <h5 class="heading mb-10">Carreras</h5>
@@ -123,13 +118,15 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-md-6 wow move-up">
+        <div class="col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__icon">
-                <div class="icon">
-                  <i class="fa fa-mobile-alt"></i>
-                </div>
+                <img
+                  src="../assets/img/icons/003-cap.svg"
+                  class="img-fluid"
+                  alt=""
+                />
               </div>
               <div class="feature-app-landing__content">
                 <h5 class="heading mb-10">Estudiantes y profesores</h5>
@@ -158,13 +155,32 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.section-title {
-  h4 {
-    font-size: 32px;
-    line-height: 1.3;
-  }
+h4 {
+  line-height: 1.4;
+  font-size: 30px;
+  font-weight: 300;
 }
+
 .heading {
   font-weight: bold;
+}
+.big-num {
+  font-size: 80px;
+  display: block;
+}
+.feature-app-landing__icon {
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .feature-app-landing__icon {
+    line-height: 0;
+    img {
+      width: 50px;
+    }
+  }
 }
 </style>

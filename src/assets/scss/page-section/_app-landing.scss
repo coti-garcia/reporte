@@ -8,7 +8,7 @@
     &__wrap {
         max-width: 500px;
         width: 100%;
-        margin-left: 100px;
+        
         padding-left: 15px;
         padding-right: 15px;
         @media #{$desktop-device}{
@@ -97,57 +97,6 @@
     background: #33237A;
 }
 
-
-.app-landing-title-contet {
-    display: flex;
-    & .title-details_one {
-        max-width: 287px;
-        width: 100%;
-        text-align: center;
-        & h2 {
-            font-size: 76px;
-            line-height: 1.1;
-            font-weight: 700;
-        }
-        & h5 {
-            font-size: 18px;
-            line-height: 2;
-            letter-spacing: 5px;
-            font-weight: 500;
-            text-transform: uppercase;
-        }
-    }
-    
-    & .title-details_two {
-        margin-left: 30px;
-    }
-    
-    @media #{$tablet-device}{ 
-        & .title-details_one {
-            margin-bottom: 30px;
-        }
-    }
-    @media #{$small-mobile}{
-        flex-direction: column;
-        & .title-details_one {
-            text-align: left;
-        }
-        & .title-details_two {
-            margin-top: 30px;
-            margin-bottom: 30px;
-            margin-left: 0px;
-        }
-    }
-    @media #{$large-mobile}{ 
-        & .title-details_two {
-            margin-top: 30px;
-            margin-bottom: 30px;
-            margin-left: 0px;
-        }
-    }
-    
-    
-}
 
 .app-landing-listing-title-wrap {
     &.section-space--pb_60 {
