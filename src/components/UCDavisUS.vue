@@ -1,6 +1,6 @@
 <template>
   <div
-    class="feature-app-landing bg-cabernet section-space--pt_120 section-space--mb_120"
+    class="feature-app-landing bg-cabernet section-space--pt_120"
     id="uc-devis-us"
   >
     <div class="container-fluid">

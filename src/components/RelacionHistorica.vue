@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section-space--pt_30 bg-gray" id="relacion-historica">
+    <div class="section-space--ptb_120 bg-gray" id="relacion-historica">
       <div class="container">
         <div class="row">
           <div class="col">

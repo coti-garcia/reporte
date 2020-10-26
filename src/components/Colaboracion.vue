@@ -15,6 +15,11 @@
                   <img
                     src="../assets/img/extension.jpg"
                     alt=""
+                    class="img-fluid mb-3"
+                  />
+                  <img
+                    src="../assets/img/extension-2.jpg"
+                    alt=""
                     class="img-fluid"
                   />
                 </div>
