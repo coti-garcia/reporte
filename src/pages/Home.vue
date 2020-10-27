@@ -18,8 +18,8 @@
     <!-- 4. three step process -->
     <RelacionHistorica />
 
-    <!-- 5. newsletter section -->
-    <div class="container">
+    <!-- 5. UC Davis Chile -->
+    <div class="container section-space--ptb_120">
       <div class="row">
         <div class="col-lg-12">
           <ChartCircleTwo
@@ -37,30 +37,7 @@
       </div>
     </div>
 
-    <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
-      id="mision"
-    >
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <ChartCircleTwo
-              color="strawberry"
-              sectionProgress="54"
-              circleValue="06"
-              class="section-space--mb_40"
-            />
-          </div>
-        </div>
-        <SectionTitle
-          color="strawberry"
-          sectionTitle="Nuestra misión"
-          class="wow move-up"
-        />
-        <!-- tab conetent section -->
-        <TabOne />
-      </div>
-    </div>
+    <NuestraMision />
     <div
       class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
       id="impacto"
@@ -189,7 +166,7 @@ import FooterAppShowcase from "@/components/FooterAppShowcase";
 import OverlayMenu from "@/components/OverlayMenu";
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
-import TabOne from "../components/TabOne";
+import NuestraMision from "@/components/NuestraMision";
 export default {
   name: "app",
   components: {
@@ -205,7 +182,7 @@ export default {
     OverlayMenu,
     ChartCircleTwo,
     SectionTitle,
-    TabOne,
+    NuestraMision,
   },
 };
 </script>

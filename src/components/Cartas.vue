@@ -168,15 +168,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.intro {
-  font-size: 22px;
-  max-width: 800px;
-  margin-bottom: 30px;
-}
 .testimonial-slider__text {
   color: #333;
   column-count: 2;
   column-gap: 60px;
+  p {
+    font-size: 16px;
+  }
   @media #{$large-mobile} {
     column-count: 1;
   }

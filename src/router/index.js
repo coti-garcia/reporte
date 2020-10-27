@@ -48,6 +48,11 @@ export const routes = [
         component: HomeSass
     },
     {
+        path: '/branding',
+        name: 'Branding',
+        component: HomeBranding
+    },
+    {
         path: '/software',
         name: 'HomeSoftware',
         component: HomeSoftware
