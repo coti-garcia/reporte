@@ -22,6 +22,7 @@
                     alt=""
                     class="img-fluid"
                   />
+                  <div class="circle"></div>
                 </div>
               </div>
               <div
@@ -123,6 +124,36 @@ export default {
     &::before {
       display: none;
     }
+  }
+}
+.payment-process-step__media {
+  &::before {
+    display: block;
+    content: "";
+    background: $gold;
+    width: 4px;
+    height: 220px;
+    position: absolute;
+    bottom: -50px;
+  }
+  &::after {
+    display: block;
+    content: "";
+    background: $gold;
+    width: 4px;
+    height: 220px;
+    position: absolute;
+    top: -50px;
+    right: 15px;
+  }
+  .circle {
+    border: dotted 3px $arboretum;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 120px;
+    left: -40px;
   }
 }
 </style>

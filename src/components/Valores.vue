@@ -4,7 +4,10 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="section-title-wrapper section-space--mb_60">
-            <h3 class="font-weight--light text-black">{{ sectionTitle }}</h3>
+            <div class="sub__title mb-20">
+              <h6 class="font-weight--blod">Valores</h6>
+            </div>
+            <h3 class="font-weight--light">{{ sectionTitle }}</h3>
           </div>
         </div>
         <div class="col-lg-8 mtn-30">

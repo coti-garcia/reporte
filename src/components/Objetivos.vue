@@ -1,0 +1,74 @@
+<template>
+  <div class="row section-space--pt_60">
+    <div class="col-10 objetivos-top">
+      <div class="sub__title mb-20">
+        <h6 class="font-weight--blod">Objetivos</h6>
+      </div>
+      <p>
+        UC Davis Chile quiere ser un aliado estratégico del sector
+        agroalimentario y medioambiental chileno, con el propósito de
+        transformar su investigación en soluciones para la industria y la
+        sociedad con impacto económico y social a nivel nacional, regional y
+        global. Este espíritu se ve reflejado en nuestros objetivos:
+      </p>
+    </div>
+    <div v-for="item in items" :key="item.id" class="col-lg-6 col-md-12 mb-25">
+      <div class="ht-service-box--three">
+        <div class="service-box-wrap">
+          <div class="image__media">
+            <img :src="item.icon" class="img-fluid" alt="Icon" />
+          </div>
+          <div class="content">
+            <div class="service_text">{{ item.text }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "Objetivos",
+  data() {
+    return {
+      items: [
+        {
+          icon: require("../assets/img/illustration_example.png"),
+          text:
+            "Crear una plataforma para el desarrollo de investigación colaborativa entre investigadores de Chile y California, capaz de generar innovaciones que impacten la competitividad del sector agroalimentario chileno.",
+        },
+        {
+          icon: require("../assets/img/illustration_example_2.png"),
+          text:
+            "Provocar procesos efectivos de transferencia tecnológica desde UC Davis hacia la industria chilena, ya sea a partir de desarrollos actualmente disponibles en Davis, como de los resultados de la I+D que se genere con los socios chilenos.",
+        },
+        {
+          icon: require("../assets/img/illustration_example_2.png"),
+          text:
+            "Vincular a instituciones chilenas con los programas de formación y generación de capacidades para el desarrollo de investigación aplicada orientada a entregar valor e innovación al sector agroalimentario.",
+        },
+        {
+          icon: require("../assets/img/illustration_example.png"),
+          text:
+            "Contribuir al desarrollo y fortalecimiento del sistema de extensión agroalimentario en Chile.",
+        },
+      ],
+    };
+  },
+};
+</script>
+<style lang="scss" scoped>
+.objetivos-top {
+  p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+}
+.image__media {
+  max-width: 185px;
+  img {
+    max-width: 100%;
+  }
+}
+</style>

@@ -3,7 +3,7 @@
     <b-tabs class="ht-tab-menu">
       <b-tab title="Objetivos" active>
         <!-- tab content one component -->
-        <!-- <TabContentOne /> -->
+        <Objetivos />
       </b-tab>
       <b-tab title="Valores">
         <!-- tab content two component -->
@@ -46,11 +46,11 @@
       <b-tab title="Visión">
         <div class="clinic-work-process-step section-space--pt_90">
           <div class="row">
-            <div class="col-lg-6 order-lg-1 order-2 wow move-up">
+            <div class="col-lg-6 order-lg-1 order-2">
               <div class="clinic-work-process-step__content">
                 <div class="app-showcase__inner">
                   <div class="sub__title mb-20">
-                    <h6 class="font-weight--blod">Visión</h6>
+                    <h6 class="vision font-weight--blod">Visión</h6>
                   </div>
                   <h4 class="font-weight--bold">
                     Ser líder en Latinoamérica en investigación aplicada y
@@ -60,7 +60,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-5 order-lg-2 order-1 wow move-up">
+            <div class="col-lg-5 order-lg-2 order-1">
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
                   src="../assets/img/features/aeroland-clinic-image-02.png"
@@ -81,6 +81,7 @@ import TabContentOne from "@/components/TabContentOne";
 import TabContentTwo from "@/components/TabContentTwo";
 import TabContentThree from "@/components/TabContentThree";
 import Valores from "@/components/Valores";
+import Objetivos from "@/components/Objetivos";
 
 export default {
   name: "TabOne",
@@ -88,6 +89,7 @@ export default {
     TabContentOne,
     TabContentTwo,
     TabContentThree,
+    Objetivos,
     Valores,
   },
 };
@@ -104,6 +106,19 @@ export default {
     p {
       font-size: 18px;
     }
+  }
+  .sub__title {
+    h6 {
+      color: $strawberry;
+      font-size: 15px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      line-height: 1.34;
+    }
+  }
+  .vision {
+    font-size: 25px;
+    line-height: 1.4;
   }
 }
 </style>
