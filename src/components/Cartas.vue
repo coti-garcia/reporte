@@ -25,7 +25,7 @@
             <div class="swiper-container testimonial-slider__container">
               <div class="swiper-wrapper testimonial-slider__wrapper">
                 <swiper :options="swiperOption">
-                   <div class="swiper-slide">
+                  <div class="swiper-slide">
                     <div class="testimonial-slider__one option-one">
                       <div class="row">
                         <div class="col-md-4">
@@ -72,6 +72,44 @@
                     </div>
                   </div>
                   <div class="swiper-slide">
+                    <div class="testimonial-slider__one option-one">
+                      <div class="row">
+                        <div class="col-md-4">
+                          <div class="testimonial-slider-side-info">
+                  
+                              <img
+                                src="../assets/img/team/Lovell_Tu_Jarvis.jpg"
+                                class="img-fluid"
+                                alt=""
+                              />
+    
+                            <div class="testimonial-slider__author">
+                                <h6 class="bodega">  Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo architecto enim fugiat placeat praesentium ratione necessitatibus ipsum repellendus nemo dicta sint.</h6>
+                              <h6 class="name bodega">Lovell “Tu” Jarvis</h6>
+                              <div class="designation">Director Ejecutivo
+                              </div>
+                              <div class="designation">
+                                  UC Davis Chile
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-4 text-carta">
+                          <p>La Universidad de California, Davis, es una de las grandes universidades públicas de Estados Unidos, dedicada a entregar una educación, investigación y servicio de primera a la sociedad.  UC Davis tiene una larga y fructífera trayectoria de colaboración con instituciones chilenas.  Por ejemplo, un gran número de científicos chilenos de las plantas estudiaron en UC Davis en los años sesenta.  Al regresar a Chile, estos científicos desempeñaron un papel clave en el desarrollo de la industria chilena de la fruta fresca, convirtiéndola en la potencia que es hoy.  Las conexiones que el sector agrícola chileno forjó con UC Davis en aquel momento siguen vigentes y hoy están cada vez más activas. </p>
+                          <p>UC Davis creó el Centro de Innovación de las Ciencias de la Vida (también conocido como Centro UC Davis Chile) en 2014, con la asistencia de CORFO y con el fin de realizar investigaciones innovadoras y lograr la transferencia de tecnología en colaboración con socios académicos e industriales de Chile. El Centro facilita el acceso de los chilenos a la experiencia y los conocimientos de California, los cuales a menudo son muy relevantes para Chile debido a las muchas similitudes entre las dos regiones, por ejemplo, en términos de su geografía, clima, industrias, sociedad, y universidades.  A menudo los descubrimientos científicos y las nuevas tecnologías desarrolladas en California son aplicables a Chile con relativamente pocos ajustes, y viceversa.  Aprendemos y nos beneficiamos el uno del otro.  </p>
+                          <p>El Centro UC Davis Chile busca soluciones que beneficien a los productores y consumidores de Chile a través de la creación de nuevas tecnologías y mejores políticas públicas. Trabajamos estrechamente con órganos del gobierno chileno y colaboramos con socios universitarios chilenos.   </p>
+                        </div>
+                        <div class="col-md-4 text-carta">
+                          <p>Con un enfoque en la agricultura y el medio ambiente, el Centro ha contribuido al bienestar de Chile a través de muchos proyectos, como mejorar la genómica de las plantas, el control de enfermedades y la perfección de la gestión de riego en viñedos; el desarrollo de un programa de extensión exitoso para productores de vino pequeños y medianos, y la creación de un sitio de web de extensión integral del vino.  En otro proyecto, el Centro está desarrollando un sitio web público para informar a los usuarios sobre la disponibilidad de agua en una cuenca importante. En otro proyecto más estamos desarrollando modelos matemáticos para demostrar el impacto de los contaminantes y el cambio climático sobre la calidad del agua lacustre, entregando la información necesaria a los formuladores de políticas para diseñar políticas públicas que sostengan estos ambientes lacustres en el tiempo. </p>
+                          <p>Más recientemente, trabajando con agencias gubernamentales adicionales y a través de mayores lazos con universidades chilenas, hemos ampliado las colaboraciones en áreas como la gestión de la calidad del aire, la infraestructura pública para apoyar la adopción de vehículos eléctricos y de hidrógeno, mayores beneficios de la telemedicina, la adopción de tecnología de iluminación mejorada, y el aumento de ahorros a través de un enfoque en la economía circular.  </p>
+                          <p>El Centro UC Davis Chile está desarrollando colaboraciones académico-científicas que contribuyen al desarrollo económico y social de Chile.   Estamos encantados de estar en Chile.  Esperamos ampliar nuestras colaboraciones y contribuciones mutuamente beneficiosas en los próximos años.   </p>
+                          <p>Sinceramente, <br />Lovell “Tu” Jarvis</p>
+                        </div>
+                      </div>  
+                    </div>
+                  </div>
+                  <!--
+                  <div class="swiper-slide">
                     <div class="testimonial-slider__one option-two">
                       <div class="intro bodega">
                         Este documento es una pausa en el camino para
@@ -113,50 +151,7 @@
                           </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonial-slider__one option-two">
-                      <div class="testimonial-slider__text">
-                        Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                        sed diam nonumy eirmod tempor invidunt ut labore et
-                        dolore magna aliquyam erat, sed diam voluptua. At vero
-                        eos et accusam et justo duo dolores et ea rebum. Stet
-                        clita kasd gubergren, no sea takimata sanctus est Lorem
-                        ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-                        consetetur sadipscing elitr, sed diam nonumy eirmod
-                        tempor invidunt ut labore et dolore magna aliquyam erat,
-                        sed diam voluptua. At vero eos et accusam et justo duo
-                        dolores et ea rebum. Stet clita kasd gubergren, no sea
-                        takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-                        ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                        diam nonumy eirmod tempor invidunt ut labore et dolore
-                        magna aliquyam erat, sed diam voluptua. At vero eos et
-                        accusam et justo duo dolores et ea rebum. Stet clita
-                        kasd gubergren, no sea takimata sanctus est Lorem ipsum
-                        dolor sit amet.Stet clita kasd gubergren, no sea
-                        takimata sanctus est Lorem ipsum dolor sit amet. Lorem
-                        ipsum dolor sit amet, consetetur sadipscing elitr, sed
-                        diam nonumy eirmod tempor invidunt ut labore et dolore
-                        magna aliquyam erat, sed diam voluptua. At vero eos et
-                        accusam et justo duo dolores et ea rebum. Stet clita
-                        kasd gubergren, no sea takimata sanctus est Lorem ipsum
-                        dolor sit amet.”
-                      </div>
-                      <div class="testimonial-slider--info">
-                        <div class="post-thumbnail">
-                          <img
-                            src="http://via.placeholder.com/500x500"
-                            class="img-fluid"
-                            alt=""
-                          />
-                        </div>
-                        <div class="testimonial-slider__author">
-                          <h6 class="name">Tu Jarvis</h6>
-                          <span class="designation">CARGO</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  </div>-->
                 </swiper>
               </div>
             </div>
