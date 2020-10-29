@@ -182,7 +182,7 @@ export default {
         slidesPerView: 1,
         spaceBetween: 30,
         pagination: {
-          el: ".swiper-pagination",
+          el: ".swiper-pagination-1",
           clickable: true,
         },
         breakpoints: {

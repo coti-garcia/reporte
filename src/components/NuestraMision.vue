@@ -1,6 +1,6 @@
 <template>
   <div
-    class="feature-app-showcase section-space--ptb_120 section-space--mb_120 section-space--pb_120 bg-gray"
+    class="feature-app-showcase section-space--ptb_120 section-space--mb_120 section-space--pb_120"
     id="mision"
   >
     <div class="container">

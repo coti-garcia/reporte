@@ -19,7 +19,7 @@
     <RelacionHistorica />
 
     <!-- 5. UC Davis Chile -->
-    <div class="container section-space--ptb_120">
+    <div class="container-fluid section-space--ptb_120 bg-gray">
       <div class="row">
         <div class="col-lg-12">
           <ChartCircleTwo
@@ -39,7 +39,7 @@
 
     <NuestraMision />
     <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
       id="impacto"
     >
       <div class="container">
@@ -61,30 +61,9 @@
       </div>
     </div>
     <!-- footer section -->
+    <QuienesSomos />
     <div
       class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
-      id="quienes-somos"
-    >
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <ChartCircleTwo
-              color="arboretum"
-              sectionProgress="72"
-              circleValue="08"
-              class="section-space--mb_40"
-            />
-          </div>
-        </div>
-        <SectionTitle
-          color="arboretum"
-          sectionTitle="Quiénes somos"
-          class="wow move-up"
-        />
-      </div>
-    </div>
-    <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
       id="areas-trabajo"
     >
       <div class="container">
@@ -106,7 +85,7 @@
       </div>
     </div>
     <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
+      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
       id="alianzas"
     >
       <div class="container">
@@ -167,6 +146,7 @@ import OverlayMenu from "@/components/OverlayMenu";
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import NuestraMision from "@/components/NuestraMision";
+import QuienesSomos from "@/components/QuienesSomos";
 export default {
   name: "app",
   components: {
@@ -182,6 +162,7 @@ export default {
     OverlayMenu,
     ChartCircleTwo,
     SectionTitle,
+    QuienesSomos,
     NuestraMision,
   },
 };
