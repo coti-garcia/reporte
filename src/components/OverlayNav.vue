@@ -6,9 +6,6 @@
       id="nav_collapse"
     >
       <b-navbar-nav class="navbar-nav d-block overlay-nav">
-        <b-nav-item to="/" @click="toggleClass('removeClass', 'active')"
-          ><span>Home</span></b-nav-item
-        >
         <b-nav-item
           href="#presentacion"
           class="scroll"
@@ -55,7 +52,7 @@
           href="#quienes-somos"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
-          ><span>Quienes somos</span></b-nav-item
+          ><span>Quiénes somos</span></b-nav-item
         >
         <b-nav-item
           href="#areas-trabajo"

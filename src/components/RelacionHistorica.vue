@@ -74,6 +74,14 @@
         <!-- product overview -->
       </div>
       <ShowcaseRelacionHistorica />
+      <div class="container">
+        <div class="row icon-process-area section-space--ptb_120">
+          <div class="col-lg-12">
+            <h3 class="pinot text-center">Hitos desde los años 60 hasta hoy</h3>
+            <Gradation />
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -84,6 +92,7 @@ import SectionTitle from "../components/SectionTitle";
 import ThreeStepProcess from "../components/ThreeStepProcess";
 import AppShowcaseProcessStep from "../components/AppShowcaseProcessStep";
 import ShowcaseRelacionHistorica from "@/components/ShowcaseRelacionHistorica.vue";
+import Gradation from "../components/Gradation";
 export default {
   name: "RelacionHistorica",
   components: {
@@ -92,6 +101,7 @@ export default {
     ThreeStepProcess,
     AppShowcaseProcessStep,
     ShowcaseRelacionHistorica,
+    Gradation,
   },
 };
 </script>
@@ -99,5 +109,10 @@ export default {
 <style lang="scss" scoped>
 .app-showcase-step-wrap {
   height: 500px;
+}
+.icon-process-area {
+  h3 {
+    padding-bottom: 60px;
+  }
 }
 </style>
