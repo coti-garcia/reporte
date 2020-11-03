@@ -180,49 +180,55 @@ export default {
           id: 10,
           image: require("@/assets/img/projects/10/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "Estrategias de mitigación con énfasis en control biológico de enfermedades de la madera de la vid",
           category: "Endófitos",
         },
         {
           id: 11,
           image: require("@/assets/img/projects/11/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "Diseño de un Modelo de Gestión para los Centros de Investigación e Innovación de la Escuela Superior Politécnica del Litoral - Ecuador",
           category: "ESPOL",
         },
         {
           id: 12,
           image: require("@/assets/img/projects/12/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "HUB de Comercialización y Transferencia de Tecnologías para las Américas, Experiencia Chile",
           category: "HUB OEA",
         },
         {
           id: 13,
           image: require("@/assets/img/projects/13/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
-          category: "Kit Lamp",
+          overlayTitle:
+            "Estrategias de mitigación con énfasis en control biológico de enfermedades de la madera de la vid",
+          category: "Diagnóstico Lamp",
         },
         {
           id: 14,
           image: require("@/assets/img/projects/14/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
-          category: "Maleza de tomates",
+          overlayTitle:
+            "Modelo de control integrado para Phelipanche ramosa en cultivo de tomate industrial en Chile.",
+          category: "Orobanche - Sugal",
         },
         {
           id: 15,
           image: require("@/assets/img/projects/15/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
-          category: "Marcadores de calidad",
+          overlayTitle:
+            "Modelo de predicción de calidad de uva cv. Cabernet Sauvignon, a partir de mediciones químicas de marcadores tradicionales y técnicas de espectrofotometría",
+          category: "ID Modelo de calidad",
         },
         {
           id: 16,
           image: require("@/assets/img/projects/16/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle: "Prototipo de recarga artificial de aguas subterráneas",
           category: "Infiltración de acuíferos",
         },
         {
@@ -250,7 +256,8 @@ export default {
           id: 20,
           image: require("@/assets/img/projects/20/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "Determinación de presencia de virus y hongos de la madera en vides.",
           category: "Plant pathogens detection",
         },
       ],
