@@ -16,7 +16,7 @@
             <div class="col-lg-6">
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
-                  src="http://via.placeholder.com/800x500?text=%22illustracion%22"
+                  src="@/assets/img/mision.jpg"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -63,7 +63,7 @@
             <div class="col-lg-5 order-lg-2 order-1">
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
-                  src="http://via.placeholder.com/800x500?text=%22illustracion%22"
+                  src="@/assets/img/vision.jpg"
                   class="img-fluid"
                   alt="thumbnail"
                 />

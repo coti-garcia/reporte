@@ -34,22 +34,22 @@ export default {
     return {
       items: [
         {
-          icon: require("../assets/img/illustration_example.png"),
+          icon: require("../assets/img/student_illustration.png"),
           text:
             "Crear una <strong >plataforma para el desarrollo de investigación colaborativa</strong> entre investigadores de Chile y California, capaz de generar innovaciones que impacten la competitividad del sector agroalimentario chileno.",
         },
         {
-          icon: require("../assets/img/illustration_example_2.png"),
+          icon: require("../assets/img/water_tower_illustration.png"),
           text:
             "Provocar procesos efectivos de <strong>transferencia tecnológica desde UC Davis hacia la industria chilena</strong>, ya sea a partir de desarrollos actualmente disponibles en Davis, como de los resultados de la I+D que se genere con los socios chilenos.",
         },
         {
-          icon: require("../assets/img/illustration_example_2.png"),
+          icon: require("../assets/img/egg_illustration.png"),
           text:
             "<strong>Vincular a instituciones chilenas con los programas de formación y generación de capacidades</strong> para el desarrollo de investigación aplicada orientada a entregar valor e innovación al sector agroalimentario.",
         },
         {
-          icon: require("../assets/img/illustration_example.png"),
+          icon: require("../assets/img/tree_illustration.png"),
           text:
             "Contribuir al desarrollo y fortalecimiento del <strong>sistema de extensión agroalimentario</strong> en Chile.",
         },
