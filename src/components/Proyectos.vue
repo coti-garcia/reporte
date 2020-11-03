@@ -235,22 +235,25 @@ export default {
           id: 17,
           image: require("@/assets/img/projects/17/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "Plataforma de Bioproductos para la Región de Arica y Parinacota",
           category: "Proyecto Arica",
         },
         {
           id: 18,
           image: require("@/assets/img/projects/18/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
+          overlayTitle:
+            "Sistema de Soporte Dinámico de Decisión para una Gestión de Riego Sustentable",
           category: "Surface Renewal",
         },
         {
           id: 19,
           image: require("@/assets/img/projects/19/01.jpg"),
           alt: "proyecto image",
-          overlayTitle: "Electric Vehicle Invention",
-          category: "Telemedicina",
+          overlayTitle:
+            "“Lineamientos para el desarrollo de la Telemedicina y Telesalud en Chile”. Bien Público Estratégico financiado con aportes del Fondo de Innovación para la Competitividad InnovaChile Corfo (2018-2021)",
+          category: "Bien Público Telemedicina",
         },
         {
           id: 20,
