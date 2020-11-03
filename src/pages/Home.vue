@@ -37,7 +37,10 @@
       </div>
     </div>
 
+    <!-- 6. Nuestra Mision -->
     <NuestraMision />
+
+    <!-- 7. Impacto -->
     <div
       class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
       id="impacto"
@@ -60,74 +63,16 @@
         />
       </div>
     </div>
-    <!-- footer section -->
+
+    <!-- 8. Quienes somos -->
     <QuienesSomos />
-    <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120 bg-gray"
-      id="areas-trabajo"
-    >
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <ChartCircleTwo
-              color="bodega"
-              sectionProgress="81"
-              circleValue="09"
-              class="section-space--mb_40"
-            />
-          </div>
-        </div>
-        <SectionTitle
-          color="bodega"
-          sectionTitle="Áreas de trabajo UC Davis Chile"
-          class="wow move-up"
-        />
-      </div>
-    </div>
-    <div
-      class="feature-app-showcase section-space--pt_120 section-space--mb_120 section-space--pb_120"
-      id="alianzas"
-    >
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <ChartCircleTwo
-              color="cabernet"
-              sectionProgress="90"
-              circleValue="10"
-              class="section-space--mb_40"
-            />
-          </div>
-        </div>
-        <SectionTitle
-          color="cabernet"
-          sectionTitle="Principales alianzas"
-          class="wow move-up"
-        />
-      </div>
-    </div>
-    <div
-      class="feature-app-showcase section-space--mb_120 section-space--pb_120"
-      id="proyectos"
-    >
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <ChartCircleTwo
-              color="pinot"
-              sectionProgress="100"
-              circleValue="11"
-              class="section-space--mb_40"
-            />
-          </div>
-        </div>
-        <SectionTitle
-          color="pinot"
-          sectionTitle="Listado de principales proyectos"
-          class="wow move-up"
-        />
-      </div>
-    </div>
+
+    <!-- 9. Areas de trabajo -->
+    <AreasTrabajo />
+
+    <!-- 10. Proyectos -->
+
+    <Proyectos />
     <!-- overlay menu section -->
     <OverlayMenu />
   </div>
@@ -147,6 +92,8 @@ import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import NuestraMision from "@/components/NuestraMision";
 import QuienesSomos from "@/components/QuienesSomos";
+import AreasTrabajo from "@/components/AreasTrabajo.vue";
+import Proyectos from "@/components/Proyectos.vue";
 export default {
   name: "app",
   components: {
@@ -164,6 +111,8 @@ export default {
     SectionTitle,
     QuienesSomos,
     NuestraMision,
+    AreasTrabajo,
+    Proyectos,
   },
 };
 </script>

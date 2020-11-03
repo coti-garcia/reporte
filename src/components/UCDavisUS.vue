@@ -16,7 +16,7 @@
       </div>
       <SectionTitle
         color="white"
-        sectionTitle="Universidad de California Davis "
+        sectionTitle="UC Davis EE. UU."
         class="wow move-up"
       />
     </div>

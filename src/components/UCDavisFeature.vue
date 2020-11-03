@@ -176,11 +176,9 @@ h4 {
   display: flex;
   align-items: center;
   justify-content: center;
-  .feature-app-landing__icon {
-    line-height: 0;
-    img {
-      width: 50px;
-    }
+  line-height: 0;
+  .img-fluid {
+    width: 50px;
   }
 }
 </style>
