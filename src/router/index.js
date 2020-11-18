@@ -35,6 +35,7 @@ import PortfolioDetailsTwo from '../pages/portfolio/PortfolioDetailsTwo'
 import BlogListLargeImage from '../pages/blog/BlogListLargeImage'
 import BlogDetails from '../pages/blog/BlogDetails'
 import NotFound from '../pages/elements/404'
+import ProjectOne from '../pages/projects/Project01'
 
 export const routes = [
     {
@@ -221,5 +222,10 @@ export const routes = [
         path: '*',
         name: 'NotFound',
         component: NotFound
+    },
+    {
+        path: '/project-01',
+        name: 'ProjectOne',
+        component: ProjectOne
     },
 ];
