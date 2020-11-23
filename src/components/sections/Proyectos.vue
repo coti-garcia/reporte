@@ -34,7 +34,7 @@
             v-for="project in projects"
             :key="project.id"
           >
-            <div class="portfolio-grid-caption mb-30">
+            <div class="portfolio-grid-caption mb-30" v-if="project.name">
               <router-link
                 :to="{ name: 'ProjectDetail', params: { slug: project.slug } }"
                 class="single-grid-caption"
