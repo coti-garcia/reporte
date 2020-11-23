@@ -126,6 +126,10 @@ export default {
     padding-left: 50px;
     padding-right: 50px;
   }
+  @media #{$min-xldevice} {
+    padding-left: 70px;
+    padding-right: 70px;
+  }
 }
 
 .carta-2 {

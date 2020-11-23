@@ -7,7 +7,7 @@
             circleValue="01"
             class="section-space--mb_40"
             color="arboretum"
-            sectionProgress="10"
+            sectionProgress="11"
           />
         </div>
       </div>

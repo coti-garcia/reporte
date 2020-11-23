@@ -9,7 +9,7 @@
                 class="chart-progress__inner chart-progress__inner--blue"
                 :class="color"
               >
-                <vue-circle
+                <!-- <vue-circle
                   :progress="parseInt(sectionProgress)"
                   :size="160"
                   line-cap="round"
@@ -18,10 +18,12 @@
                   :start-angle="0"
                   :show-percent="false"
                 >
-                </vue-circle>
+                </vue-circle> -->
                 <div class="chart-progress__inner-content">
                   <h4 class="chart-progress__inner-text">
-                    <span class="chart-number"> {{ circleValue }} </span>
+                    <span class="chart-number font-weight-bold">
+                      #{{ circleValue }}
+                    </span>
                   </h4>
                 </div>
               </div>

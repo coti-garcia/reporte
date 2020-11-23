@@ -8,8 +8,8 @@
         <div class="col">
           <ChartCircleTwo
             color="cabernet"
-            sectionProgress="30"
-            circleValue="03"
+            sectionProgress="22"
+            circleValue="02"
             class="section-space--mb_40"
           />
         </div>

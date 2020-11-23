@@ -17,7 +17,7 @@
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
                   src="@/assets/img/mision.jpg"
-                  class="img-fluid"
+                  class="img-fluid mision-img"
                   alt="thumbnail"
                 />
               </div>
@@ -64,7 +64,7 @@
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
                   src="@/assets/img/vision.jpg"
-                  class="img-fluid"
+                  class="img-fluid mision-img"
                   alt="thumbnail"
                 />
               </div>
@@ -119,6 +119,14 @@ export default {
   .vision {
     font-size: 25px;
     line-height: 1.4;
+  }
+  .ht-service-box--three {
+    .image__media {
+      height: 130px;
+    }
+  }
+  .mision-img {
+    height: 300px;
   }
 }
 </style>

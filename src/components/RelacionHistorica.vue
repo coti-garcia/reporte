@@ -6,8 +6,8 @@
           <div class="col">
             <ChartCircleTwo
               color="pinot"
-              sectionProgress="40"
-              circleValue="04"
+              sectionProgress="33"
+              circleValue="03"
               class="section-space--mb_40"
             />
             <SectionTitle
@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col">
+          <div class="col-12 col-md-6">
             <p>
               A mediados de la década del 60, los respectivos gobiernos firmaron
               un acuerdo que se concretó con el envío de estudiantes y
@@ -46,7 +46,7 @@
               Chile se ha transformado en un importante actor a nivel mundial.
             </p>
           </div>
-          <div class="col">
+          <div class="col-12 col-md-6">
             <p>
               Los acuerdos de colaboración se han mantenido durante décadas y se
               han ido afianzando, con la conformación de comités, planes

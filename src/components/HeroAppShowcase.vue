@@ -7,7 +7,9 @@
           src="@/assets/img/logo/logo_horizontal_transparente.png"
           alt="logo"
         />
-        <h2 class="h1 hero-content-title font-weight-light">Reporte</h2>
+        <h2 class="main-title font-weight-light text-white font-display">
+          Reporte
+        </h2>
         <h6 class="hero-content-subtitle">UC DAVIS CHILE – 5 AÑOS</h6>
       </div>
       <div class="hero-thumb">
@@ -44,10 +46,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../assets/scss/variabls.scss";
 .logo {
   max-width: 500px;
   margin-bottom: 80px;
   width: 80%;
+}
+.main-title {
+  font-size: 60px;
 }
 </style>
