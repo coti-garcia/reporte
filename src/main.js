@@ -28,7 +28,53 @@ import { routes } from './router/index'
 
 const router = new VueRouter({
     routes,
-    mode: 'history'
+    mode: 'history',
+    scrollBehavior(to, from, savedPosition) {
+
+        if (savedPosition) {
+            return savedPosition;
+        } else {
+            const position = {};
+            let top = null;
+            if (to.name === "Presentacion") {
+                top = document.querySelector("#presentacion").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "UCDavisEEEUU") {
+                top = document.querySelector("#uc-devis-us").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "RelacionHistorica") {
+                top = document.querySelector("#relacion-historica").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "UCDavisChile") {
+                top = document.querySelector("#uc-davis-chile").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "Mision") {
+                top = document.querySelector("#mision").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "Impact") {
+                top = document.querySelector("#impacto").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "QuienesSomos") {
+                top = document.querySelector("#quienes-somos").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "AreasTrabajo") {
+                top = document.querySelector("#areas-trabajo").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "Proyectos") {
+                top = document.querySelector("#proyectos").offsetTop;
+                return position.offset = { y: top };
+            }
+            return { x: 0, y: 0 }
+        }
+    }
 })
 
 

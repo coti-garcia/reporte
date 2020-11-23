@@ -19,7 +19,10 @@
     <RelacionHistorica />
 
     <!-- 5. UC Davis Chile -->
-    <div class="container-fluid section-space--ptb_120 bg-gray">
+    <div
+      id="#uc-davis-chile"
+      class="container-fluid section-space--ptb_120 bg-gray"
+    >
       <div class="row">
         <div class="col-lg-12">
           <ChartCircleTwo
@@ -75,6 +78,8 @@
     <Proyectos />
     <!-- overlay menu section -->
     <OverlayMenu />
+
+    <FooterMain />
   </div>
 </template>
 
@@ -94,6 +99,7 @@ import NuestraMision from "@/components/NuestraMision";
 import QuienesSomos from "@/components/QuienesSomos";
 import AreasTrabajo from "@/components/AreasTrabajo.vue";
 import Proyectos from "@/components/Proyectos.vue";
+import FooterMain from "@/components/FooterMain";
 export default {
   name: "app",
   components: {
@@ -113,6 +119,7 @@ export default {
     NuestraMision,
     AreasTrabajo,
     Proyectos,
+    FooterMain,
   },
 };
 </script>

@@ -116,6 +116,11 @@ $tablet-device:'only screen and (min-width: 768px) and (max-width: 991px)';
 $large-mobile:'only screen and (max-width: 767px)';
 $small-mobile: 'only screen and (max-width: 575px)';
 $extra-small-mobile: 'only screen and (max-width: 479px)';
+$min-tablet:   'only screen and (min-width: 768px)';
+$min-desktop:   'only screen and (min-width: 991px)';
+$min-laptop:   'only screen and (min-width: 1200px)';
+$min-xldivice: 'only screen and (min-width: 1500px)';
+
 
 
 
@@ -135,7 +140,7 @@ $poppy: #F18A00;
     color: $blue;
 }
 .gold{
-    color: $gold;
+    color: $gold !important;
 }
 .arboretum{
     color: $arboretum;

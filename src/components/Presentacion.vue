@@ -1,8 +1,5 @@
 <template>
-  <div
-    class="feature-app-showcase section-space--pt_120 section-space--mb_120"
-    id="presentacion"
-  >
+  <div class="feature-app-showcase section-space--pt_120" id="presentacion">
     <div class="container">
       <div class="row">
         <div class="col">
@@ -99,5 +96,8 @@ export default {
   font-weight: 300;
   margin-bottom: 50px;
   margin-top: -25px;
+}
+.intro {
+  margin-bottom: 30px;
 }
 </style>

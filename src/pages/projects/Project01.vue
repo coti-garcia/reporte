@@ -1,24 +1,24 @@
 <template>
   <div class="main-container">
     <router-view></router-view>
-    <HeaderShowcase />
+    <HeaderProject />
     <!-- Navbar section -->
-    <HeaderElement />
-
     <!-- breadcrumb strat -->
     <Breadcrumb>
       <template slot="breadcrumb">
         <div class="breadcrumb_box text-center">
-          <h2 class="breadcrumb-title">Agroinchalam</h2>
+          <h2 class="breadcrumb-title">{{ project.title }}</h2>
           <!-- breadcrumb-list start -->
           <ul class="breadcrumb-list">
             <li class="breadcrumb-item">
               <router-link :to="{ name: 'Home' }">Home</router-link>
             </li>
             <li class="breadcrumb-item">
-              <router-link :to="{ name: 'Home' }">Proyectos</router-link>
+              <router-link to="/#proyectos">Proyectos</router-link>
             </li>
-            <li class="breadcrumb-item active">Agroinchalam</li>
+            <li class="breadcrumb-item active gold">
+              {{ project.title }}
+            </li>
           </ul>
           <!-- breadcrumb-list end -->
         </div>
@@ -64,7 +64,7 @@
             <div class="portfolio-details-content">
               <div class="portfolio-details-title">
                 <a class="portfolio-categories" href="#">Nombre del proyecto</a>
-                <h3 class="portfolio-details-title">
+                <h3 class="portfolio-details-title blue">
                   {{ project.name }}
                 </h3>
               </div>
@@ -86,45 +86,38 @@
                     </tr>
                   </tbody>
                 </table>
-                <div class="team border-top pt-4 pb-5">
-                  {{ project.team }}
-                  <div class="portfolio-details-client">
-                    <h3 class="label">Equipo Técnico</h3>
+                <div class="team border-top pt-4">
+                  <div v-for="(item, e) in project.team" :key="e" class="pb-4">
+                    <div class="portfolio-details-client">
+                      <h3 class="label">{{ item.teamName }}</h3>
+                    </div>
+                    <ul class="team-list">
+                      <li v-for="(member, i) in item.members" :key="i">
+                        <span class="name">{{ member.name }}</span>
+                        <span class="position"> {{ member.position }}</span>
+                      </li>
+                    </ul>
                   </div>
-                  <ul>
-                    <li>
-                      Víctor González Morales<br />
-                      <em>Ingeniero Civil Industrial UC Davis Chile</em>
-                    </li>
-                    <li>
-                      Edwin Moore S. <br />
-                      <em>Ingeniero Agrónomo Inchalam</em>
-                    </li>
-                    <li>
-                      Catalina Montalvo A. <br />
-                      <em>Ingeniera Agrónomo UC Davis Chile</em>
-                    </li>
-                    <li>
-                      Catalina Montalvo A. <br />
-                      <em>Ingeniera Agrónomo UC Davis Chile</em>
-                    </li>
-                  </ul>
                 </div>
                 <div class="description border-top pt-4 mb-4">
                   <div class="portfolio-details-client pb-2">
                     <h3 class="label">Descripción del proyecto</h3>
                   </div>
-                  <p v-for="(item, e) in project.description" :key="e">
-                    {{ item }}
-                  </p>
+                  <p
+                    v-for="(item, e) in project.description"
+                    :key="e"
+                    v-html="item"
+                  ></p>
                 </div>
                 <div class="how-to border-top pt-4">
                   <div class="portfolio-details-client pb-2">
                     <h3 class="label">Cómo se hizo el proyecto</h3>
                   </div>
-                  <p v-for="(item, e) in project.how" :key="e">
-                    {{ item }}
-                  </p>
+                  <p
+                    v-for="(item, e) in project.how"
+                    :key="e"
+                    v-html="item"
+                  ></p>
                 </div>
               </div>
             </div>
@@ -168,7 +161,7 @@
                 </div>
               </div>
             </div>
-            <button class="entry-portfolio-return-link">
+            <button @click="backToProjects" class="entry-portfolio-return-link">
               <span class="fa fa-th"></span>
             </button>
           </div>
@@ -176,25 +169,24 @@
       </div>
     </div>
     <!-- portfolio details wrapper end -->
-
+    <OverlayMenu :displayInternal="true" />
     <!-- footer section -->
     <FooterMain />
   </div>
 </template>
 
 <script>
-import HeaderShowcase from "@/components/HeaderShowcase";
-import HeaderElement from "@/components/HeaderElement";
 import Breadcrumb from "@/components/Breadcrumb";
 import FooterMain from "@/components/FooterMain";
-
+import HeaderProject from "@/components/HeaderProject";
+import OverlayMenu from "@/components/OverlayMenu";
 export default {
   name: "PortfolioGrid",
   components: {
-    HeaderShowcase,
-    HeaderElement,
+    HeaderProject,
     Breadcrumb,
     FooterMain,
+    OverlayMenu,
   },
   data() {
     return {
@@ -298,6 +290,25 @@ export default {
       },
     };
   },
+  methods: {
+    backToProjects() {
+      console.log("click");
+      return this.$router.push("/#proyectos");
+    },
+  },
 };
 </script>
 
+<style lang="scss" scoped>
+.team-list {
+  list-style: circle;
+  padding-left: 40px;
+  li {
+    padding-bottom: 10px;
+    span.position {
+      display: block;
+      font-size: 12px;
+    }
+  }
+}
+</style>

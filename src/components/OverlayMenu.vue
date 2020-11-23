@@ -13,9 +13,11 @@
 </template>
 
 <script>
-import OverlayNav from "../components/OverlayNav";
+import OverlayNav from "@/components/OverlayNav";
+
 export default {
   name: "OverlayMenu",
+  props: ["displayInternal"],
   components: {
     OverlayNav,
   },
