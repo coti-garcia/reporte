@@ -7,7 +7,7 @@
       <div class="row carta-wrapper bg-gray section-space--ptb_120">
         <div class="col-md-3 col-lg-2">      
           <img
-            src="../assets/img/team/Mauricio-Canoles.jpg"
+            src="@/assets/img/team/Mauricio-Canoles.jpg"
             class="img-fluid"
             alt=""
           />
@@ -39,7 +39,7 @@
         <div class="col-md-3 col-lg-2 author">
           <div class="testimonial-slider-side-info">
             <img
-                src="../assets/img/team/Lovell_Tu_Jarvis.jpg"
+                src="@/assets/img/team/Lovell_Tu_Jarvis.jpg"
                 class="img-fluid"
                 alt=""
              />
@@ -67,8 +67,8 @@
 </template>
 
 <script>
-import ChartCircleTwo from "../components/ChartCircleTwo";
-import SectionTitle from "../components/SectionTitle";
+import ChartCircleTwo from "@/components/ChartCircleTwo";
+import SectionTitle from "@/components/SectionTitle";
 export default {
   name: "Cartas",
   components: {

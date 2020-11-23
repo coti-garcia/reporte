@@ -27,7 +27,6 @@
 <script>
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
-import NuestraMision from "@/components/NuestraMision";
 import TabOne from "@/components/TabOne";
 export default {
   name: "nuestraMision",

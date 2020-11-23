@@ -53,5 +53,14 @@ export default {
 }
 .main-title {
   font-size: 60px;
+  @media #{$min-tablet} {
+    font-size: 80px;
+  }
+  @media #{$min-desktop} {
+    font-size: 90px;
+  }
+  @media #{$min-laptop} {
+    font-size: 150px;
+  }
 }
 </style>

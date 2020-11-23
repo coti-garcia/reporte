@@ -25,15 +25,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="section-title-wrapper text-center section-space--pb_90">
-              <h6 class="section-sub-title mb-20 font-weight--bold wow move-up">
-                El enfoque de nuestro trabajo consiste en articular los
-                esfuerzos de investigadores de diversas disciplinas con el
-                propósito de entregar diagnósticos y soluciones integrales a las
-                necesidades que se presentan en la industria local. Bajo este
-                modelo, las áreas en que se organiza UC Davis Chile son:
-              </h6>
-            </div>
+            <p class="text-center intro mx-auto mb-5">
+              El enfoque de nuestro trabajo consiste en articular los esfuerzos
+              de investigadores de diversas disciplinas con el propósito de
+              entregar diagnósticos y soluciones integrales a las necesidades
+              que se presentan en la industria local. Bajo este modelo, las
+              áreas en que se organiza UC Davis Chile son:
+            </p>
           </div>
         </div>
         <!-- clinic Process Step first Start -->
@@ -42,7 +40,7 @@
             <div class="col-lg-6 wow move-up">
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
-                  src="../assets/img/features/aeroland-clinic-image-01.png"
+                  src="@/assets/img/features/aeroland-clinic-image-01.png"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -272,7 +270,7 @@
             <div class="col-lg-5 order-lg-2 order-1 wow move-up">
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
-                  src="../assets/img/features/aeroland-clinic-image-02.png"
+                  src="@/assets/img/features/aeroland-clinic-image-02.png"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -287,7 +285,7 @@
             <div class="col-lg-6 wow move-up">
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
-                  src="../assets/img/features/aeroland-clinic-image-03.png"
+                  src="@/assets/img/features/aeroland-clinic-image-03.png"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -361,3 +359,8 @@ export default {
   },
 };
 </script>
+<style lang="scss" scoped>
+.intro {
+  max-width: 900px;
+}
+</style>

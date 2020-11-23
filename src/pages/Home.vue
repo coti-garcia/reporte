@@ -85,20 +85,20 @@
 
 <script>
 import HeaderShowcase from "@/components/HeaderShowcase";
-import Cartas from "@/components/Cartas";
+import Cartas from "@/components/sections/Cartas";
 import HeroAppShowcase from "@/components/HeroAppShowcase";
-import UCDavisUS from "@/components/UCDavisUS";
+import UCDavisUS from "@/components/sections/UCDavisUS";
 import Presentacion from "@/components/Presentacion";
-import RelacionHistorica from "@/components/RelacionHistorica";
+import RelacionHistorica from "@/components/sections/RelacionHistorica";
 import AppShowcaseNewsletter from "@/components/sections/AppShowcaseNewsletter";
 import FooterAppShowcase from "@/components/FooterAppShowcase";
 import OverlayMenu from "@/components/OverlayMenu";
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
-import NuestraMision from "@/components/NuestraMision";
-import QuienesSomos from "@/components/QuienesSomos";
-import AreasTrabajo from "@/components/AreasTrabajo.vue";
-import Proyectos from "@/components/Proyectos.vue";
+import NuestraMision from "@/components/sections/NuestraMision";
+import QuienesSomos from "@/components/sections/QuienesSomos";
+import AreasTrabajo from "@/components/sections/AreasTrabajo.vue";
+import Proyectos from "@/components/sections/Proyectos.vue";
 import FooterMain from "@/components/FooterMain";
 export default {
   name: "app",
