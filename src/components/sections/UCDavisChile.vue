@@ -97,7 +97,9 @@
               de nuestros socios académicos en Chile.
             </p>
           </div>
-          <div class="col-12 col-md-4"></div>
+          <div class="col-12 col-md-4">
+            <img src="@/assets/img/extension.jpg" />
+          </div>
         </div>
       </div>
     </div>
