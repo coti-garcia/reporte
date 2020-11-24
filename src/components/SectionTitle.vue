@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-lg-12">
-      <div class="section-title-wrap text-center section-space--mb_60">
+      <div class="section-title-wrap text-center section-space--mb_30">
         <h2 class="font-display mb-0 wow move-up" :class="color">
           {{ sectionTitle }}
         </h2>
@@ -29,9 +29,6 @@ export default {
     }
     @media #{$min-desktop} {
       font-size: 60px;
-    }
-    @media #{$min-laptop} {
-      font-size: 80px;
     }
   }
 }

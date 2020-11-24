@@ -133,6 +133,7 @@ $bodega: #003A5D;
 $cabernet: #481268;
 $pinot: #76236C;
 $icing: #f095CD;
+$redbud: #C6007E;
 $strawberry: #F93549;
 $poppy: #F18A00;
 
@@ -149,7 +150,7 @@ $poppy: #F18A00;
 .bodega{
     color: $bodega;
 }
-.carbernet{
+.cabernet{
     color: $cabernet;
 }
 .pinot{
@@ -157,6 +158,9 @@ $poppy: #F18A00;
 }
 .icing{
     color: $icing;
+}
+.redbud{
+    color: $redbud;
 }
 .strawberry{
     color: $strawberry;
@@ -193,4 +197,7 @@ $poppy: #F18A00;
 }
 .bg-poppy{
     background-color: $poppy;
+}
+.bg-redbud{
+    background-color: $redbud;
 }

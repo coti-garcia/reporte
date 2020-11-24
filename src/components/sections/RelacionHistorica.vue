@@ -12,14 +12,14 @@
             />
             <SectionTitle
               color="pinot"
-              sectionTitle="Relación histórica"
+              sectionTitle="Relación histórica entre Chile y UC Davis"
               class="wow move-up"
             />
             <p class="text-center intro pinot mx-auto mb-5">
-              La decisión de instalar en Chile el Centro de Innovación en
-              Ciencias de la Vida UC Davis, se enmarca dentro de una historia de
-              más de 55 años de colaboración e intercambio académico entre Chile
-              y California.
+              La decisión de instalar en Chile el
+              <em>Centro de Innovación UC Davis Chile</em>, se enmarca dentro de
+              una historia de más de 50 años de colaboración e intercambio
+              académico entre Chile y California.
             </p>
           </div>
         </div>
@@ -32,15 +32,15 @@
               California.
             </p>
             <p>
-              Ambas regiones presentan características climáticas, geográficas y
-              variedades de especies animales y vegetales similares, en tanto
-              que comparten desafíos en el cuidado de la biodiversidad, el
-              manejo de cuencas hidrográficas y uso de energías. El desfase
-              estacional, además, permite el intercambio comercial en el sector
-              agrícola durante todo el año.
+              El valor de esta relación se funda en que ambas regiones presentan
+              características climáticas, geográficas y variedades de especies
+              animales y vegetales similares, en tanto que comparten desafíos en
+              el cuidado de la biodiversidad, el manejo de cuencas hidrográficas
+              y uso de energías. El desfase estacional, además, permite el
+              intercambio comercial en el sector agrícola durante todo el año.
             </p>
             <p>
-              A esta relación hoy se le atribuye gran parte del crecimiento de
+              A este vínculo hoy se le atribuye gran parte del crecimiento de
               las exportaciones de uva y las frutas de carozo en Chile, e
               incluso el desarrollo de la industria de los vinos, en la que
               Chile se ha transformado en un importante actor a nivel mundial.
@@ -51,7 +51,7 @@
               Los acuerdos de colaboración se han mantenido durante décadas y se
               han ido afianzando, con la conformación de comités, planes
               concretos e institucionalización de redes de trabajo y cooperación
-              entre la academia y los sectores públicos y privados.
+              entre la academia y los sectores público y privado.
             </p>
             <p>
               En este marco, la asociación entre UC Davis y Chile permanece
@@ -60,14 +60,14 @@
               California.
             </p>
             <p>
-              En Chile, en tanto, gracias al Centro de Innovación en Ciencias de
-              la Vida y la experiencia de UC Davis, la investigación agrícola ha
-              movido sus fronteras con avanzadas técnicas genómicas, mientras
-              que ha expandido sus campos de trabajo a otras áreas de
-              investigación, con proyectos para la mitigación del cambio
-              climático, manejo sustentable de cultivos, transferencia
-              tecnológica, propiedad intelectual, medicina y planificación
-              urbana, entre otras.
+              En Chile, en tanto, gracias al
+              <em>Centro de Innovación UC Davis</em> y la experiencia de UC
+              Davis, la investigación agrícola, ha movido sus fronteras con
+              avanzadas técnicas genómicas, mientras que ha expandido sus campos
+              de trabajo a otras áreas de investigación con proyectos para la
+              mitigación del cambio climático, manejo sustentable de cultivos,
+              transferencia tecnológica, propiedad intelectual, medicina y
+              planificación urbana, entre otras.
             </p>
           </div>
         </div>
@@ -77,7 +77,9 @@
       <div class="container">
         <div class="row icon-process-area section-space--ptb_120">
           <div class="col-lg-12">
-            <h3 class="pinot text-center">Hitos desde los años 60 hasta hoy</h3>
+            <h3 class="pinot text-center">
+              Hitos de la relación entre Chile y UC Davis desde los años 60
+            </h3>
             <Gradation />
           </div>
         </div>
@@ -113,6 +115,9 @@ export default {
 .icon-process-area {
   h3 {
     padding-bottom: 60px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 </style>

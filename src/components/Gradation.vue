@@ -20,8 +20,8 @@
           <!-- <h5 class="icon-process-single__title">Define your ideas</h5> -->
           <div class="icon-process-single__text">
             Década del 60. Hubo una colaboración muy significativa entre Chile y
-            UC Davis, la asociación Chile-CA apoyó una estrecha colaboración
-            entre científicos chilenos y californianos en agricultura.
+            UC Davis. La asociación Chile-CA apoyó un estrecho intercambio entre
+            científicos chilenos y californianos en agricultura.
           </div>
         </div>
       </div>
@@ -116,8 +116,8 @@
           </div>
           <!-- <h5 class="icon-process-single__title">Coding and Review</h5> -->
           <div class="icon-process-single__text">
-            Abril 2015, Ccomo resultado de una invitación del Gobierno de Chile
-            a través de la Agencia de Desarrollo Económico de Chile (CORFO), UC
+            Abril 2015, Como resultado de una invitación del Gobierno de Chile a
+            través de la Agencia de Desarrollo Económico de Chile (CORFO), UC
             Davis creó un Centro de Innovación en Ciencias de la Vida enfocado
             en el sector agroalimentario chileno.
           </div>

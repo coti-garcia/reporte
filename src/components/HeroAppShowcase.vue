@@ -59,8 +59,5 @@ export default {
   @media #{$min-desktop} {
     font-size: 90px;
   }
-  @media #{$min-laptop} {
-    font-size: 150px;
-  }
 }
 </style>

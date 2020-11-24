@@ -19,26 +19,7 @@
     <RelacionHistorica />
 
     <!-- 5. UC Davis Chile -->
-    <div
-      id="#uc-davis-chile"
-      class="container-fluid section-space--ptb_120 bg-gray"
-    >
-      <div class="row">
-        <div class="col-lg-12">
-          <ChartCircleTwo
-            circleValue="05"
-            class="section-space--mb_40 section-space--mt_30"
-            color="icing"
-            sectionProgress="50"
-          />
-          <SectionTitle
-            color="icing"
-            sectionTitle="UC Davis Chile"
-            class="wow move-up"
-          />
-        </div>
-      </div>
-    </div>
+    <UCDavisChile />
 
     <!-- 6. Nuestra Mision -->
     <NuestraMision />
@@ -88,7 +69,8 @@ import HeaderShowcase from "@/components/HeaderShowcase";
 import Cartas from "@/components/sections/Cartas";
 import HeroAppShowcase from "@/components/HeroAppShowcase";
 import UCDavisUS from "@/components/sections/UCDavisUS";
-import Presentacion from "@/components/Presentacion";
+import UCDavisChile from "@/components/sections/UCDavisChile";
+import Presentacion from "@/components/sections/Presentacion";
 import RelacionHistorica from "@/components/sections/RelacionHistorica";
 import AppShowcaseNewsletter from "@/components/sections/AppShowcaseNewsletter";
 import FooterAppShowcase from "@/components/FooterAppShowcase";
@@ -120,6 +102,7 @@ export default {
     AreasTrabajo,
     Proyectos,
     FooterMain,
+    UCDavisChile,
   },
 };
 </script>

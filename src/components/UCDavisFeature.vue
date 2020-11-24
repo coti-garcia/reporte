@@ -1,15 +1,18 @@
 <template>
-  <div class="drak-area section-space--ptb_40" id="about">
+  <div class="drak-area bg-cabernet section-space--ptb_40" id="about">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <h4>
-                Fundada en 1908, UC Davis es una de las universidades públicas
-                más importantes del mundo, con una reconocida trayectoria en
-                docencia e investigación en campos como salud humana,
-                veterinaria, agricultura y ciencias ambientales.
+                Su campus de <strong>2,145 hectáreas</strong> está en Davis, una
+                vibrante ciudad universitaria y comunidad de unas 68,000
+                personas en el norte de California. La cercana ciudad de
+                Sacramento, capital del estado, es hogar del Sistema de Salud de
+                UC Davis. Destinos de clase mundial como la zona de la Bahía de
+                San Francisco, el Lago Tahoe y el Valle de Napa, también están a
+                poca distancia en auto de UC Davis.
               </h4>
             </div>
           </div>
@@ -45,7 +48,6 @@
                     <li>Educación</li>
                     <li>Leyes</li>
                     <li>Administración</li>
-                    <li>Leyes</li>
                     <li>Medicina</li>
                     <li>Medicina veterinaria</li>
                   </ul>
@@ -69,12 +71,12 @@
 
                 <div class="text">
                   <ul>
-                    <li>1º lugar en el mundo en medicina veterinaria</li>
-                    <li>1º lugar en EE. UU. en agricultura</li>
-                    <li>2º lugar en el mundo en ciencias veterinarias</li>
+                    <li>1º lugar en el mundo en Medicina Veterinaria</li>
+                    <li>1º lugar en EE. UU. en Agricultura</li>
+                    <li>2º lugar en el mundo en Ciencias Veterinarias</li>
                     <li>
-                      2º lugar en el mundo en agricultura y ciencias
-                      veterinarias
+                      2º lugar en el mundo en Agricultura y Ciencias
+                      Veterinarias
                     </li>
                     <li>
                       5º lugar entre las universidades públicas de EE. UU.
@@ -157,7 +159,7 @@ export default {
 <style lang="scss" scoped>
 h4 {
   line-height: 1.4;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 300;
 }
 
