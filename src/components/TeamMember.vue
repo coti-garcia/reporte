@@ -2,7 +2,7 @@
   <div class="ht-team-member--inner">
     <!-- team-image Start -->
     <div class="team-image">
-      <div class="wrapper">
+      <div v-if="img" class="wrapper">
         <img class="img-fluid" :src="img" :alt="name" />
       </div>
       <img

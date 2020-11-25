@@ -86,33 +86,6 @@ export default {
           },
         },
       },
-      swiperOptionTwo: {
-        speed: 800,
-        loop: false,
-        slidesPerView: 6,
-        spaceBetween: 30,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-        breakpoints: {
-          1499: {
-            slidesPerView: 5,
-          },
-
-          991: {
-            slidesPerView: 6,
-          },
-
-          767: {
-            slidesPerView: 3,
-          },
-
-          575: {
-            slidesPerView: 2,
-          },
-        },
-      },
       team: [
         {
           boardPosition: "Presidente",

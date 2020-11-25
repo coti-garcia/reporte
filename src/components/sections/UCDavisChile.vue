@@ -27,7 +27,9 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-12 col-md-6"></div>
+          <div class="col-12 col-md-6">
+            <img src="@/assets/img/placeholder.png" width="100%" />
+          </div>
           <div class="col-12 col-md-6">
             <p>
               Nuestra historia tiene raíces en esta relación de larga data entre
@@ -96,9 +98,6 @@
               fondos federales de los Estados Unidos , así como el conocimiento
               de nuestros socios académicos en Chile.
             </p>
-          </div>
-          <div class="col-12 col-md-4">
-            <img src="@/assets/img/extension.jpg" />
           </div>
         </div>
       </div>

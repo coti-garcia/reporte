@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="payment-staps-way-last_wrap dark-area section-space--pt_60 section-space--ptb_60"
-  >
+  <div class="payment-staps-way-last_wrap dark-area section-space--pt_60 pb-3">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -93,12 +91,22 @@
         </div>
       </div>
     </div>
+    <div class="container-fluid bg-white section-space--ptb_60">
+      <h3 class="subtitle cabernet text-center mb-5 pb-3">
+        Departamentos y Centros colaboradores más cercanos
+      </h3>
+      <SlideLogos />
+    </div>
   </div>
 </template>
 
 <script>
+import SlideLogos from "@/components/SlideLogos";
 export default {
   name: "Colaboracion",
+  components: {
+    SlideLogos,
+  },
 };
 </script>
 

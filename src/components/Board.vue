@@ -14,6 +14,22 @@
       />
     </div>
     <!-- ht-team-member End -->
+    <div class="col-12">
+      <h4 class="arboretum font-weight--light mb-15 wow move-up">
+        PAST DIRECTORS
+      </h4>
+    </div>
+    <div
+      class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
+      v-for="(item, i) in pastTeam"
+      :key="i"
+    >
+      <TeamMember
+        :name="item.name"
+        :position="item.position"
+        :country="item.country"
+      />
+    </div>
   </div>
 </template>
 
@@ -115,6 +131,47 @@ export default {
           name: "Ariel Orellana",
           position:
             "Vicerrector de Investigación y Doctorado, Universidad Andrés Bello",
+          img: "",
+          country: "CL",
+        },
+      ],
+      pastTeam: [
+        {
+          name: "Cameron Carter",
+          position: "Presidential Chair in Neuroscience",
+          img: "",
+          country: "US",
+        },
+        {
+          name: "James Hill",
+          position:
+            "Associate Dean for International Programs in the College of Agricultural and Environmental Sciences",
+          img: "",
+          country: "US",
+        },
+        {
+          name: "Dushyant Pathak",
+          position:
+            "Former Associate Vice Chancellor of Technology Management and Corporate Relations",
+          img: "",
+          country: "US",
+        },
+        {
+          name: "Harris Lewin",
+          position: "Former Vice Chancellor for Research",
+          img: "",
+          country: "US",
+        },
+        {
+          name: "Gonzalo Herrera",
+          position:
+            "Ex Vicerrector de Innovación, representante Universidad de Talca 2015-2017",
+          img: "",
+          country: "CL",
+        },
+        {
+          name: "Julio Kalazich",
+          position: "Director de INIA 2014-2018",
           img: "",
           country: "CL",
         },

@@ -9,7 +9,7 @@
         agroalimentario y medioambiental chileno, con el propósito de
         transformar su investigación en soluciones para la industria y la
         sociedad con impacto económico y social a nivel nacional, regional y
-        global. Este espíritu se ve reflejado en nuestros objetivos:
+        global. Este espíritu se ve reflejado en nuestros objetivos que son:
       </p>
     </div>
     <div v-for="item in items" :key="item.id" class="col-lg-6 col-md-12 mb-25">
@@ -41,7 +41,7 @@ export default {
         {
           icon: require("../assets/img/water_tower_illustration.png"),
           text:
-            "Provocar procesos efectivos de <strong>transferencia tecnológica desde UC Davis hacia la industria chilena</strong>, ya sea a partir de desarrollos actualmente disponibles en Davis, como de los resultados de la I+D que se genere con los socios chilenos.",
+            "Provocar procesos efectivos de <strong>transferencia tecnológica desde UC Davis hacia la industria chilena</strong>, ya sea a partir de desarrollos actualmente disponibles en California y los Estados Unidos, como de los resultados de la I+D que se genere con los socios chilenos.",
         },
         {
           icon: require("../assets/img/egg_illustration.png"),
@@ -69,6 +69,7 @@ export default {
   max-width: 185px;
   img {
     max-width: 100%;
+    height: 150px;
   }
 }
 </style>

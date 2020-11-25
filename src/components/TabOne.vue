@@ -28,7 +28,7 @@
                   <div class="sub__title mb-20">
                     <h6 class="font-weight--blod">Misión</h6>
                   </div>
-                  <h4 class="font-weight--bold">Propósito</h4>
+                  <h4 class="font-weight--bold mb-3">Propósito</h4>
                   <div class="sub-text section-space--mb_40">
                     <p>
                       Entregar al mercado y la sociedad soluciones tecnológicas

@@ -37,9 +37,9 @@
                 más altas autoridades del campus de Davis, así como a
                 representantes de universidades chilenas que trabajan
                 directamente con nuestro Centro y quienes sesionan con una
-                periodicidad de XXXXX con el objetivo de abordar nuestris los
-                desafíos y proyecciones así como también para conocer el estátus
-                de los proyectos que desarrollamos en el país.
+                periodicidad trimestral con el objetivo de abordar nuestros
+                desafíos y proyecciones, así como también para conocer el
+                estatus de los proyectos que desarrollamos en el país.
               </p>
               <p class="wow move-up">
                 Actualmente nuestro directorio está integrado por:
@@ -85,6 +85,9 @@
                   :position="item.position"
                   :img="`http://via.placeholder.com/500x500`"
                 />
+              </div>
+              <div class="text-right white">
+                Past Executive Director: <strong>Alan Bennett</strong>
               </div>
             </div>
             <!-- ht-team-member End -->
@@ -292,13 +295,13 @@ export default {
         img: "",
       },
       {
-        name: "Francisco Díaz",
-        position: "Partnership and Communications Manager",
+        name: "Jorge Cabezas",
+        position: "Administration and Finance Coordinator",
         img: "",
       },
       {
-        name: "Jorge Cabezas",
-        position: "Administration and Finance Coordinator",
+        name: "Francisco Díaz",
+        position: "Partnership and Communications Manager",
         img: "",
       },
       {
@@ -311,6 +314,7 @@ export default {
         position: "Finance & Human Resources Analyst",
         img: "",
       },
+
       {
         name: "Patricio Cabezas",
         position: "Financial Assistant",
@@ -329,6 +333,16 @@ export default {
       {
         name: "Gabriela Jiménez",
         position: "Partnership Assistant",
+        img: "",
+      },
+      {
+        name: "Carolina Aravena",
+        position: "Communications Assistant",
+        img: "",
+      },
+      {
+        name: "Cecilia Pino",
+        position: "Housekeeper",
         img: "",
       },
     ],
