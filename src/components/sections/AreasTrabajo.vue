@@ -1,8 +1,5 @@
 <template>
-  <div
-    class="feature-app-showcase section-space--pt_120 bg-gray"
-    id="areas-trabajo"
-  >
+  <div class="feature-app-showcase section-space--pt_60" id="areas-trabajo">
     <div class="container">
       <div class="row">
         <div class="col">

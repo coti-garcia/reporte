@@ -28,7 +28,7 @@
         </div>
         <div class="row">
           <div class="col-12 col-md-6">
-            <img src="@/assets/img/placeholder.png" width="100%" />
+            <img src="@/assets/img/UC-Davis-CL.png" width="100%" />
           </div>
           <div class="col-12 col-md-6">
             <p>
