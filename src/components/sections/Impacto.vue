@@ -84,4 +84,8 @@ h5 {
   color: #022851;
   margin-bottom: 15px;
 }
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
 </style>
