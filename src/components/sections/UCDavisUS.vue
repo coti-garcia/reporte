@@ -99,7 +99,6 @@
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import FeatureApp from "@/components/FeatureApp";
-import ServiceAgency from "@/components/sections/ServiceAgency";
 import UCDavisFeature from "@/components/UCDavisFeature";
 import CurveShape from "@/components/CurveShape";
 import Hitos from "@/components/Hitos";
@@ -110,7 +109,6 @@ export default {
   name: "UCDavisUS",
   components: {
     SectionTitle,
-    ServiceAgency,
     ChartCircleTwo,
     FeatureApp,
     UCDavisFeature,

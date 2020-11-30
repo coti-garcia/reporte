@@ -1,5 +1,3 @@
-# aeroland
-
 ## Project setup
 ```
 npm install

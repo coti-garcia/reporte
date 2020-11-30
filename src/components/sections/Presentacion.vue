@@ -77,12 +77,10 @@
 import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import FeatureApp from "@/components/FeatureApp";
-import ServiceAgency from "@/components/sections/ServiceAgency";
 export default {
   name: "Presentacion",
   components: {
     SectionTitle,
-    ServiceAgency,
     ChartCircleTwo,
     FeatureApp,
   },
