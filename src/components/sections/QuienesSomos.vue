@@ -83,7 +83,7 @@
                 <TeamMember
                   :name="item.name"
                   :position="item.position"
-                  :img="`http://via.placeholder.com/500x500`"
+                  :img="item.img"
                 />
               </div>
               <div class="text-right white">
@@ -272,19 +272,19 @@ export default {
       {
         name: "Mauricio Cañoles",
         position: "General Manager",
-        img: "",
+        img: "Mauricio-Canoles.jpg",
         country: "CL",
       },
       {
         name: "Dario Cantu",
         position: "Academic Director",
-        img: "",
+        img: "Dario-Cantu.jpg",
         country: "CL",
       },
       {
         name: 'Lovell "Tu" Jarvis',
         position: "Executive Director",
-        img: "",
+        img: "Lovell_Tu_Jarvis.jpg",
         country: "CL",
       },
     ],

@@ -9,7 +9,7 @@
         :name="item.name"
         :boardPosition="item.boardPosition"
         :position="item.position"
-        :img="`http://via.placeholder.com/500x500`"
+        :img="item.img"
         :country="item.country"
       />
     </div>
