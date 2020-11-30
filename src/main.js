@@ -35,7 +35,7 @@ const router = new VueRouter({
             return savedPosition;
         } else {
             const position = {};
-            let top = null;
+            let top = 0;
             if (to.name === "Presentacion") {
                 top = document.querySelector("#presentacion").offsetTop;
                 return position.offset = { y: top };
