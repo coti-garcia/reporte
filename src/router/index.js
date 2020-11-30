@@ -50,6 +50,11 @@ export const routes = [
                 path: '/proyectos',
                 name: 'Proyectos',
                 // component: Home,
+            },
+            {
+                path: '/reporteUCDavisChile/',
+                name: 'Home',
+                // component: Home,
             }
         ]
     },

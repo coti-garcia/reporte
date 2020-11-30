@@ -1,0 +1,4 @@
+#.gitignore
+dist/
+
+git push -f git@github.com:coti-garcia/reporteUCDavisChile.git live
