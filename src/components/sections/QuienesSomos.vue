@@ -96,8 +96,8 @@
         <div class="row mt-5">
           <div class="col-lg-4">
             <p class="wow move-up text-white">
-              La estructura organizacional de nuestro Centro puede graficar de
-              la siguiente manera:
+              La estructura organizacional y operacional de nuestro Centro se
+              puede graficar de la siguiente manera:
             </p>
           </div>
           <div class="col-lg-8">
@@ -135,20 +135,6 @@
         </div>
       </div>
       <div class="container-fluid">
-        <!-- <div class="row px-4 justify-content-center">
-          <div
-            class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
-            v-for="(item, e) in administrativeTeam"
-            :key="e"
-          >
-            <TeamMember
-              :name="item.name"
-              :position="item.position"
-              :img="`http://via.placeholder.com/500x500`"
-            />
-          </div>
-  
-        </div> -->
         <div class="row">
           <div class="col-lg-12">
             <div class="swiper-container team-slider__container">
@@ -190,18 +176,17 @@
                 ESPECIALISTAS E INVESTIGADORES
               </h3>
               <p class="wow move-up">
-                El Centro de Innovación en Ciencias de la Vida UC Davis Chile
-                está integrado por especialistas e investigadores de los
-                distintos ámbitos que componen el sector agroalimentario cuyo
-                objetivo es desarrollar investigación colaborativa entre Chile y
-                California, transferir tecnologías desarrolladas en los Estados
-                Unidos hacia la industria chilena e instalar capacidades de UC
-                Davis en Chile.
+                El Centro de Innovación UC Davis Chile está integrado por
+                especialistas e investigadores de los distintos ámbitos que
+                componen el sector agroalimentario. Su objetivo es desarrollar
+                investigación colaborativa entre Chile y California, transferir
+                tecnologías desarrolladas en los Estados Unidos hacia la
+                industria chilena e instalar capacidades de UC Davis en Chile.
               </p>
               <p class="wow move-up">
                 Profesionales investigadores y especialistas en agronomía,
                 sustentabilidad, ciencias de la alimentación, vitivinicultura y
-                enología, extención e innovación forman parte de nuestroequipo
+                enología, extensión e innovación forman parte de nuestro equipo
                 de excelencia el que actualmente está compuesto por:
               </p>
             </div>
@@ -222,6 +207,69 @@
             />
           </div>
           <!-- ht-team-member End -->
+        </div>
+      </div>
+      <div class="container">
+        <div class="row pt-5 mt-5">
+          <div class="col-lg-10">
+            <div class="section-title mb-3">
+              <p class="wow move-up">
+                A ellos se suman para cada proyecto, investigadores y
+                especialistas desde la propia UC Davis en California, quienes
+                aportan toda su experiencia, conocimiento y excelencia
+                impregnando el sello único que solo la mejor universidad en
+                Ciencias de la Vida del mundo puede entregar.
+              </p>
+              <p class="wow move-up">
+                Algunos de los principales investigadores de UC Davis que
+                colaboran o han colaborado en proyectos del Centro son:
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 col-md-3">
+            <ul class="wow move-up">
+              <li>Dario Cantu</li>
+              <li>Daniele Zaccaria</li>
+              <li>Sam Sandoval</li>
+              <li>Susan Ebeler</li>
+              <li>Alan Bennett</li>
+              <li>Edward Spang</li>
+              <li>Kenneth A. Shackel</li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-3">
+            <ul class="wow move-up">
+              <li>Andrew Walker</li>
+              <li>Graham Fogg</li>
+              <li>David E. Block</li>
+              <li>Dan Summer</li>
+              <li>Louise Ferguson</li>
+              <li>Anita Oberholster</li>
+              <li>Mark Bell</li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-3">
+            <ul class="wow move-up">
+              <li>Allan Fulton</li>
+              <li>Kendra Baumgartner</li>
+              <li>Kaan Kurtural</li>
+              <li>Mark Bettany</li>
+              <li>Michael Lairmore</li>
+              <li>Rodrigo Gallardo</li>
+              <li>Michael Wilkes</li>
+            </ul>
+          </div>
+          <div class="col-12 col-md-3">
+            <ul class="wow move-up">
+              <li>Andrés Sciolla</li>
+              <li>James Marcin</li>
+              <li>Heather Young</li>
+              <li>Camille Kirk</li>
+              <li>Daniel Sperling</li>
+            </ul>
+          </div>
         </div>
       </div>
     </section>
@@ -377,6 +425,11 @@ export default {
         img: "Olivia-Valdes.jpg",
       },
       {
+        name: "Patricio Román",
+        position: "Project Management",
+        img: "Patricio-Roman.jpg",
+      },
+      {
         name: "Jessica Alvarado",
         position: "Innovation and Extension Specialist",
         img: "Jessica-Alvarado.jpg",
@@ -433,18 +486,15 @@ export default {
   margin-bottom: 20px;
 }
 
-// .executive-team {
-//   transform: skewY(-6deg);
-//   .inner-section {
-//     transform: skewY(6deg);
-//   }
-//   z-index: -2;
-// }
 .board {
   z-index: 200;
 }
 .swiper-pagination.swiper-pagination-2
   .swiper-pagination-bullet-active::before {
   background: $arboretum;
+}
+ul {
+  list-style: circle;
+  padding-left: 20px;
 }
 </style>
