@@ -37,9 +37,9 @@
 export default {
   data() {
     return {
-      bgImg: {
-        backgroundImage: `url(${require("../assets/img/hero/showcase/showcase-hero-bg.jpg")})`,
-      },
+      // bgImg: {
+      //   backgroundImage: `url(${require("../assets/img/hero/showcase/showcase-hero-bg.jpg")})`,
+      // },
     };
   },
 };

@@ -71,7 +71,6 @@
       <div class="pricing-table-content-area">
         <div class="container">
           <!-- PricingTwo component -->
-          <PricingTwo />
         </div>
       </div>
     </div>
@@ -80,14 +79,12 @@
 </template>
 
 <script>
-import PricingTwo from "../pricingTwo";
 import ICountUp from "vue-countup-v2";
 import Hitos from "@/components/Hitos";
 
 export default {
   name: "PaymentPricingWrapper",
   components: {
-    PricingTwo,
     ICountUp,
     Hitos,
   },

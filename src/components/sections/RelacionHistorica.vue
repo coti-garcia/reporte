@@ -91,8 +91,7 @@
 <script>
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import SectionTitle from "@/components/SectionTitle";
-import ThreeStepProcess from "@/components/ThreeStepProcess";
-import AppShowcaseProcessStep from "@/components/AppShowcaseProcessStep";
+
 import ShowcaseRelacionHistorica from "@/components/ShowcaseRelacionHistorica.vue";
 import Gradation from "@/components/Gradation";
 export default {
@@ -100,8 +99,6 @@ export default {
   components: {
     SectionTitle,
     ChartCircleTwo,
-    ThreeStepProcess,
-    AppShowcaseProcessStep,
     ShowcaseRelacionHistorica,
     Gradation,
   },

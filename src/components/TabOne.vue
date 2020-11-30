@@ -77,18 +77,12 @@
 </template>
 
 <script>
-import TabContentOne from "@/components/TabContentOne";
-import TabContentTwo from "@/components/TabContentTwo";
-import TabContentThree from "@/components/TabContentThree";
 import Valores from "@/components/Valores";
 import Objetivos from "@/components/Objetivos";
 
 export default {
   name: "TabOne",
   components: {
-    TabContentOne,
-    TabContentTwo,
-    TabContentThree,
     Objetivos,
     Valores,
   },
