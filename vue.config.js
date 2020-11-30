@@ -6,5 +6,8 @@ module.exports = {
                 data: `@import "@/assets/scss/_variabls.scss";`
             }
         }
-    }
+    },
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/reporteUCDavisChile/'
+        : '/'
 };
