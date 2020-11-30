@@ -102,7 +102,7 @@
           </div>
           <div class="col-lg-8">
             <img
-              src="http://via.placeholder.com/1500x700"
+              src="@/assets/img/organigrama.jpg"
               alt="organization chart"
               class="img-fluid"
             />
@@ -164,7 +164,7 @@
                       <TeamMember
                         :name="item.name"
                         :position="item.position"
-                        :img="`http://via.placeholder.com/500x500`"
+                        :img="item.img"
                       />
                     </div>
                     <!-- ht-team-member End -->
@@ -218,7 +218,7 @@
             <TeamMember
               :name="item.name"
               :position="item.position"
-              :img="`http://via.placeholder.com/500x500`"
+              :img="item.img"
             />
           </div>
           <!-- ht-team-member End -->
