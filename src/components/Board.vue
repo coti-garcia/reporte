@@ -2,8 +2,8 @@
   <div class="row px-4">
     <div
       class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
-      v-for="(item, e) in team"
-      :key="e"
+      v-for="item in team"
+      :key="item.name"
     >
       <TeamMember
         :name="item.name"

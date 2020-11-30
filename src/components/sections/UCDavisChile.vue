@@ -63,41 +63,43 @@
       </div>
       <Timeline />
       <CifrasGestion />
-      <div class="container section-space--ptb_120">
-        <div class="row">
-          <div class="col-12">
-            <h3 class="subtitle mb-5 redbud text-uppercase">
-              Mirando hacia la<br />
-              <strong>sustentabilidad futura</strong>
-            </h3>
+      <div class="section-space--ptb_120 bg-image">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h3 class="subtitle mb-5 redbud text-uppercase">
+                Mirando hacia la<br />
+                <strong>sustentabilidad futura</strong>
+              </h3>
+            </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-12 col-md-8">
-            <p>
-              La experiencia internacional es conocida por todos, la
-              investigación básica en normalmente financiada por fondos
-              públicos, tanto a través de los fondos basales entregados a las
-              universidades como por proyectos individuales, en lo que también
-              participan estas universidades. Así se genera gan parte de la
-              producción científica de nuestra Universidad en California.
-              Distinto es el caso de centros con temáticas específicas, con un
-              foco claro en la investigación aplicada y el desarrollo de
-              tecnología y/o conocimiento destinado a su aplicación productiva o
-              como bien público. Este el caso de los Centros de Excelencia
-              Internacional que hoy funcionan en Chile y otros Centros
-              Tecnológicos. El modelo en este caso apunta a un financiamiento de
-              tres tercios, uno basal aportado por le estado, otro de fondos
-              públicos competitivos y el último a contrato específicos con la
-              industria y sus empresas.
-            </p>
-            <p>
-              UC Davis Chile ha avanzado hacia este modelo, utilizando como base
-              el conocimiento y la experiencia de la Universidad de California
-              que se ha generado por la inversión del estado de California y
-              fondos federales de los Estados Unidos , así como el conocimiento
-              de nuestros socios académicos en Chile.
-            </p>
+          <div class="row">
+            <div class="col-12 col-md-9 white big-text">
+              <p>
+                La experiencia internacional es conocida por todos, la
+                investigación básica en normalmente financiada por fondos
+                públicos, tanto a través de los fondos basales entregados a las
+                universidades como por proyectos individuales, en lo que también
+                participan estas universidades. Así se genera gan parte de la
+                producción científica de nuestra Universidad en California.
+                Distinto es el caso de centros con temáticas específicas, con un
+                foco claro en la investigación aplicada y el desarrollo de
+                tecnología y/o conocimiento destinado a su aplicación productiva
+                o como bien público. Este el caso de los Centros de Excelencia
+                Internacional que hoy funcionan en Chile y otros Centros
+                Tecnológicos. El modelo en este caso apunta a un financiamiento
+                de tres tercios, uno basal aportado por le estado, otro de
+                fondos públicos competitivos y el último a contrato específicos
+                con la industria y sus empresas.
+              </p>
+              <p>
+                UC Davis Chile ha avanzado hacia este modelo, utilizando como
+                base el conocimiento y la experiencia de la Universidad de
+                California que se ha generado por la inversión del estado de
+                California y fondos federales de los Estados Unidos , así como
+                el conocimiento de nuestros socios académicos en Chile.
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -124,5 +126,8 @@ export default {
 <style lang="scss" scoped>
 .subtitle {
   font-size: 35px;
+}
+.big-text {
+  font-size: 18px;
 }
 </style>

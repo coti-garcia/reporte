@@ -3,17 +3,17 @@
     <div class="col-lg-12">
       <div class="swiper-container team-slider__container">
         <swiper :options="swiperOption">
-          <div class="swiper-slide" v-for="(item, e) in team" :key="e">
+          <div class="swiper-slide" v-for="item in team" :key="item.name">
             <div class="grid-item wow move-up">
               <!-- ht-team-member Start -->
               <div class="ht-team-member text-center">
                 <div class="ht-team-member--inner">
                   <!-- team-image Start -->
                   <div class="team-image">
-                    <div class="wrapper">
+                    <div v-if="item.img" class="wrapper">
                       <img
                         class="img-fluid"
-                        src="@/assets/img/team/Mauricio-Canoles.jpg"
+                        :src="require(`@/assets/img/team/${item.img}`)"
                         :alt="item.name"
                       />
                     </div>
@@ -92,7 +92,7 @@ export default {
           name: "Cindy M. Kiel",
           position:
             "Excecutive Associate Vice Chancellor of Research Administration",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {

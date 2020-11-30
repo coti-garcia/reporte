@@ -3,7 +3,11 @@
     <!-- team-image Start -->
     <div class="team-image">
       <div v-if="img" class="wrapper">
-        <img class="img-fluid" :src="img" :alt="name" />
+        <img
+          class="img-fluid"
+          :alt="name"
+          :src="require(`@/assets/img/team/${img}`)"
+        />
       </div>
       <img
         v-if="country == 'US'"
