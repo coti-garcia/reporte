@@ -53,7 +53,7 @@ export const routes = [
             },
             {
                 path: '/reporteUCDavisChile/',
-                name: 'Home',
+                name: 'Reporte',
                 // component: Home,
             }
         ]
