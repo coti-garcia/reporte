@@ -37,7 +37,7 @@
             <div class="col-lg-6 wow move-up">
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
-                  src="@/assets/img/team/empty.jpg"
+                  src="@/assets/img/area_01.jpg"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -283,7 +283,7 @@
             <div class="col-lg-5 order-lg-2 order-1 wow move-up">
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
-                  src="@/assets/img/team/empty.jpg"
+                  src="@/assets/img/area_02.jpg"
                   class="img-fluid"
                   alt="thumbnail"
                 />
@@ -297,11 +297,20 @@
           <div class="row">
             <div class="col-lg-6 wow move-up">
               <div class="clinic-work-step__media images-left-ml text-center">
-                <img
-                  src="@/assets/img/team/empty.jpg"
-                  class="img-fluid"
-                  alt="thumbnail"
-                />
+                <div>
+                  <img
+                    src="@/assets/img/uc-cooperative-extension-logo.png"
+                    class="img-fluid"
+                    alt="thumbnail"
+                  />
+                </div>
+                <div class="line">
+                  <img
+                    src="@/assets/img/logo-vertical.jpg"
+                    class="img-fluid"
+                    alt="thumbnail"
+                  />
+                </div>
               </div>
             </div>
             <div class="col-lg-6 wow move-up">
@@ -358,7 +367,7 @@
             <div
               v-for="item in extension"
               :key="item.id"
-              class="col-4 extension"
+              class="col-12 col-md-4 extension"
             >
               <div class="circle-number">{{ item.num }}</div>
               <div class="col-12">
@@ -441,6 +450,8 @@ export default {
   max-width: 900px;
 }
 .feature-app-landing__wrap {
+  padding-left: 0;
+  padding-right: 0;
   .heading {
     color: $bodega;
     font-weight: bold;
