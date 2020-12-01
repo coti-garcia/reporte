@@ -45,11 +45,12 @@ export default {
 <style lang="scss" scoped>
 .team-image {
   width: 150px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
   .wrapper {
-    width: 120px;
-    height: 120px;
+    max-width: 120px;
+    max-height: 120px;
     border-radius: 50%;
     overflow: hidden;
     margin-left: auto;
@@ -58,9 +59,16 @@ export default {
   img.flag-icon {
     position: absolute;
     z-index: 10;
-    top: 10px;
-    right: 10px;
-    width: 30px;
+    top: 0px;
+    right: -20px;
+    width: 25px;
+    @media #{$min-tablet} {
+      top: 0px;
+      right: 0px;
+    }
+  }
+  img {
+    max-width: 100%;
   }
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
   <div class="row px-4">
     <div
-      class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
+      class="ht-team-member board-member col-12 col-md-3 col-lg-2 mb-4 wow move-up"
       v-for="item in team"
       :key="item.name"
     >
@@ -9,7 +9,6 @@
         :name="item.name"
         :boardPosition="item.boardPosition"
         :position="item.position"
-        :img="item.img"
         :country="item.country"
       />
     </div>
@@ -20,7 +19,7 @@
       </h4>
     </div>
     <div
-      class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
+      class="ht-team-member col-12 col-md-3 col-lg-2 mb-4 wow move-up"
       v-for="(item, i) in pastTeam"
       :key="i"
     >
@@ -48,21 +47,21 @@ export default {
           name: "Cindy M. Kiel",
           position:
             "Excecutive Associate Vice Chancellor of Research Administration",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           boardPosition: "Vice-Presidente",
           name: "Joanna Regulska",
           position: "Vice Provost and Dean of Global Affairs",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           boardPosition: "Secretaria",
           name: "Kristen C. Stevenson",
           position: "Associate Campus Counsel",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
@@ -70,14 +69,14 @@ export default {
           name: "William Tucker",
           position:
             "Associate Vice Chancellor for Innovation and Technology Commercialization",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           boardPosition: "Director",
           name: "Prasant Mohapatra",
           position: "Vice Chancellor for Research",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
@@ -85,14 +84,14 @@ export default {
           name: "Ermias Kebreab",
           position:
             "Associate Vice Provost of Academic Programs in Global Affairs",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           boardPosition: "Director",
           name: "Michael Lazzara",
           position: "Associate Vice Provost of Academic Programs.",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
@@ -100,7 +99,7 @@ export default {
           name: "Paul Dodd",
           position:
             "Associate Vice Chancellor for Interdisciplinary Research and Strategic Initiatives, UC Davis",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
@@ -108,7 +107,7 @@ export default {
           name: "Pedro Bustos",
           position:
             "Director Nacional del Instituto de Investigaciones Agropecuarias (INIA), en representación del Ministerio de Agricultura",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
         {
@@ -116,14 +115,14 @@ export default {
           name: "Pablo Villalobos",
           position:
             "Director Departamento de Innovación y Transferencia Tecnológica, Universidad de Tarapacá",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
         {
           boardPosition: "Director",
           name: "Eugenio Doussoulin",
           position: "Associate Campus Counsel",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
         {
@@ -131,7 +130,7 @@ export default {
           name: "Ariel Orellana",
           position:
             "Vicerrector de Investigación y Doctorado, Universidad Andrés Bello",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
       ],
@@ -139,40 +138,40 @@ export default {
         {
           name: "Cameron Carter",
           position: "Presidential Chair in Neuroscience",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           name: "James Hill",
           position:
             "Associate Dean for International Programs in the College of Agricultural and Environmental Sciences",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           name: "Dushyant Pathak",
           position:
             "Former Associate Vice Chancellor of Technology Management and Corporate Relations",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           name: "Harris Lewin",
           position: "Former Vice Chancellor for Research",
-          img: "",
+          img: "empty.jpg",
           country: "US",
         },
         {
           name: "Gonzalo Herrera",
           position:
             "Ex Vicerrector de Innovación, representante Universidad de Talca 2015-2017",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
         {
           name: "Julio Kalazich",
           position: "Director de INIA 2014-2018",
-          img: "",
+          img: "empty.jpg",
           country: "CL",
         },
       ],

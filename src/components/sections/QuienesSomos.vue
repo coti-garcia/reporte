@@ -22,7 +22,7 @@
     </div>
 
     <section class="board section-space--pb_120">
-      <div class="container mt-5">
+      <div class="container mt-md-3 mt-lg-5">
         <div class="row">
           <div class="col-lg-10">
             <div class="section-title section-space--mb_60">
@@ -54,10 +54,10 @@
     </section>
 
     <section
-      class="bg-arboretum executive-team section-space--pb_120 section-space--pt_60 mt-6"
+      class="bg-arboretum executive-team section-space--pb_120 section-space--pt_60 mt-lg-6"
     >
-      <div class="container mt-5 inner-section">
-        <div class="row pt-5">
+      <div class="container mt-lg-5 inner-section">
+        <div class="row pt-mb-5">
           <div class="col-lg-4">
             <div class="section-title section-space--mb_60">
               <h3
@@ -76,7 +76,7 @@
           <div class="col-lg-8 px-4 justify-content-center">
             <div class="row">
               <div
-                class="ht-team-member col-6 col-lg-4 mb-4 wow move-up"
+                class="ht-team-member col-12 col-md-4 col-lg-4 mb-4 wow move-up"
                 v-for="(item, e) in executiveTeam"
                 :key="e"
               >
@@ -113,7 +113,7 @@
 
     <section class="administration section-space--pt_60">
       <div class="container">
-        <div class="row pt-5 mt-5">
+        <div class="row pt-lg-5 mt-mb-5">
           <div class="col-lg-10">
             <div class="section-title section-space--mb_60">
               <h3
@@ -196,7 +196,7 @@
       <div class="container-fluid">
         <div class="row px-4 justify-content-center">
           <div
-            class="ht-team-member col-6 col-md-3 col-lg-2 mb-4 wow move-up"
+            class="ht-team-member col-12 col-md-3 col-lg-2 mb-4 wow move-up"
             v-for="(item, e) in researchTeam"
             :key="e"
           >
@@ -302,17 +302,15 @@ export default {
         1499: {
           slidesPerView: 5,
         },
-
         991: {
-          slidesPerView: 6,
+          slidesPerView: 4,
         },
-
         767: {
           slidesPerView: 3,
         },
-
         575: {
-          slidesPerView: 2,
+          slidesPerView: 1,
+          slidesPerColumn: 2,
         },
       },
     },
