@@ -21,7 +21,7 @@
           />
         </div>
         <div class="row">
-          <div class="col-12 col-md-3">
+          <div class="col-12 col-lg-3">
             <p class="intro blue">
               El trabajo del
               <em>Centro de Innovación UC Davis Chile</em> se realiza en
@@ -31,7 +31,7 @@
               California.
             </p>
           </div>
-          <div class="col-12 col-md-8">
+          <div class="col-12 col-lg-8 mt-4 mt-mb-0">
             <p>
               En el caso de Chile, hemos articulado nuevas formas de trabajo
               colaborativo, obtenido acceso a laboratorios e investigación de

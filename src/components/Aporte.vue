@@ -3,23 +3,23 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h3 class="subtitle text-center poppy mb-5 text-uppercase">
+          <h3 class="subtitle text-center poppy mb-md-5 text-uppercase">
             EN 5 AÑOS NUESTRO APORTE AL PAÍS SE TRADUCE EN:
           </h3>
         </div>
       </div>
-      <div class="row info">
-        <div class="col col-md-3">
+      <div class="row info first">
+        <div class="col-12 col-md-6 col-lg-3">
           <div class="main poppy"><span class="big">+ 85</span></div>
           Investigadores, académicos y staff de la Universidad de California
           Davis colaborando activamente en proyectos de I+D y extensión
           tecnológica
         </div>
-        <div class="col col-md-3">
+        <div class="col-12 col-md-6 col-lg-3">
           <span class="big blue">+ 70</span> investigadores nacionales han sido
           parte del staff del Centro.
         </div>
-        <div class="col col-md-3">
+        <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex poppy">
             <span class="big">4</span
             ><span class="genomas">Genomas de referencia</span>
@@ -36,7 +36,7 @@
             >Revisar: Repositorio de genomas de vides viníferas</a
           >
         </div>
-        <div class="col col-md-3">
+        <div class="col-12 col-md-6 col-lg-3">
           <div>
             <div class="main d-flex blue">
               <span class="big">29</span
@@ -46,8 +46,8 @@
           </div>
         </div>
       </div>
-      <div class="row info">
-        <div class="col col-md-2">
+      <div class="row info medium">
+        <div class="col-12 col-md-4 col-lg-2">
           <div class="item">
             <div class="main d-flex d-md-block poppy">
               <span class="big">4</span
@@ -71,8 +71,8 @@
             agroalimentario nacional
           </div>
         </div>
-        <div class="col col-md-5">
-          <div class="main d-flex blue align-">
+        <div class="col-12 col-md-8 col-lg-5">
+          <div class="main d-flex blue mb-2">
             <span class="big">3</span
             ><span class="genomas">Solicitudes de patentes presentadas</span>
           </div>
@@ -113,7 +113,7 @@
             </li>
           </ol>
         </div>
-        <div class="col col-md-5">
+        <div class="col-12 col-md-12 col-lg-5">
           <div class="item">
             <div class="main d-flex poppy">
               <span class="big">2</span
@@ -151,9 +151,9 @@
           </div>
         </div>
       </div>
-      <div class="row info">
-        <div class="col col-md-6">
-          <div class="main d-flex blue">
+      <div class="row info last">
+        <div class="col-12 col-md-12 col-lg-6">
+          <div class="main d-flex blue mb-2">
             <span class="big">8</span
             ><span class="genomas"
               >Universidades e instituciones de investigación</span
@@ -161,7 +161,7 @@
           </div>
           nacionales e internacionales asociados al Centro para el desarrollo de
           proyectos de investigación.
-          <ul>
+          <ul class="mt-3">
             <li>Universidad Andrés Bello (UNAB)</li>
             <li>Universidad de Talca (UTalca)</li>
             <li>Universidad de Tarapacá (UTA)</li>
@@ -175,7 +175,7 @@
             </li>
           </ul>
         </div>
-        <div class="col col-md-3">
+        <div class="col-12 col-md-6 col-lg-3">
           <div class="item">
             <div class="main d-flex d-md-block poppy">
               <span class="big">28</span><span class="medium">Empresas </span>
@@ -193,7 +193,7 @@
           </div>
         </div>
 
-        <div class="col col-md-3">
+        <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex blue">
             <span class="big">96</span
             ><span class="genomas">Eventos de difusión</span>
@@ -232,6 +232,10 @@ export default {
     font-size: 18px;
     font-weight: bold;
     line-height: 1.1;
+    padding-left: 15px;
+    @media #{$min-tablet} {
+      padding-left: 0px;
+    }
   }
 }
 ul {
@@ -243,15 +247,47 @@ a {
 }
 
 .info {
-  border-bottom: dotted 2px $gold;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  .col {
-    border-right: dotted 2px $gold;
-    padding-right: 30px;
-    padding-left: 30px;
-    &:last-child {
-      border-right: none;
+  @media #{$min-tablet} {
+    border-bottom: dotted 2px $gold;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .col-12 {
+    border-bottom: dotted 2px $gold;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    &:first-child {
+      padding-top: 20px;
+    }
+    @media #{$large-mobile} {
+      max-width: calc(100% - 20px);
+    }
+    @media #{$min-tablet} {
+      border-right: dotted 2px $gold;
+      padding-right: 30px;
+      padding-left: 30px;
+      margin-right: 0px;
+      margin-left: 0px;
+      &:nth-child(even) {
+        border-right: none;
+      }
+      &:nth-child(3) {
+        border-bottom: none;
+      }
+      &:nth-child(4) {
+        border-bottom: none;
+      }
+    }
+    @media #{$min-desktop} {
+      border-bottom: none;
+      &:nth-child(even) {
+        border-right: dotted 2px $gold;
+      }
+      &:last-child {
+        border-right: none;
+      }
     }
   }
   .item {
@@ -260,6 +296,12 @@ a {
     margin-bottom: 20px;
     &:last-child {
       border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 0px;
+      @media #{$min-tablet} {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+      }
     }
     .big {
       display: block;
@@ -267,6 +309,60 @@ a {
   }
   &:last-child {
     border-bottom: none;
+  }
+}
+.info.last {
+  .col-12 {
+    @media #{$min-tablet} {
+      border-right: 0;
+    }
+  }
+  .col-12:first-child {
+    @media #{$min-desktop} {
+      border-right: dotted 2px $gold;
+    }
+  }
+  .col-12:nth-child(2) {
+    @media #{$min-tablet} {
+      border-bottom: 0;
+    }
+  }
+  .col-12:last-child {
+    border-bottom: 0;
+    @media #{$min-tablet} {
+      border-left: dotted 2px $gold;
+    }
+  }
+  @media #{$min-desktop} {
+    margin-top: 30px;
+  }
+}
+.info.medium {
+  @media #{$min-tablet} {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .col-12:last-child {
+    @media #{$min-tablet} {
+      border-right: 0;
+    }
+  }
+  @media #{$min-desktop} {
+    padding-bottom: 30px;
+  }
+}
+
+ol {
+  li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+.subtitle {
+  @media #{$min-tablet} {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 </style>
