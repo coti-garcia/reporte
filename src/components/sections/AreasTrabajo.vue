@@ -46,7 +46,7 @@
             <div class="col-lg-6 wow move-up">
               <div class="clinic-work-process-step__content">
                 <div class="app-showcase__inner">
-                  <div class="sub__title mb-20">
+                  <div class="sub__title mb-20 mt-4 mt-md-0">
                     <h6 class="font-weight--bold gold">Área 01</h6>
                   </div>
                   <h3 class="bodega subtitle text-uppercase mb-3">
@@ -233,7 +233,7 @@
             <div class="col-lg-7 order-lg-1 order-2 wow move-up">
               <div class="clinic-work-process-step__content">
                 <div class="app-showcase__inner">
-                  <div class="sub__title mb-20">
+                  <div class="sub__title mb-20 mt-4 mt-md-0">
                     <h6 class="font-weight--bold gold">Área 02</h6>
                   </div>
                   <h3 class="subtitle bodega text-uppercase mb-3">
@@ -296,7 +296,9 @@
         <div class="clinic-work-process-step section-space--pt_90">
           <div class="row">
             <div class="col-lg-6 wow move-up">
-              <div class="clinic-work-step__media images-left-ml text-center">
+              <div
+                class="clinic-work-step__media images-left-ml logos-area text-center"
+              >
                 <div>
                   <img
                     src="@/assets/img/uc-cooperative-extension-logo.png"
@@ -491,7 +493,19 @@ export default {
     font-weight: bold;
     line-height: 80px;
     margin-bottom: 20px;
-    margin-left: 15px;
+  }
+  .col-12 {
+    padding: 0;
+  }
+}
+.logos-area {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  .line {
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: solid thin #ccc;
   }
 }
 </style>
