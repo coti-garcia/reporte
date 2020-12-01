@@ -126,6 +126,7 @@ export default {
   }
   &.is-sticky {
     padding: 10px 15px;
+
     a.menu-btn {
       color: $theme-color--default;
       span {
@@ -152,6 +153,12 @@ export default {
   }
   .navbar-brand {
     margin-right: 0;
+    justify-content: flex-start;
+  }
+}
+.navbar {
+  .container-fluid {
+    justify-content: flex-start !important;
   }
 }
 </style>
