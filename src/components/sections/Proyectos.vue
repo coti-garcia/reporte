@@ -30,7 +30,7 @@
           item-selector=".masonary-item"
         >
           <div
-            class="col-lg-4 col-md-6 masonary-item wow move-up"
+            class="col-lg-4 col-md-6 masonary-item"
             v-for="project in projects"
             :key="project.id"
           >

@@ -14,9 +14,9 @@
     </div>
     <!-- ht-team-member End -->
     <div class="col-12">
-      <h4 class="arboretum font-weight--light mb-15 wow move-up">
+      <h5 class="arboretum mt-3 font-weight--light mb-15 wow move-up">
         PAST DIRECTORS
-      </h4>
+      </h5>
     </div>
     <div
       class="ht-team-member col-12 col-md-3 col-lg-2 mb-4 wow move-up"
