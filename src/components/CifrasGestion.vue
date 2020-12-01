@@ -8,7 +8,7 @@
           </h3>
         </div>
       </div>
-      <div class="row section-space--pb_60">
+      <div class="row graficos">
         <div class="col-12 col-md-6">
           <p>
             La instalación del Centro UC Davis Chile fue apoyada financieramente
@@ -35,26 +35,26 @@
             <strong class="redbud">US$ 33 millones.</strong>
           </p>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 mt-4 mt-md-0">
           <h5>Presupuesto Proyecto Centro de Excelencia Internacional</h5>
           <BudgetChart />
         </div>
       </div>
-      <div class="row mt-5 section-space--pb_60">
-        <div class="col-12 col-md-7">
+      <div class="row mt-5">
+        <div class="col-12 col-md-7 order-2 order-md-1">
           <h5>Ingresos del Centro:</h5>
           <div class="row">
-            <div class="col-12 col-md-6">
+            <div class="col-6 col-md-6">
               <h6>Fase Instalación 3 años (2015-2017)</h6>
               <DoughnutChartOne />
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-6 col-md-6">
               <h6>Fase Instalación 3 años (2018-2020)</h6>
               <DoughnutChartTwo />
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-5">
+        <div class="col-12 col-md-5 order-1 order-md-2 mb-5 mb-md-0">
           <p>
             Durante estas dos fases del proyecto, el Centro UC Davis Chile ha
             logrado además generar ingresos a través de otras fuentes, más allá
@@ -87,7 +87,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 mt-4 mt-md-0">
           <h5>Gastos del Centro:</h5>
           <SpendChart />
         </div>
@@ -125,6 +125,16 @@ export default {
     color: $blue;
     font-size: 15px;
     margin-bottom: 15px;
+  }
+}
+.cifras {
+  .row {
+    @media #{$min-tablet} {
+      padding-bottom: 30px;
+    }
+    &:nth-child(1) {
+      padding-bottom: 10px;
+    }
   }
 }
 </style>

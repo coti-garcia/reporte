@@ -27,7 +27,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-12 col-md-6">
+          <div class="col-12 col-md-6 mb-3">
             <img src="@/assets/img/UC-Davis-CL.png" width="100%" />
           </div>
           <div class="col-12 col-md-6">
@@ -125,7 +125,10 @@ export default {
 
 <style lang="scss" scoped>
 .subtitle {
-  font-size: 35px;
+  font-size: 28px;
+  @media #{$min-tablet} {
+    font-size: 35px;
+  }
 }
 .big-text {
   font-size: 18px;
