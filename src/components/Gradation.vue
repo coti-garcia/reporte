@@ -15,7 +15,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-tractor"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Define your ideas</h5> -->
           <div class="icon-process-single__text">
@@ -39,7 +39,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-hands-helping"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Work on designs</h5> -->
           <div class="icon-process-single__text">
@@ -62,7 +62,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-plane-departure"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Coding and Review</h5> -->
           <div class="icon-process-single__text">
@@ -87,7 +87,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-stars"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Coding and Review</h5> -->
           <div class="icon-process-single__text">
@@ -112,7 +112,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-seedling"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Coding and Review</h5> -->
           <div class="icon-process-single__text">
@@ -137,7 +137,7 @@
         </div>
         <div class="icon-process-single__content-wrap">
           <div class="icon-process-single__media">
-            <i class="fal fa-circle"></i>
+            <i class="fal fa-flag-usa"></i>
           </div>
           <!-- <h5 class="icon-process-single__title">Coding and Review</h5> -->
           <div class="icon-process-single__text">

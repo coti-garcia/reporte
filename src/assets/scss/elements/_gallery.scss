@@ -32,7 +32,7 @@
         grid-template-columns: repeat( 2,1fr);
     }
     @media #{$large-mobile}{
-        grid-template-columns: repeat( 1,1fr);
+        grid-template-columns: repeat( 2,1fr);
     }
 }
 .grid-height-2 {
@@ -44,7 +44,7 @@
 .grid-width-2 {
     grid-column: span 2;
     @media #{$large-mobile}{
-        grid-column: span 1;
+        grid-column: span 2;
     }
 }
 .gallery-grid.grid-gap__none {

@@ -43,7 +43,7 @@
                     </div>
                     <div class="payment-conters section-space--mb_40">
                       <div class="row">
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-6">
                           <div class="fun-fact--three">
                             <span class="fun-fact__count arboretum"
                               ><span>9</span></span
@@ -54,7 +54,7 @@
                             </h6>
                           </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-6">
                           <div class="fun-fact--three">
                             <span class="fun-fact__count arboretum"
                               ><span>130</span></span
@@ -64,7 +64,7 @@
                             </h6>
                           </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-6">
                           <div class="fun-fact--three">
                             <span class="fun-fact__count arboretum"
                               ><span>57</span></span
@@ -73,7 +73,7 @@
                           </div>
                         </div>
 
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-6">
                           <div class="fun-fact--three">
                             <span class="fun-fact__count arboretum"
                               ><span>200</span></span
