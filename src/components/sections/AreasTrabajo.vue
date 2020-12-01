@@ -502,10 +502,25 @@ export default {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
+  @media #{$min-desktop} {
+    flex-direction: column;
+    margin-top: 50px;
+    img {
+      max-width: 250px;
+    }
+  }
   .line {
     margin-left: 10px;
     padding-left: 10px;
     border-left: solid thin #ccc;
+    @media #{$min-desktop} {
+      margin-left: 0px;
+      padding-left: 0px;
+      border-left: none;
+      margin-top: 30px;
+      padding-top: 30px;
+      border-top: solid thin #ccc;
+    }
   }
 }
 </style>
