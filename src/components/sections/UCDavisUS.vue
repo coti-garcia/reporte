@@ -137,12 +137,18 @@ export default {
   .bg-image {
     background: $cabernet;
     width: 200px;
-    height: 80%;
+    height: 22%;
     display: block;
     position: absolute;
     z-index: 0;
     top: -20px;
     left: -80px;
+    @media #{$min-tablet} {
+      height: 420px;
+    }
+    @media #{$min-desktop} {
+      height: 80%;
+    }
   }
 }
 </style>

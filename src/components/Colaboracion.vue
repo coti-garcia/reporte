@@ -24,7 +24,7 @@
                 </div>
               </div>
               <div
-                class="col-lg-6 col-md-12 wow move-up"
+                class="col-lg-6 col-md-12 wow move-up colaboracion"
                 style="visibility: visible"
               >
                 <div class="payment-process-step__content float-md-right">
@@ -163,5 +163,8 @@ export default {
     bottom: 120px;
     left: -40px;
   }
+}
+.colaboracion {
+  margin-top: 80px;
 }
 </style>

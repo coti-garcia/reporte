@@ -17,7 +17,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 wow move-up">
+        <div class="col-6 col-lg-3 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
@@ -36,7 +36,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 wow move-up">
+        <div class="col-6 col-lg-3 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
@@ -165,6 +165,10 @@ h4 {
 
 .heading {
   font-weight: bold;
+  font-size: 20px;
+  @media #{$min-tablet} {
+    font-size: 25px;
+  }
 }
 .big-num {
   font-size: 80px;
