@@ -38,7 +38,7 @@
               <div class="clinic-work-step__media images-left-ml text-center">
                 <img
                   src="@/assets/img/area_01.jpg"
-                  class="img-fluid"
+                  class="img-fluid pr-lg-5"
                   alt="thumbnail"
                 />
               </div>
@@ -284,7 +284,7 @@
               <div class="clinic-work-step__media images-right-mr text-center">
                 <img
                   src="@/assets/img/area_02.jpg"
-                  class="img-fluid"
+                  class="img-fluid pl-lg-5"
                   alt="thumbnail"
                 />
               </div>
