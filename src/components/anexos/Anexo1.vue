@@ -182,4 +182,8 @@ export default {
   font-size: 25px;
   margin-bottom: 20px;
 }
+.table th,
+.table td {
+  max-width: 500px;
+}
 </style>

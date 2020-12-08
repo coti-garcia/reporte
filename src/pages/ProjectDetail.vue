@@ -138,7 +138,7 @@
                         :alt="project.name"
                       />
                       <h6 class="text-white">
-                        {{ prevProject.id }}: {{ prevProject.name }}
+                        {{ prevProject.name }}
                       </h6>
                     </div>
                   </router-link>
@@ -164,7 +164,7 @@
                         :alt="project.name"
                       />
                       <h6 class="text-white">
-                        {{ nextProject.id }}: {{ nextProject.name }}
+                        {{ nextProject.name }}
                       </h6>
                     </div>
                   </router-link>
@@ -239,7 +239,7 @@ export default {
   methods: {
     backToProjects() {
       console.log("click");
-      return this.$router.push("/#proyectos");
+      return this.$router.push("/proyectos");
     },
   },
 };

@@ -4,12 +4,23 @@
       <strong>8 Publicaciones</strong> científicas indexadas:
     </div>
     <div v-for="publication in publications" :key="publication.id">
-      <h6>{{ publication.authors }}</h6>
-      <h3>
-        <strong>{{ publication.title }}</strong> {{ publication.other }}
-      </h3>
-      {{ publication.link }}
-      {{ publication.link2 }}
+      <div class="ht-service-box--three mb-4">
+        <div class="service-box-wrap">
+          <p class="mb-0">{{ publication.authors }}</p>
+          <h3 class="blue mt-1 mb-3">
+            <a :href="publication.link" target="_blank">
+              <strong>{{ publication.title }}</strong> {{ publication.other }}
+            </a>
+          </h3>
+          <a :href="publication.link" target="_blank" class="link">
+            <i class="fa fa-chevron-right gold pr-1"></i> {{ publication.link }}
+          </a>
+          <a :href="publication.link" target="_blank" v-if="publication.link2">
+            <i class="fa fa-chevron-right gold pr-1"></i>
+            {{ publication.link2 }}</a
+          >
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -98,5 +109,20 @@ export default {
 .title-unit {
   font-size: 25px;
   margin-bottom: 20px;
+}
+.ht-service-box--three {
+  .service-box-wrap {
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    h3 {
+      font-size: 20px;
+      margin: 10px 0;
+    }
+    a.link {
+      display: block;
+      font-size: 14px;
+    }
+  }
 }
 </style>
