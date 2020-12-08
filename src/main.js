@@ -56,7 +56,7 @@ const router = new VueRouter({
                 top = document.querySelector("#mision").offsetTop;
                 return position.offset = { y: top };
             }
-            if (to.name === "Impact") {
+            if (to.name === "Impacto") {
                 top = document.querySelector("#impacto").offsetTop;
                 return position.offset = { y: top };
             }

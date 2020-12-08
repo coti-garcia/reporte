@@ -14,10 +14,30 @@
           Investigadores, académicos y staff de la Universidad de California
           Davis colaborando activamente en proyectos de I+D y extensión
           tecnológica
+          <router-link
+            :to="{
+              name: 'Anexo',
+              params: {
+                anexo: 'anexo-1',
+              },
+            }"
+            class="link text-uppercase gold pt-3"
+            >Ver anexo</router-link
+          >
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <span class="big blue">+ 70</span> investigadores nacionales han sido
           parte del staff del Centro.
+          <router-link
+            :to="{
+              name: 'Anexo',
+              params: {
+                anexo: 'anexo-2',
+              },
+            }"
+            class="link text-uppercase gold pt-3"
+            >Ver anexo</router-link
+          >
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex poppy">
@@ -25,15 +45,18 @@
             ><span class="genomas">Genomas de referencia</span>
           </div>
           de vides viníferas desarrollados
-          <ul>
+          <ul class="pb-3">
             <li>Merlot</li>
             <li>Chardonnay</li>
             <li>Savignon Blanc</li>
             <li>Carménerè</li>
           </ul>
 
-          <a href="#" target="_blank"
-            >Revisar: Repositorio de genomas de vides viníferas</a
+          <a
+            class="gold"
+            href="https://cantulab.github.io/data.html"
+            target="_blank"
+            >REVISAR: Repositorio de genomas de vides viníferas</a
           >
         </div>
         <div class="col-12 col-md-6 col-lg-3">
@@ -54,6 +77,16 @@
               ><span class="medium">Tesis de posgrado</span>
             </div>
             con base en proyectos de I+D del centro
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-4',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
           </div>
           <div class="item">
             <div class="main d-flex d-md-block blue">
@@ -61,6 +94,16 @@
               ><span class="medium">Publicaciones</span>
             </div>
             científicas indexadas
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-3',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
           </div>
           <div class="item">
             <div class="main d-flex d-md-block poppy">
@@ -69,6 +112,16 @@
             </div>
             técnica publicados en revistas especializadas del sector
             agroalimentario nacional
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-5',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
           </div>
         </div>
         <div class="col-12 col-md-8 col-lg-5">
@@ -148,6 +201,16 @@
               <span class="big">55</span><span class="genomas">Proyectos</span>
             </div>
             de I+D, transferencia, extensión tecnológica realizados.
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-6',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
           </div>
         </div>
       </div>
@@ -201,6 +264,16 @@
           para presentar resultados del Centro y hacer disponible el
           conocimiento avanzado de California en múltiples temáticas de interés
           para el sector productivo, académico y público.
+          <router-link
+            :to="{
+              name: 'Anexo',
+              params: {
+                anexo: 'anexo-7',
+              },
+            }"
+            class="link text-uppercase gold pt-3"
+            >Ver anexo</router-link
+          >
         </div>
       </div>
     </div>
@@ -363,6 +436,12 @@ ol {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+.link {
+  display: block;
+  &:hover {
+    color: $blue !important;
   }
 }
 </style>
