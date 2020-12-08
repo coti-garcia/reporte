@@ -78,4 +78,9 @@ export const routes = [
             }
         }
     },
+    {
+        path: '/impacto/:anexo',
+        name: 'Anexo',
+        component: () => import("../pages/Anexo")
+    },
 ];
