@@ -248,7 +248,7 @@ export default {
   margin: 0 0 0.5em 0;
   text-transform: uppercase;
   white-space: nowrap;
-  color: $redbud;
+  color: white;
 }
 /*----- TIMELINE MARKER -----*/
 
