@@ -4,11 +4,21 @@
       <strong>4 Tesis de posgrado </strong> con base en proyectos de I+D del
       centro:
     </div>
-    <div v-for="tesis in list" :key="tesis.id">
-      <h6>{{ tesis.authors }}</h6>
-      <h3>
-        <strong>{{ tesis.title }}</strong>
-      </h3>
+    <div class="row">
+      <div v-for="tesis in list" :key="tesis.id" class="col-12 col-md-6 mb-5">
+        <div class="tesis">
+          <h4>{{ tesis.authors }}</h4>
+          <h3>
+            <small>{{ tesis.type }}</small>
+            {{ tesis.title }}
+          </h3>
+          <p>{{ tesis.grade }}</p>
+          <p>
+            <em>{{ tesis.other }}</em>
+          </p>
+          <h1>**Agregar link a proyecto</h1>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -63,5 +73,33 @@ export default {
 .title-unit {
   font-size: 25px;
   margin-bottom: 20px;
+}
+.tesis {
+  padding: 37px 30px 37px 30px;
+  box-shadow: 0 0 40px 5px rgba(51, 51, 51, 0.1);
+  background: #fff;
+  border-radius: 10px;
+  height: 100%;
+  h4 {
+    font-size: 22px;
+    font-weight: bold;
+    color: $gold;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: $blue;
+    margin-bottom: 20px;
+    small {
+      text-transform: uppercase;
+      display: block;
+      margin-bottom: 8px;
+      font-size: 15px;
+    }
+  }
+  p {
+    margin-bottom: 0;
+  }
 }
 </style>
