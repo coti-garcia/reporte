@@ -13,10 +13,19 @@
             {{ tesis.title }}
           </h3>
           <p>{{ tesis.grade }}</p>
-          <p>
+          <div class="project-link" v-if="tesis.path">
+            <router-link
+              :to="{
+                name: 'ProjectDetail',
+                params: { slug: tesis.path },
+              }"
+              ><i class="fa fa-chevron-right gold"></i>
+              <em>{{ tesis.other }}</em></router-link
+            >
+          </div>
+          <p v-else>
             <em>{{ tesis.other }}</em>
           </p>
-          <h1>**Agregar link a proyecto</h1>
         </div>
       </div>
     </div>
@@ -35,6 +44,7 @@ export default {
           "EVALUACIÓN DEL MÉTODO DE RENOVACIÓN SUPERFICIAL PARA ESTIMAR FLUJOS DE CALOR LATENTE SOBRE UN VIÑEDO (cv. Cabernet sauvignon) REGADO POR GOTEO",
         grade: "Magister en hortofruticultura",
         other: "Asociados a proyecto “Surface renewal”",
+        path: "surface-renewal",
       },
       {
         id: "tesis-2",
@@ -45,6 +55,7 @@ export default {
         grade: "Magister en Biotecnología",
         other:
           "Asociado a proyecto “Microbial diagnostics using Omic-Based Technologies”",
+        path: "",
       },
       {
         id: "tesis-3",
@@ -54,16 +65,18 @@ export default {
           "Caracterización de la variabilidad genética de los clones de las variedades de Vitis vinifera utilizadas por las viñas chilenas",
         grade: "Doctor en Biotecnología",
         other: "Asociado a proyecto “Whole Genome Analytics”",
+        path: "id-clones",
       },
       {
         id: "tesis-4",
         authors: "Jaime Alarcón",
-        type: "",
+        type: "Tesis doctorado",
         title:
           "Determinación de la influencia de sequía en la respuesta molecular de Araucaria araucana frente a la inoculación de microorganismos patógenos asociados al daño foliar",
         grade: "Dr (c) en Biociencias moleculares",
         other:
           "Asociado a proyecto “Desarrollo e implementación de herramientas genómicas para el manejo del Daño Foliar de Araucaria araucana y su relación con prácticas culturales de conservación”",
+        path: "araucarias",
       },
     ],
   }),
@@ -100,6 +113,16 @@ export default {
   }
   p {
     margin-bottom: 0;
+  }
+  .project-link {
+    a {
+      display: flex;
+      align-items: baseline;
+      i {
+        font-size: 14px;
+        padding-right: 8px;
+      }
+    }
   }
 }
 </style>
