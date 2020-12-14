@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="section-space--pt_120 bg-gray" id="uc-davis-chile">
-      <div class="container">
+      <div class="container mb-md-5 pb-md-5">
         <div class="row">
           <div class="col">
             <ChartCircleTwo

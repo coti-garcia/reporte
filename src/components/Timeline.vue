@@ -38,7 +38,7 @@
               </div>
               <div class="timeline-marker"></div>
               <div class="timeline-content">
-                <p>{{ item.description }}</p>
+                <p v-html="item.description"></p>
               </div>
             </li>
             <li class="timeline-item period">
@@ -109,10 +109,8 @@ export default {
       {
         id: 107,
         date: "Enero, 2015",
-        description: [
-          "Taller de la Industria del Vino de Chile en California.",
-          "Se definen líneas de I+D iniciales del Centro",
-        ],
+        description:
+          "Taller de la Industria del Vino de Chile en California. <br/> Se definen líneas de I+D iniciales del Centro",
       },
       {
         id: 108,

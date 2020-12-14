@@ -36,26 +36,30 @@
           </p>
         </div>
         <div class="col-12 col-md-6 mt-4 mt-md-0">
-          <h5>Presupuesto Proyecto Centro de Excelencia Internacional</h5>
-          <BudgetChart />
+          <div class="pl-md-3">
+            <h5>Presupuesto Proyecto Centro de Excelencia Internacional</h5>
+            <BudgetChart />
+          </div>
         </div>
       </div>
       <div class="row mt-5">
         <div class="col-12 col-md-7 order-2 order-md-1">
-          <h5>Ingresos del Centro:</h5>
-          <div class="row">
-            <div class="col-6 col-md-6">
-              <h6>Fase Instalación 3 años (2015-2017)</h6>
-              <DoughnutChartOne />
-            </div>
-            <div class="col-6 col-md-6">
-              <h6>Fase Instalación 3 años (2018-2020)</h6>
-              <DoughnutChartTwo />
+          <div class="pr-md-4">
+            <h5>Ingresos del Centro:</h5>
+            <div class="row">
+              <div class="col-6 col-md-6">
+                <h6>Fase Instalación 3 años (2015-2017)</h6>
+                <DoughnutChartOne />
+              </div>
+              <div class="col-6 col-md-6">
+                <h6>Fase Instalación 3 años (2018-2020)</h6>
+                <DoughnutChartTwo />
+              </div>
             </div>
           </div>
         </div>
         <div class="col-12 col-md-5 order-1 order-md-2 mb-5 mb-md-0">
-          <p>
+          <p class="pt-md-2">
             Durante estas dos fases del proyecto, el Centro UC Davis Chile ha
             logrado además generar ingresos a través de otras fuentes, más allá
             del subsidio del programa de Atracción de Centros de Excelencia

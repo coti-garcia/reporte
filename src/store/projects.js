@@ -78,7 +78,7 @@ export default {
                     ],
                 },
             ],
-            customer: "Inchalam S.A.",
+            customer: ["Inchalam S.A."],
             investment: "US$359.000",
             description: [
                 "La fruticultura nacional ha incorporado gradualmente tecnologías para ser competitiva a nivel internacional y responder a las preferencias de consumo. Con ello, han incorporado nuevos sistemas productivos en que las operaciones se realizan en huertos de alta densidad de plantación, con árboles que provienen de patrones enanizantes que permiten huertos peatonales y homogéneos, entre otros. Es así como los sistemas de conducción en frutales se han ido sofisticando y, dependiendo de su vigor, se han introducido nuevas estructuras (trellis system) que utilizan alambre y que permiten tanto conducir y dar forma al frutal, como en entregar un soporte adicional ante eventos externos cuando se encuentran en plena producción.",
@@ -116,10 +116,8 @@ export default {
                 <h6><strong>Etapa 1:</strong> Determinación de posibles agentes causales del daño foliar en Araucaria araucana mediante un estudio comparativo de la estructura microbiana y su asociación con variables ambientales </h6>
                 <h6><strong>Etapa 2:</strong> Desarrollo e implementación de herramientas genómicas para el manejo del Daño Foliar de Araucaria araucana (DFA) y su relación con prácticas culturales de conservación.</h6>`
             ,
-            date: [
-                "Etapa 1: Diciembre 2016  a agosto 2017",
-                "Etapa 2: Noviembre 2017 a junio 2019",
-            ],
+            date:
+                "<strong>Etapa 1:</strong> Diciembre 2016  a agosto 2017 <br/> <strong>Etapa 2:</strong> Noviembre 2017 a junio 2019",
             thumb: '02/01.jpg',
             images: [
                 "02/01.jpg",
@@ -167,7 +165,7 @@ export default {
                     ],
                 },
             ],
-            customer: "Corporación Nacional Forestal (CONAF) ",
+            customer: ["Corporación Nacional Forestal (CONAF) "],
             investment: "CPL $311.650.000",
             description: [
                 "Las araucarias presentan un problema en sus hojas llamado Daño Foliar de la Araucaria (DFA), lo que genera un daño progresivo en los follajes. Para determinar si existe un componente microbiológico en este daño, se utilizaron herramientas genómicas para comparar individuos sanos con enfermos y evidenciar si hay diferencias en la composición de los microbiomas presentes en ambas condiciones. ",
@@ -237,7 +235,7 @@ export default {
                     ],
                 },
             ],
-            customer: "Industrial Leyda Limitada",
+            customer: ["Industrial Leyda Limitada"],
             investment: "$322.000.000",
             description: [
                 "La aplicación continua de fertilizantes y pesticidas químicos ha demostrado efectos perjudiciales en los ecosistemas agrícolas, como también riesgos para la salud de humanos y animales. Es relevante desarrollar productos biológicos que reemplacen y/o acompañen a los productos químicos, que presenten altos estándares de calidad y sean sustentables.",
@@ -299,7 +297,7 @@ export default {
                     ],
                 },
             ],
-            customer: "Cal Austral S.A.",
+            customer: ["Cal Austral S.A."],
             investment: "xxxxxx", // con nota amarilla
             description: [
                 "La agricultura en suelos de origen volcánico se basa en un uso excesivo, exclusivo e ineficiente de fertilizantes sintéticos producidos de fuentes no renovables y/o mediante procesos de una gran huella de carbono, por lo que un producto de origen biológico es una gran alternativa. ",
@@ -441,7 +439,7 @@ export default {
                     ],
                 },
             ],
-            customer: "CORFO",
+            customer: ["CORFO"],
             investment: "$1.172.505.874 ",
             description: [
                 "Los valles de Tutuvén, Itata, Biobío y Malleco, ubicados en las regiones de Maule, Ñuble, Biobío y Araucanía respectivamente, son los productores de uva y vinos más antiguos de Latinoamérica. En ellos se encuentran las variedades tradicionales Cinsault, Carignan, País y Moscatel de Alejandría, entre otras.  Estos territorios han quedado rezagados, perdiendo competitividad respecto a otros valles, donde predominan fundamentalmente variedades finas europeas de uva.",
@@ -506,7 +504,7 @@ export default {
                     ],
                 },
             ],
-            customer: [ // con notas amarillas
+            customer: [ // con notas amarilla]s
                 "Fundación Chile + Hoy",
                 "Fundación Mustakis",
                 "Corporación Futrono y Corporación Amigos de Lago Ranco",
@@ -687,8 +685,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "VSPT wine group y Viña Concha y Toro",
+            customer: [
+                "VSPT wine group y Viña Concha y Toro"],
             investment: "US$896.380",
             description: [//comentarios en amarillo
                 "Un aspecto relevante para asegurar la calidad de los vinos es asegurar la identidad genética de las plantas de vid utilizadas. Este desafío es particularmente complejo al tratar de identificar clones dentro de una variedad, debido a que no existen diferencias observables a simple vista. Con el objetivo de diferenciar entre clones, se desarrolló una serie de marcadores genéticos basados en secuenciación, los cuales permiten una prospección más rápida y de menor costo por planta. Los marcadores desarrollados permiten la identificación de clones específicos dentro de las variedades Cabernet Sauvignon, Sauvignon blanc, Merlot, Chardonnay y Pinot Noir. Además durante el desarrollo de este proyecto se secuenció la variedad Carmener, cepa de carácter icónico para la viticultura chilena.",
@@ -764,8 +762,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "Oficina de Estudios y Políticas Agrarias (ODEPA), Ministerio de Agricultura de Chile",
+            customer: [
+                "Oficina de Estudios y Políticas Agrarias (ODEPA), Ministerio de Agricultura de Chile"],
             investment: "$15.000.000",
             description: [//comentarios en amarillo
                 "La Oficina de Estudios y Políticas Agrarias (ODEPA) del Ministerio de Agricultura, encargó a UC Davis Chile el estudio “Economía Circular en el Sector Agroalimentario Chileno”, con la finalidad de conocer la situación en nuestro país y establecer un benchmark respecto de otros países en que se aplican prácticas productivas sostenibles y respetuosas del ecosistema.",
@@ -944,8 +942,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "Escuela Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.",
+            customer: [
+                "Escuela Politécnica del Litoral (ESPOL), Guayaquil, Ecuador."],
             investment: "US$24.900",
             description: [
                 "La ESPOL, principal universidad pública del Ecuador, está en un proceso de mejora institucional que, entre otros asuntos, busca asegurar que sus capacidades de investigación y las de sus centros de estudio y tecnología, se conecten a una dinámica de innovación orientada a los requerimientos del mercado, la industria y los territorios donde irradia su influencia. ",
@@ -1011,8 +1009,7 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "OEA",
+            customer: ["OEA"],
             investment: "$69.555.381",
             description: [
                 "El HUB de Comercialización y Transferencia de Tecnología para las Amé- ricas es un programa internacional que tiene como objetivo generar vínculos entre organizaciones y capacitar a profesionales en este ámbito.  La quinta versión de esta iniciativa, se desarrolló por primera vez en Chile entre el 27 de agosto y el 7 de septiembre del 2018, y tuvo como sede el Campus RESB de la Universidad del Desarrollo (UDD).",
@@ -1134,7 +1131,7 @@ export default {
                     ],
                 },
             ],
-            customer: "Sugal Chile Ltda.",
+            customer: ["Sugal Chile Ltda."],
             investment: "$263.000.000",
             description: [
                 "Desde 1982, en Chile existe la Phelipanche ramosa, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y la Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
@@ -1313,8 +1310,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "Comunidad de Aguas Subterráneas del Río Copiapó (CASUB)",
+            customer: [
+                "Comunidad de Aguas Subterráneas del Río Copiapó (CASUB)"],
             investment: "US$12.500",
             description: [
                 "El recurso hídrico es cada vez más escaso y su adecuado aprovechamiento es  un imperativo especialmente para Chile que se encuentra entre los 30 países con mayor stress hídrico del mundo. El momento del año en que los ríos alcanzan su mayor caudal, ofrece una gran oportunidad para implementar estrategias de recarga de los acuíferos (aguas subterráneas), que son intensamente demandados en períodos en que las aguas superficiales disminuyen significativamente.",
@@ -1404,8 +1401,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "Universidad de Tarapacá.",
+            customer: [
+                "Universidad de Tarapacá."],
             investment: "US$896.380",
             description: [
                 "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en el uso de la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
@@ -1459,8 +1456,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "VSPT Wine Group",
+            customer: [
+                "VSPT Wine Group"],
             investment: "CL$60.000 por temporada",
             description: [
                 "La disponibilidad de agua ha sido declarada como uno de los desafíos más grandes que la agricultura enfrenta actualmente. Un problema que se ha agravado debido al cambio climático, debido a recurrentes sequías, la limitada disponibilidad general de agua para riego, la expansión agrícola, y la creciente demanda urbana por aumento de la población, están forzando a la agricultura a implementar mejores técnicas de gestión de riego para mejorar la eficiencia del uso del agua.",
@@ -1521,8 +1518,8 @@ export default {
                     ],
                 },
             ],
-            customer:
-                "Subsecretaría de Salud Pública – Ministerio de Salud (Chile)",
+            customer: [
+                "Subsecretaría de Salud Pública – Ministerio de Salud (Chile)"],
             investment: "$133.142.936 CLP",
             description:
                 ["Su objetivo fue la provisión de un insumo para contribuir a la eficiencia del sistema de salud y facilitar y acelerar los procesos de innovación, en particular aquellos dirigidos a mejorar el acceso a la salud de calidad de las personas y la oportunidad de la atención. El proyecto proporciona un glosario de definiciones, un modelo de caracterización de los escenarios de telemedicina y telesalud, el marco regulatorio aplicable, un conjunto de buenas prácticas, recomendaciones y otros elementos que apuntan a facilitar el desarrollo de las prestaciones en esta modalidad en Chile, de tal forma que puedan ser asimiladas como procedimientos normales integrados y de apoyo al sistema de salud dentro de un marco de calidad y seguridad. "],

@@ -61,12 +61,18 @@
                   <tbody>
                     <tr class="portfolio-details-date">
                       <td class="label">Fecha de Ejecución</td>
-                      <td>{{ project.date }}</td>
+                      <td v-html="project.date"></td>
                     </tr>
 
                     <tr class="portfolio-details-client">
                       <td class="label">Mandantes</td>
-                      <td>{{ project.customer }}</td>
+                      <td>
+                        <ul>
+                          <li v-for="item in project.customer" :key="item">
+                            {{ item }}
+                          </li>
+                        </ul>
+                      </td>
                     </tr>
                     <tr class="portfolio-details-client">
                       <td class="label">Inversión total</td>

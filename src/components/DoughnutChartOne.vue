@@ -7,11 +7,11 @@ export default {
   data: () => ({
     chartdata: {
       labels: [
-        "Aporte Valorizado",
-        "CORFO",
-        "Aporte Universidades",
-        "Contrato con Industria",
-        "Proyectos Fondos Públicos",
+        "22% Aporte Valorizado",
+        "47% CORFO",
+        "11% Aporte Universidades",
+        "18% Contrato con Industria",
+        "2% Proyectos Fondos Públicos",
       ],
       datasets: [
         {
@@ -31,6 +31,7 @@ export default {
       maintainAspectRatio: false,
       legend: {
         position: "bottom",
+        align: "start",
       },
     },
   }),
