@@ -100,7 +100,7 @@ export default {
     margin-bottom: 20px;
   }
   h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     color: $blue;
     margin-bottom: 20px;

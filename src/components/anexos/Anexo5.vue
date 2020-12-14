@@ -271,7 +271,7 @@ export default {
   width: 100%;
   justify-content: space-between;
   h3 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     color: $blue;
     margin-bottom: 20px;
