@@ -5,18 +5,18 @@
         <div class="row">
           <div class="col">
             <ChartCircleTwo
-              circleValue="05"
+              circleValue="04"
               class="section-space--mb_40 section-space--mt_30"
               color="icing"
               sectionProgress="50"
             />
             <SectionTitle
               color="redbud"
-              sectionTitle="Centro de Innovación UC Davis Chile"
+              sectionTitle="Centro de Innovación <br />UC Davis Chile"
               class="wow move-up"
             />
             <h3 class="subtitle text-center mb-5 redbud text-uppercase">
-              Historia de nuestro propósito de instalación en Chile
+              Nuestro propósito de instalación
             </h3>
             <p class="text-center intro blue mx-auto mb-5">
               El <em>Centro de Innovación UC Davis Chile</em>, fundación de

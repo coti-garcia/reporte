@@ -6,7 +6,7 @@ export default {
   extends: Bar,
   data: () => ({
     chartdata: {
-      labels: ["Fase Instalación", "Fase Operación"],
+      labels: ["1. Fase Instalación", "2. Fase Operación"],
       datasets: [
         {
           label: "Partnership",

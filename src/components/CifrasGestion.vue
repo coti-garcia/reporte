@@ -37,7 +37,9 @@
         </div>
         <div class="col-12 col-md-6 mt-4 mt-md-0">
           <div class="pl-md-3">
-            <h5>Presupuesto Proyecto Centro de Excelencia Internacional</h5>
+            <h5 class="text-center">
+              Presupuesto Proyecto Centro de Excelencia Internacional
+            </h5>
             <BudgetChart />
           </div>
         </div>
@@ -45,14 +47,14 @@
       <div class="row mt-5">
         <div class="col-12 col-md-7 order-2 order-md-1">
           <div class="pr-md-4">
-            <h5>Ingresos del Centro:</h5>
+            <h5 class="text-center">Ingresos del Centro</h5>
             <div class="row">
               <div class="col-6 col-md-6">
-                <h6>Fase Instalación 3 años (2015-2017)</h6>
+                <h6>Fase Instalación 3 años <br />(2015-2017)</h6>
                 <DoughnutChartOne />
               </div>
               <div class="col-6 col-md-6">
-                <h6>Fase Instalación 3 años (2018-2020)</h6>
+                <h6>Fase Operación 3 años <br />(2018-2020)</h6>
                 <DoughnutChartTwo />
               </div>
             </div>
@@ -92,7 +94,7 @@
           </ul>
         </div>
         <div class="col-12 col-md-6 mt-4 mt-md-0">
-          <h5>Gastos del Centro:</h5>
+          <h5 class="text-center">Gastos del Centro</h5>
           <SpendChart />
         </div>
       </div>
@@ -140,5 +142,8 @@ export default {
       padding-bottom: 10px;
     }
   }
+}
+ul {
+  list-style: dics;
 }
 </style>

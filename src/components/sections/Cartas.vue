@@ -42,7 +42,7 @@
           <p>Los desafíos futuros, como siempre, requieren de un trabajo conjunto entre la academia, el sector público y la industria. Para esto UC Davis Chile sigue trabajando en compartir la experiencia de California y su red internacional fortaleciendo los procesos de I+D, Transferencia Tecnológica y Extensión. Esperamos que este documento sea una “muestra” de lo que podemos lograr en forma colaborativa para el desarrollo económico y social de Chile.</p>
           <div class="testimonial-slider__author">
             <h6 class="name bodega">Dr. Mauricio Cañoles</h6>
-            <div class="designation">Gerente General</div>
+            <div class="designation">General Manager</div>
             <div class="designation">UC Davis Chile</div>
           </div>
         </div>
@@ -74,7 +74,7 @@
                <div class="testimonial-slider__author">
                
                 <h6 class="name bodega">Lovell “Tu” Jarvis</h6>
-                <div class="designation">Director Ejecutivo</div>
+                <div class="designation">Executive Director</div>
                 <div class="designation">UC Davis Chile</div>
                 </div>
               </div>

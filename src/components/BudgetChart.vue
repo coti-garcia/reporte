@@ -15,7 +15,7 @@ export default {
           data: [5132, 4105, 1711],
         },
         {
-          label: "Pecuaniario",
+          label: "Pecuniario",
           backgroundColor: "#f095CD",
           stack: "Stack 0",
           data: [3018, 3991, 7602],

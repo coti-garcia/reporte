@@ -16,7 +16,7 @@
         <div class="col-12">
           <SectionTitle
             color="poppy"
-            sectionTitle="Impacto"
+            sectionTitle="Impacto simétrico para <br/>Chile y California"
             class="wow move-up"
           />
         </div>

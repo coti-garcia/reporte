@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12">
           <h3 class="subtitle text-center poppy mb-md-5 text-uppercase">
-            EN 5 AÑOS NUESTRO APORTE AL PAÍS SE TRADUCE EN:
+            EN 5 AÑOS NUESTRO APORTE AL PAÍS <br />SE TRADUCE EN:
           </h3>
         </div>
       </div>
@@ -27,7 +27,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <span class="big blue">+ 70</span> investigadores nacionales han sido
-          parte del staff del Centro.
+          parte del staff del Centro
           <router-link
             :to="{
               name: 'Anexo',
@@ -140,7 +140,7 @@
               >
               (hongos de la madera en vides), utilizando para esto una cepa
               endófita del hongo Clonostachys rosea, R36.1. (Depósito CChRGM
-              989). Patente presentada a PCT.
+              989). Patente presentada a PCT
             </li>
             <li>
               <strong
@@ -150,7 +150,7 @@
               tales como Botrytis, Fusarium, Monilinia y otras basado en la
               bacteria Pseudomonas lini cepa S57 (Depósito CChRGM 2930) para su
               uso agrícola en ambientes salino- bóricos. Patente ad portas de
-              ser presentada a PCT.
+              ser presentada a PCT
             </li>
             <li>
               <strong
@@ -162,7 +162,7 @@
               vegetal, produciendo auxinas y sideróforos, fijando nitrógeno y
               permitiendo la solubilización de fosfatos, además de estimular el
               crecimiento de la parte aérea de plantas. Patente ad portas de ser
-              presentada a PCT.
+              presentada a PCT
             </li>
           </ol>
         </div>
@@ -182,7 +182,7 @@
                   amplificación isotérmica </strong
                 >que permite identificar de manera selectiva a hongos que
                 participan en la enfermedad de la madera en vides. Tecnología
-                protegida por secreto industrial.
+                protegida por secreto industrial
               </li>
               <li>
                 <strong
@@ -200,7 +200,7 @@
             <div class="main d-flex blue">
               <span class="big">55</span><span class="genomas">Proyectos</span>
             </div>
-            de I+D, transferencia, extensión tecnológica realizados.
+            de I+D, transferencia, extensión tecnológica realizados
             <router-link
               :to="{
                 name: 'Anexo',

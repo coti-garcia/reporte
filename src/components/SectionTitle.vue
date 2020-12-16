@@ -2,9 +2,11 @@
   <div class="row">
     <div class="col-lg-12">
       <div class="section-title-wrap text-center section-space--mb_30">
-        <h2 class="font-display mb-0 wow move-up" :class="color">
-          {{ sectionTitle }}
-        </h2>
+        <h2
+          class="font-display mb-0 wow move-up"
+          :class="color"
+          v-html="sectionTitle"
+        ></h2>
       </div>
     </div>
   </div>

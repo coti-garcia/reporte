@@ -40,7 +40,7 @@
           :to="{ name: 'Impacto' }"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
-          ><span>Impacto</span></b-nav-item
+          ><span>Impacto para Chile y California</span></b-nav-item
         >
         <b-nav-item
           :to="{ name: 'QuienesSomos' }"

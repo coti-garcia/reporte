@@ -48,14 +48,14 @@ export default {
       },
       {
         id: "tesis-2",
-        authors: "Felipe Saez",
+        authors: "Felipe Sáez",
         type: "Tesis de Magister",
         title:
           "Desarrollo de un método de detección de Botryosphaeriaceae asociadas a la enfermedad de la madera de Vitis vinifera basado en PCR isotérmico",
         grade: "Magister en Biotecnología",
         other:
           "Asociado a proyecto “Microbial diagnostics using Omic-Based Technologies”",
-        path: "",
+        path: "diagnistico-lamp",
       },
       {
         id: "tesis-3",
@@ -126,3 +126,6 @@ export default {
   }
 }
 </style>
+
+
+

@@ -8,9 +8,7 @@
       <template slot="breadcrumb">
         <div class="breadcrumb_box text-center">
           <h2 class="breadcrumb-title">
-            <small class="text-uppercase anexo-number"
-              >Anexo {{ number }}:</small
-            ><br />
+            <small class="text-uppercase anexo-number">Anexo:</small><br />
             {{ title }}
           </h2>
           <!-- breadcrumb-list start -->
@@ -21,7 +19,7 @@
             <li class="breadcrumb-item">
               <router-link :to="{ name: 'Impacto' }">Impacto</router-link>
             </li>
-            <li class="breadcrumb-item active gold">Anexo {{ number }}</li>
+            <li class="breadcrumb-item active gold">Anexo</li>
           </ul>
           <!-- breadcrumb-list end -->
         </div>
