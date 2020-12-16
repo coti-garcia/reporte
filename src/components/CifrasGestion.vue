@@ -18,21 +18,21 @@
             decreciente en 3 Fases:
           </p>
           <p>
-            <strong>Fase 1:</strong> Implementación: subsidio de hasta 50% del
-            costo total. (3 años)
+            <strong>Fase 1:</strong> IInstalación; subsidio de hasta 50% del
+            costo total (3 años).
           </p>
           <p>
-            <strong>Fase 1:</strong> Implementación: subsidio de hasta 50% del
-            costo total. (3 años)
+            <strong>Fase 2:</strong> Operación; subsidio de hasta un 40% del
+            costo total (3 años).
           </p>
           <p>
-            <strong>Fase 3:</strong> Consolidación: subsidio de hasta 25% del
-            costo total. (2 años)
+            <strong>Fase 3:</strong> Consolidación; subsidio de hasta 25% del
+            costo total (2 años).
           </p>
           <p>
             La inversión completa en el Proyecto Centro de Excelencia
             Internacional UC Davis Chile es de aproximadamente
-            <strong class="redbud">US$ 33 millones.</strong>
+            <strong class="redbud no-wrap">US$ 33 millones.</strong>
           </p>
         </div>
         <div class="col-12 col-md-6 mt-4 mt-md-0">
@@ -62,14 +62,14 @@
         </div>
         <div class="col-12 col-md-5 order-1 order-md-2 mb-5 mb-md-0">
           <p class="pt-md-2">
-            Durante estas dos fases del proyecto, el Centro UC Davis Chile ha
-            logrado además generar ingresos a través de otras fuentes, más allá
-            del subsidio del programa de Atracción de Centros de Excelencia
-            Internacional, donde en los primeros 3 años de instalación estos
-            recursos fueron un 2% de la operación total. Actualmente el proyecto
-            se encuentra en su Fase 2 de Operación, en la cual se ha logrado que
-            el 15% de la actividad sea financiada por proyectos fuera del
-            Programa de Atracción de Centros de CORFO.
+            Durante estas dos primeras fases del proyecto, el Centro UC Davis
+            Chile ha logrado, además, generar ingresos a través de otras
+            fuentes, más allá del subsidio del Programa de Atracción de Centros
+            de Excelencia Internacional, donde en los primeros tres años de
+            instalación estos recursos fueron un 2% de la operación total.
+            Actualmente el proyecto se encuentra en su Fase 2 de Operación, en
+            la cual se ha logrado que el 15% de la actividad sea financiada por
+            proyectos fuera del Programa de Atracción de Centros de CORFO.
           </p>
         </div>
       </div>
@@ -78,9 +78,9 @@
           <p>
             Desde el punto de vista de las acciones del Centro, reflejado en el
             gasto de los recursos, hemos tenido una evolución desde la Fase de
-            Instalación a la Fase de Operación donde se destacan:
+            Implementación a la Fase de Operación donde se destacan:
           </p>
-          <ul>
+          <ul class="list">
             <li>Aumento de la eficiencia en Administración</li>
             <li>
               Mayor llegada a la aplicación de la Ciencia y el Conocimiento en
@@ -132,8 +132,6 @@ export default {
     font-size: 15px;
     margin-bottom: 15px;
   }
-}
-.cifras {
   .row {
     @media #{$min-tablet} {
       padding-bottom: 30px;
@@ -142,8 +140,15 @@ export default {
       padding-bottom: 10px;
     }
   }
+  .no-wrap {
+    white-space: nowrap;
+  }
 }
-ul {
-  list-style: dics;
+.list {
+  list-style: circle;
+  padding-left: 20px;
+  li {
+    margin-bottom: 10px;
+  }
 }
 </style>

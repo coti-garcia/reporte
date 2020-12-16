@@ -34,6 +34,16 @@ export default {
       legend: {
         position: "bottom",
       },
+      scales: {
+        yAxes: [
+          {
+            scaleLabel: {
+              display: true,
+              labelString: "Miles de US $",
+            },
+          },
+        ],
+      },
     },
   }),
   mounted() {

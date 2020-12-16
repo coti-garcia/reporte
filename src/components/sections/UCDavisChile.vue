@@ -34,7 +34,7 @@
             <p>
               Nuestra historia tiene raíces en esta relación de larga data entre
               Chile y California, la que se consolida definitivamente con la
-              postulación y adjudicación en 2013 y lanzamiento (2015) del
+              postulación y adjudicación en 2013 y lanzamiento en 2015, del
               <em
                 >Programa de Atracción de Centros Internacionales de
                 Excelencia</em
@@ -43,8 +43,8 @@
             </p>
             <p>
               Parte de los anhelos y del modelo de trabajo de la Universidad de
-              California Davis, están relacionados con el trabajo cooperativo
-              entre la academia, la industria y el sector público y es en ese
+              California, Davis están relacionados con el trabajo colaborativo
+              entre la academia, la industria y el sector público. Es en ese
               sentido que Chile fue visto como un lugar donde es posible
               potenciar la investigación, aportar con las capacidades de UC
               Davis y obtener así un intercambio valioso de conocimientos e
@@ -74,30 +74,35 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-12 col-md-9 white big-text">
+            <div class="col-12 col-md-10 blue big-text">
               <p>
-                La experiencia internacional es conocida por todos, la
-                investigación básica en normalmente financiada por fondos
-                públicos, tanto a través de los fondos basales entregados a las
-                universidades como por proyectos individuales, en lo que también
-                participan estas universidades. Así se genera gan parte de la
-                producción científica de nuestra Universidad en California.
+                La experiencia internacional es conocida por todos, muestra que
+                la investigación fundamental es normalmente financiada por
+                fondos públicos, tanto a través de los fondos basales entregados
+                a las universidades, como por proyectos individuales en los que
+                éstas también participan. Así se genera gran parte de la
+                producción científica de nuestra Universidad en California (el
+                2019, de los USD 845,5 millones obtenidos por UC Davis para I+D,
+                más del 81% proviene del gobierno federal y del Estado de
+                California).
+              </p>
+              <p>
                 Distinto es el caso de centros con temáticas específicas, con un
                 foco claro en la investigación aplicada y el desarrollo de
                 tecnología y/o conocimiento destinado a su aplicación productiva
                 o como bien público. Este el caso de los Centros de Excelencia
                 Internacional que hoy funcionan en Chile y otros Centros
-                Tecnológicos. El modelo en este caso apunta a un financiamiento
-                de tres tercios, uno basal aportado por le estado, otro de
-                fondos públicos competitivos y el último a contrato específicos
-                con la industria y sus empresas.
+                Tecnológicos. En este caso el modelo apunta a un financiamiento
+                de tres tercios: uno basal aportado por el Estado, otro de
+                fondos públicos competitivos y el último de contratos
+                específicos con la industria
               </p>
               <p>
-                UC Davis Chile ha avanzado hacia este modelo, utilizando como
-                base el conocimiento y la experiencia de la Universidad de
+                UC Davis Chile procura avanzar hacia este modelo, utilizando
+                como base el conocimiento y la experiencia de la Universidad de
                 California que se ha generado por la inversión del estado de
-                California y fondos federales de los Estados Unidos , así como
-                el conocimiento de nuestros socios académicos en Chile.
+                California y fondos federales de los Estados Unidos, así como el
+                conocimiento de nuestros socios académicos en Chile.
               </p>
             </div>
           </div>
