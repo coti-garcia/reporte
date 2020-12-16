@@ -9,7 +9,7 @@
         <!-- tab content two component -->
         <Valores />
       </b-tab>
-      <b-tab title="Misión (Propósito)">
+      <b-tab title="Misión">
         <!-- tab content third component -->
         <div class="clinic-work-process-step section-space--pt_90">
           <div class="row">
@@ -28,14 +28,14 @@
                   <div class="sub__title mb-20">
                     <h6 class="font-weight--blod">Misión</h6>
                   </div>
-                  <h4 class="font-weight--bold mb-3">Propósito</h4>
+
                   <div class="sub-text section-space--mb_40">
-                    <p>
+                    <h5>
                       Entregar al mercado y la sociedad soluciones tecnológicas
                       basadas en ciencia, a través de investigación
                       colaborativa, desarrollo y transferencia de tecnologías
                       que generen impacto económico y desarrollo social.
-                    </p>
+                    </h5>
                   </div>
                 </div>
               </div>
@@ -52,11 +52,13 @@
                   <div class="sub__title mb-20">
                     <h6 class="vision font-weight--blod">Visión</h6>
                   </div>
-                  <h4 class="font-weight--bold">
-                    Ser líder en Latinoamérica en investigación aplicada y
-                    transferencia de soluciones tecnológicas en ciencias de la
-                    vida.
-                  </h4>
+                  <div class="sub-text section-space--mb_40">
+                    <h5>
+                      Ser líder en Latinoamérica en investigación aplicada y
+                      transferencia de soluciones tecnológicas en los ámbitos
+                      agroalimentario y ambiental.
+                    </h5>
+                  </div>
                 </div>
               </div>
             </div>
@@ -97,8 +99,9 @@ export default {
     }
   }
   .sub-text {
-    p {
-      font-size: 18px;
+    h5 {
+      font-size: 25px;
+      line-height: 1.4;
     }
   }
   .sub__title {

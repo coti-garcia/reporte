@@ -9,7 +9,7 @@
         agroalimentario y medioambiental chileno, con el propósito de
         transformar su investigación en soluciones para la industria y la
         sociedad con impacto económico y social a nivel nacional, regional y
-        global. Este espíritu se ve reflejado en nuestros objetivos que son:
+        global. Este espíritu se ve reflejado en nuestros objetivos:
       </p>
     </div>
     <div v-for="item in items" :key="item.id" class="col-lg-6 col-md-12 mb-25">
@@ -46,7 +46,7 @@ export default {
         {
           icon: require("../assets/img/egg_illustration.png"),
           text:
-            "<strong>Vincular a instituciones chilenas con los programas de formación y generación de capacidades</strong> para el desarrollo de investigación aplicada orientada a entregar valor e innovación al sector agroalimentario.",
+            "<strong>Vincular a instituciones chilenas con programas de formación y generación de capacidades</strong> para el desarrollo de investigación aplicada orientada a entregar valor e innovación al sector agroalimentario.",
         },
         {
           icon: require("../assets/img/tree_illustration.png"),

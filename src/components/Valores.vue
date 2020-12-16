@@ -38,13 +38,12 @@ export default {
   data() {
     return {
       sectionTitle:
-        "En nuestro quehacer el equipo UC Davis Chile imprime cada uno de nuestros valores institucionales, haciéndolos vivos en cada proyecto o programa que se lleva a cabo:",
+        "En nuestro quehacer el equipo UC Davis Chile imprime los valores institucionales, haciéndolos vivos en cada proyecto o programa que se lleva a cabo:",
       productFeature: [
         {
           icon: "fal fa-star",
           title: "EXCELENCIA",
-          desc:
-            "Procuramos hacer lo cotidiano de manera excepcional (sobresaliente).",
+          desc: "Procuramos hacer lo cotidiano de manera sobresaliente.",
         },
         {
           icon: "fal fa-users",
