@@ -19,53 +19,51 @@
       <div class="row">
         <div class="col-12 col-md-3">
           <p class="intro blue">
-            Con cinco años de vida, el
-            <em>Centro de Innovación UC Davis Chile</em> presenta una
-            recopilación de lo que han sido, hasta ahora, los principales
-            resultados desde nuestra instalación en el país.
+            Como
+            <em>Centro de Innovación UC Davis Chile</em> presentamos una
+            recopilación de los principales resultados obtenidos desde nuestra
+            instalación en el país en el año 2015.
           </p>
         </div>
         <div class="col-12 col-md-4">
           <p>
             Nuestra llegada responde a un estrecho lazo de más de cinco décadas
             entre Chile y el estado de California, relación que se materializa
-            en este Centro cuyo foco principal es contribuir desde la ciencia
-            aplicada y la investigación y desarrollo al crecimiento y
-            productividad del país, principalmente en el ámbito de la
-            agroindustria, uno de los sectores prioritarios para Chile y en el
-            que la Universidad de California Davis es líder mundial.
+            en este Centro cuyo foco principal es contribuir, desde la ciencia
+            aplicada, investigación y desarrollo, al crecimiento y productividad
+            del país, principalmente en el ámbito de la agroindustria, uno de
+            los sectores prioritarios para Chile y en el que la Universidad de
+            California, Davis (UC Davis) es uno de los líderes a nivel mundial.
           </p>
           <p>
-            Si bien en los inicios nos enfocamos en el sector de vitivinícola,
-            al andar los años en UC Davis Chile hemos ampliado nuestro ámbito de
-            acción, incorporando competencias en los rubros de alimentos y medio
-            ambiente fortaleciendo el vínculo entre la ciencia y la industria en
-            temáticas que tanto para Chile como para California se han vuelto de
-            gran relevancia.
+            Si bien en los inicios nos enfocamos en el sector vitivinícola, con
+            el paso de los años hemos incorporado competencias en el rubro
+            alimenticio y medioambiental fortaleciendo el vínculo entre ciencia
+            e industria en temáticas de gran relevancia tanto para Chile como
+            para California.
           </p>
         </div>
         <div class="col-12 col-md-4">
           <p>
-            El propósito, vigente desde 2015 año en que se inauguró UC Davis
-            Chile, lo definimos como el
+            Nuestro propósito, vigente desde la inauguración de UC Davis Chile
+            el 2015, ha sido
             <em class="arboretum"
-              >brindar soluciones tecnológicas basadas en ciencia al mercado y a
-              la sociedad.</em
-            >
-            Sin embargo, más allá de ello, hemos sido protagonistas y testigos
-            del impacto que este objetivo ha tenido en las comunidades y sobre
-            todo en las personas. El compartir la experiencia de California con
-            Chile ha sido tremendamente inspirador para quienes han sido parte y
-            beneficiarios de los proyectos desarrollados en estos cinco años. No
-            solo por los aprendizajes e incorporación de capacidades, sino por
-            el sentido de tener la posibilidad de aplicarlos al servicio de
-            Chile y desde Chile.
+              >brindar soluciones tecnológicas, basadas en ciencia, al mercado y
+              a la sociedad.
+            </em>
+            Esto, nos ha permitido ser protagonistas y testigos del impacto de
+            nuestro trabajo en comunidades y sobre todo en las personas. El
+            compartir la experiencia de California con Chile ha sido inspirador
+            para quienes han sido parte y para los beneficiarios de los
+            proyectos desarrollados en estos cinco años. No solo por los
+            aprendizajes y capacidades adquiridas, sino que, por la oportunidad
+            de ponerlos al servicio de Chile, desde Chile.
           </p>
           <p>
-            Queremos compartir con ustedes nuestra experiencia e invitarlos a
-            ser parte de los nuevos desafíos que en el Centro de Innovación UC
-            Davis Chile pretendemos abordar, con el objetivo de seguir siendo
-            una institución cuyo aporte está al servicio del país.
+            De este modo, queremos compartir con ustedes nuestra experiencia y
+            al mismo tiempo, invitarlos a ser parte de los desafíos que
+            pretendemos abordar de aquí en adelante con el objetivo de seguir
+            siendo una institución cuyo aporte está al servicio del país.
           </p>
         </div>
       </div>
