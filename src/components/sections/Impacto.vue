@@ -9,7 +9,7 @@
           <ChartCircleTwo
             color="poppy"
             sectionProgress="63"
-            circleValue="07"
+            circleValue="06"
             class="section-space--mb_40"
           />
         </div>
@@ -34,8 +34,8 @@
           <div class="col-12 col-lg-8 mt-4 mt-mb-0">
             <p>
               En el caso de Chile, hemos articulado nuevas formas de trabajo
-              colaborativo, obtenido acceso a laboratorios e investigación de
-              punta a nivel mundial y creado puentes para el desarrollo de
+              colaborativo, obteniendo acceso a laboratorios e investigación de
+              punta a nivel mundial y creando puentes para el desarrollo de
               negocios y obtención de recursos con California.
             </p>
             <p>
@@ -47,8 +47,8 @@
             <h5 class="mt-5">Ecosistema colaborativo y de innovación</h5>
             <p>
               Otro aporte de nuestro centro es la creación de un ecosistema que
-              busca aportes concretos a las políticas públicas y las empresas, a
-              través de la coordinación de diversos actores.
+              busca generar impactos concretos en las políticas públicas y las
+              empresas, a través de la coordinación de diversos actores.
             </p>
             <img
               src="@/assets/img/ecosistema-colaborativo.png"

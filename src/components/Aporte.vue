@@ -70,7 +70,7 @@
         </div>
       </div>
       <div class="row info medium">
-        <div class="col-12 col-md-4 col-lg-2">
+        <div class="col-12 col-md-4 col-lg-3">
           <div class="item">
             <div class="main d-flex d-md-block poppy">
               <span class="big">4</span
@@ -105,6 +105,25 @@
               >Ver anexo</router-link
             >
           </div>
+        </div>
+        <div class="col-12 col-md-8 col-lg-5">
+          <div class="item">
+            <div class="main d-flex blue mb-2">
+              <span class="big">3</span
+              ><span class="genomas">Solicitudes de patentes presentadas</span>
+            </div>
+            <span> a PCT relacionadas con bioproductos</span>
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-8',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
+          </div>
           <div class="item">
             <div class="main d-flex d-md-block poppy">
               <span class="big">30</span
@@ -124,49 +143,7 @@
             >
           </div>
         </div>
-        <div class="col-12 col-md-8 col-lg-5">
-          <div class="main d-flex blue mb-2">
-            <span class="big">3</span
-            ><span class="genomas">Solicitudes de patentes presentadas</span>
-          </div>
-          <span class="blue font-weight-bold">
-            a PCT relacionadas con bioproductos</span
-          >
-          <ol>
-            <li>
-              <strong
-                >Producto y un método para el biocontrol de enfermedades
-                fúngicas de la madera</strong
-              >
-              (hongos de la madera en vides), utilizando para esto una cepa
-              endófita del hongo Clonostachys rosea, R36.1. (Depósito CChRGM
-              989). Patente presentada a PCT
-            </li>
-            <li>
-              <strong
-                >Producto y un método para el biocontrol de enfermedades
-                fúngicas agrícolas</strong
-              >
-              tales como Botrytis, Fusarium, Monilinia y otras basado en la
-              bacteria Pseudomonas lini cepa S57 (Depósito CChRGM 2930) para su
-              uso agrícola en ambientes salino- bóricos. Patente ad portas de
-              ser presentada a PCT
-            </li>
-            <li>
-              <strong
-                >Producto y mecanismo como bioestimulante basado en la bacteria
-                Pseudomonas lini cepa S57</strong
-              >
-              (Depósito CChRGM 2930) para uso agrícola en ambientes
-              salino-bóricos. El producto actúa como promotora del crecimiento
-              vegetal, produciendo auxinas y sideróforos, fijando nitrógeno y
-              permitiendo la solubilización de fosfatos, además de estimular el
-              crecimiento de la parte aérea de plantas. Patente ad portas de ser
-              presentada a PCT
-            </li>
-          </ol>
-        </div>
-        <div class="col-12 col-md-12 col-lg-5">
+        <div class="col-12 col-md-12 col-lg-4">
           <div class="item">
             <div class="main d-flex poppy">
               <span class="big">2</span
@@ -174,27 +151,16 @@
                 >Tecnologías <br />biotech licenciadas</span
               >
             </div>
-
-            <ol>
-              <li>
-                <strong
-                  >Sistema de diagnóstico de Botryosphaeriaceae mediante
-                  amplificación isotérmica </strong
-                >que permite identificar de manera selectiva a hongos que
-                participan en la enfermedad de la madera en vides. Tecnología
-                protegida por secreto industrial
-              </li>
-              <li>
-                <strong
-                  >Sistema de identificación de clones de vid basado en
-                  high–throughput sequence</strong
-                >
-                que permite, mediante el uso de marcadores genéticos específicos
-                para cada clon de vides, identificar de forma masiva y rutinaria
-                clones de una misma variedad. Tecnología protegida por secreto
-                industrial
-              </li>
-            </ol>
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-9',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver anexo</router-link
+            >
           </div>
           <div class="item">
             <div class="main d-flex blue">
@@ -216,14 +182,14 @@
       </div>
       <div class="row info last">
         <div class="col-12 col-md-12 col-lg-6">
-          <div class="main d-flex blue mb-2">
+          <div class="main d-flex poppy mb-2">
             <span class="big">8</span
             ><span class="genomas"
               >Universidades e instituciones de investigación</span
             >
           </div>
           nacionales e internacionales asociados al Centro para el desarrollo de
-          proyectos de investigación.
+          proyectos de investigación
           <ul class="mt-3">
             <li>Universidad Andrés Bello (UNAB)</li>
             <li>Universidad de Talca (UTalca)</li>
@@ -240,11 +206,10 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="item">
-            <div class="main d-flex d-md-block poppy">
+            <div class="main d-flex d-md-block blue">
               <span class="big">28</span><span class="medium">Empresas </span>
             </div>
-            de distintos sectores productivos e instituciones públicas
-            atendidas.
+            de distintos sectores productivos e instituciones públicas atendidas
           </div>
           <div class="item">
             <div class="main d-flex d-md-block poppy">
@@ -252,18 +217,18 @@
               ><span class="medium">millones de dólares </span>
             </div>
             en contratos tecnológicos y de servicios con empresas e
-            instituciones públicas.
+            instituciones públicas
           </div>
         </div>
 
         <div class="col-12 col-md-6 col-lg-3">
-          <div class="main d-flex blue">
+          <div class="main d-flex poppy">
             <span class="big">96</span
             ><span class="genomas">Eventos de difusión</span>
           </div>
-          para presentar resultados del Centro y hacer disponible el
-          conocimiento avanzado de California en múltiples temáticas de interés
-          para el sector productivo, académico y público.
+          para presentar resultados del Centro y compartir el conocimiento y
+          experiencia de California en temáticas de interés para el sector
+          productivo, académico y público.
           <router-link
             :to="{
               name: 'Anexo',
@@ -371,10 +336,6 @@ a {
       border-bottom: none;
       padding-bottom: 0;
       margin-bottom: 0px;
-      @media #{$min-tablet} {
-        padding-bottom: 20px;
-        margin-bottom: 20px;
-      }
     }
     .big {
       display: block;
