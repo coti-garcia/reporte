@@ -12,7 +12,7 @@
             />
             <SectionTitle
               color="pinot"
-              sectionTitle="Relación histórica entre Chile y UC Davis"
+              sectionTitle="Relación histórica <br />entre Chile y UC Davis"
               class="wow move-up"
             />
             <p class="text-center intro pinot mx-auto mb-5">
@@ -28,22 +28,22 @@
             <p>
               A mediados de la década del 60, los respectivos gobiernos firmaron
               un acuerdo que se concretó con el envío de estudiantes y
-              profesores desde la Universidad de Chile a la Universidad de Davis
-              California.
+              profesores desde la Universidad de Chile a la Universidad de
+              California, Davis.
             </p>
             <p>
               El valor de esta relación se funda en que ambas regiones presentan
-              características climáticas, geográficas y variedades de especies
-              animales y vegetales similares, en tanto que comparten desafíos en
-              el cuidado de la biodiversidad, el manejo de cuencas hidrográficas
-              y uso de energías. El desfase estacional, además, permite el
-              intercambio comercial en el sector agrícola durante todo el año.
+              características climáticas, geográficas similares, en tanto que
+              comparten desafíos en el cuidado de la biodiversidad, el manejo de
+              cuencas hidrográficas y uso de energías. El desfase estacional,
+              además, permite el intercambio comercial en el sector agrícola
+              durante todo el año.
             </p>
             <p>
               A este vínculo hoy se le atribuye gran parte del crecimiento de
               las exportaciones de uva y las frutas de carozo en Chile, e
-              incluso el desarrollo de la industria de los vinos, en la que
-              Chile se ha transformado en un importante actor a nivel mundial.
+              incluso el desarrollo de la industria de los vinos, de la que
+              Chile es un importante actor a nivel mundial.
             </p>
           </div>
           <div class="col-12 col-md-6">
@@ -51,23 +51,27 @@
               Los acuerdos de colaboración se han mantenido durante décadas y se
               han ido afianzando, con la conformación de comités, planes
               concretos e institucionalización de redes de trabajo y cooperación
-              entre la academia y los sectores público y privado.
+              entre la academia y los sectores público y privado de ambos
+              países.
             </p>
             <p>
               En este marco, la asociación entre UC Davis y Chile permanece
-              hasta el día de hoy con más de 60 estudiantes chilenos de posgrado
-              e investigadores postdoctorales trabajando en los campus en
-              California.
+              hasta hoy con decenas de más de 60 estudiantes chilenos de
+              postgrado e investigadores postdoctorales trabajando en los campus
+              en California.
             </p>
             <p>
               En Chile, en tanto, gracias al
-              <em>Centro de Innovación UC Davis</em> y la experiencia de UC
-              Davis, la investigación agrícola, ha movido sus fronteras con
-              avanzadas técnicas genómicas, mientras que ha expandido sus campos
-              de trabajo a otras áreas de investigación con proyectos para la
-              mitigación del cambio climático, manejo sustentable de cultivos,
-              transferencia tecnológica, propiedad intelectual, medicina y
-              planificación urbana, entre otras.
+              <em>Centro de Innovación UC Davis Chile</em>
+              y la experiencia de UC Davis, la investigación agrícola ha movido
+              sus fronteras con avanzadas técnicas genómicas, mientras que ha
+              expandido sus campos de trabajo a otras áreas de investigación con
+              proyectos para el monitoreo y la mitigación del cambio climático,
+              gestión de recursos hídricos para la agricultura, manejo
+              sustentable de cultivos, conservación y desarrollo sustentable,
+              contaminación atmosférica y calidad de aire, economía circular,
+              telemedicina, electromovilidad, eficiencia energética e
+              iluminación, entre otras.
             </p>
           </div>
         </div>
@@ -78,7 +82,8 @@
         <div class="row icon-process-area section-space--ptb_120">
           <div class="col-lg-12">
             <h3 class="pinot text-center">
-              Hitos de la relación entre Chile y UC Davis desde los años 60
+              Hitos de la relación entre Chile y UC Davis <br />
+              desde los años 60
             </h3>
             <Gradation />
           </div>
