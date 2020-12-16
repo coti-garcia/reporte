@@ -28,21 +28,18 @@ export default {
       sliderOption: {
         speed: 800,
         loop: false,
-        slidesPerView: 6,
-        slidesPerColumn: 2,
-        spaceBetween: 30,
+        slidesPerView: 5,
+        slidesPerColumn: 4,
+        dynamicBullets: true,
+        // spaceBetween: 30,
         pagination: {
           el: ".swiper-pagination-logos",
 
           clickable: true,
         },
         breakpoints: {
-          1499: {
-            slidesPerView: 5,
-          },
-
           991: {
-            slidesPerView: 6,
+            slidesPerView: 4,
           },
 
           767: {
@@ -103,8 +100,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.logo-img {
+.logo-img img {
   max-height: 120px;
   margin: 0 auto;
+  padding: 15px;
+  @media #{$min-desktop} {
+    padding: 30;
+  }
 }
 </style>

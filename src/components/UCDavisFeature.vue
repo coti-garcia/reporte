@@ -6,13 +6,13 @@
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <h4>
-                Su campus de <strong>2,145 hectáreas</strong> está en Davis, una
-                vibrante ciudad universitaria y comunidad de unas 68,000
-                personas en el norte de California. La cercana ciudad de
-                Sacramento, capital del estado, es hogar del Sistema de Salud de
-                UC Davis. Destinos de clase mundial como la zona de la Bahía de
-                San Francisco, el Lago Tahoe y el Valle de Napa, también están a
-                poca distancia en auto de UC Davis.
+                Su campus de 2.145 hectáreas está en Davis, una vibrante ciudad
+                universitaria en el norte de California, con una población
+                aproximada de 68.000 personas. La ciudad vecina y capital
+                estatal, Sacramento, es hogar del Sistema de Salud de UC Davis.
+                Además, cercanos a Davis se encuentran destinos turísticos de
+                clase mundial como la Bahía de San Francisco, el Lago Tahoe y el
+                Valle de Napa.
               </h4>
             </div>
           </div>
@@ -22,7 +22,7 @@
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
                 <h5 class="heading mb-10">
-                  <span class="big-num arboretum">4</span> Colleges
+                  <span class="big-num arboretum">4</span> Facultades
                 </h5>
                 <div class="text">
                   <ul>
@@ -41,15 +41,16 @@
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
                 <h5 class="heading mb-10">
-                  <span class="big-num arboretum">6</span> Facultades
+                  <span class="big-num arboretum">6</span> Escuelas
                 </h5>
                 <div class="text">
                   <ul>
                     <li>Educación</li>
                     <li>Leyes</li>
-                    <li>Administración</li>
+                    <li>Administración y Negocios</li>
                     <li>Medicina</li>
                     <li>Medicina veterinaria</li>
+                    <li>Enfermería</li>
                   </ul>
                 </div>
               </div>
@@ -71,12 +72,14 @@
 
                 <div class="text">
                   <ul>
-                    <li>1º lugar en el mundo en Medicina Veterinaria</li>
-                    <li>1º lugar en EE. UU. en Agricultura</li>
-                    <li>2º lugar en el mundo en Ciencias Veterinarias</li>
+                    <li>1º lugar en el mundo en medicina veterinaria</li>
+                    <li>1º lugar en EE. UU. en agricultura</li>
                     <li>
-                      2º lugar en el mundo en Agricultura y Ciencias
-                      Veterinarias
+                      1º lugar en EE. UU. en diversidad e internacionalización
+                    </li>
+                    <li>
+                      2º lugar en el mundo en agricultura y ciencias
+                      veterinarias
                     </li>
                     <li>
                       5º lugar entre las universidades públicas de EE. UU.
@@ -109,11 +112,6 @@
                       interdisciplinarios
                     </li>
                     <li>Más de 20 mil cursos de extensión</li>
-                    <li>
-                      38% de los estudiantes de pregrado participan en
-                      investigaciones dirigidas por magisters y postdoctorados
-                      de la misma universidad.
-                    </li>
                   </ul>
                 </div>
               </div>

@@ -15,14 +15,14 @@
           <div class="col-12">
             <SectionTitle
               color="cabernet"
-              sectionTitle="UC Davis EE. UU."
+              sectionTitle="La Universidad de <br />California, Davis"
               class="wow move-up"
             />
             <p class="text-center intro cabernet mx-auto mb-5">
-              Fundada en 1908, la Universidad de California, Davis, es la
-              universidad más académicamente completa de la costa oeste y una de
-              solo cinco universidades públicas en los Estados Unidos con una
-              amplia trayectoria en salud humana, salud animal y ciencias
+              Fundada en 1908, UC Davis es la universidad, académicamente, mas
+              completa e integral de la costa oeste, y una de las cinco
+              universidades públicas en los Estados Unidos con mayor desarrollo
+              y trayectoria en salud humana, medicina veterinaria, ciencias
               agrícolas y ambientales.
             </p>
           </div>
@@ -36,53 +36,91 @@
           <div class="bg-image"></div>
           <div class="col-12 col-md-8">
             <p class="pl-md-3">
-              UC Davis es una universidad pública de investigación con concesión
-              de tierras (Grant Land) y programas académicos de alto prestigio
-              en cuatro facultades (Ciencias Agrícolas y Ambientales, Ciencias
-              Biológicas, Ingeniería, y Letras y Ciencias), además de seis
-              escuelas (Educación, Derecho, Administración, Medicina, Enfermería
-              y Medicina Veterinaria). Tiene una matrícula de 39.629 estudiantes
-              (a otoño de 2019), inscritos en más de 100 carreras pregrado y más
-              de 100 programas de postgrado.
+              UC Davis es una universidad de investigación con programas
+              académicos de alto prestigio en distribuidos cuatro facultades
+              (Ciencias Agrícolas y Ambientales, Ciencias Biológicas,
+              Ingeniería, y Letras y Ciencias) y seis escuelas (Educación,
+              Leyes, Administración y Negocios, Medicina, Enfermería y Medicina
+              Veterinaria). A otoño de 2019, contó con 39.629 estudiantes
+              matriculados en más de 100 carreras pregrado y más de 100
+              programas de postgrado.
             </p>
             <p class="pl-md-3">
-              UC Davis es internacionalmente conocida por su trabajo
-              multidisciplinario para resolver los desafíos más apremiantes del
-              mundo y por su compromiso con la expresión artística y cultural.
-              Ganó US$941,2 millones en fondos de investigación patrocinados en
-              2019-20 y contribuye más de US$8.100 millones a la economía de
-              California cada año. Entre los numerosos rankings, US Davis es
+              UC Davis es conocida internacionalmente por trabajar de manera
+              multidisciplinaria en la resolución de los desafíos más
+              apremiantes del mundo, además de su compromiso con la expresión
+              artística y cultural. En 2019-20 se adjudicó US$941,2 millones en
+              fondos patrocinados de investigación, y el conjunto de sus
+              actividades generan más de US$8.100 millones a la economía de
+              California cada año. Entre los numerosos rankings, UC Davis es
               reconocida como la quinta mejor universidad pública de los Estados
-              Unidos, primera en el mundo en Ciencias Veterinarias y segunda en
-              el mundo en Agricultura y Ciencias veterinarias.
+              Unidos, primera en el mundo en ciencias veterinarias y segunda en
+              el mundo en agricultura y ciencias veterinarias.
             </p>
             <p class="pl-md-3">
               En noviembre de 2020 la Universidad de California, Davis fue la
-              única universidad norteamericana galardonada con el Premio Platino
-              2020 Aprendizaje, Investigación y Compromiso Global Institucional,
-              honor mas alto que entrega la Asociación de Universidades Públicas
-              de EEUU (APLU; The Association of Public and Land-grant
+              única institución de educación superior norteamericana galardonada
+              con el
+              <a
+                href="https://www.ucdavis.edu/news/uc-davis-earns-aplus-platinum-award-global-learning-research-and-engagement"
+                target="_blank"
+                >Premio Platino 2020 Aprendizaje, Investigación y Compromiso
+                Global Institucional</a
+              >, máxima distinción entregada por la Asociación de Universidades
+              Públicas de EEUU (APLU; The Association of Public and Land-grant
               Universities) y que reconoce los últimos seis años de esfuerzos de
-              UC Davis impulsando estrategias integrales e inclusivas vinculadas
-              con el compromiso global, la investigación y el aprendizaje.
+              UC Davis, impulsando estrategias integrales e inclusivas
+              vinculadas con el compromiso global, la investigación y el
+              aprendizaje.
             </p>
             <p class="pl-md-3">
               Las iniciativas internacionales son parte fundamental del Plan
-              Estratégico de UC Davis “To Boldly Go”, incluyendo el plan del
-              campus “Global Education for All”, el cuál tiene por finalidad
-              proporcionar al 100 por ciento de los estudiantes universitarios,
-              graduados y profesionales oportunidades de aprendizaje global que
-              les ayuden a crear una conciencia global, explorar la diversidad
-              mundial y buscar una acción global.
+              Estratégico de UC Davis
+              <a
+                href="https://leadership.ucdavis.edu/strategic-plan"
+                target="_blank"
+                >“To Boldly Go”</a
+              >, incluyendo el plan del campus impulsado por Global Affairs
+              <a href="https://globalaffairs.ucdavis.edu/ge4a" target="_blank"
+                >“Global Education for All”</a
+              >, el cual tiene por finalidad proporcionar a todos sus
+              estudiantes, graduados y profesionales oportunidades de
+              aprendizaje que les ayuden a crear conciencia, explorar la
+              diversidad mundial y buscar acción global.
             </p>
             <p class="pl-md-3">
-              Además del reconocimiento de la APLU, este año UC Davis compartió
-              el primer lugar entre las universidades de EE.UU. destacadas en
-              cuanto a diversidad e internacionalización, asimismo se le otorgó
-              el premio Simon por la Internacionalización Integral del Campus, y
-              fue reconocida como una de las mejores universidades en cuanto a
-              la formación de becarios Fulbright de EE.UU., becarios Gilman y
-              voluntarios del Cuerpo de Paz.
+              Además del reconocimiento de la APLU, este 2020 UC Davis compartió
+              el
+              <a
+                href="https://www.ucdavis.edu/news/uc-davis-wins-national-recognition-diversity-internationalization"
+                target="_blank"
+                >primer lugar</a
+              >
+              entre las universidades de EE.UU. destacadas en cuanto a
+              diversidad e internacionalización, asimismo se le otorgó el premio
+              <a
+                href="https://globalaffairs.ucdavis.edu/news/uc-davis-nafsa-simon-award-internationalization"
+                target="_blank"
+                >Simon por la Internacionalización Integral del Campus</a
+              >, y fue reconocida como una de las mejores universidades en
+              cuanto a la formación de
+              <a
+                href="https://globalaffairs.ucdavis.edu/news/uc-davis-ranked-among-top-producers-of-fulbright-us-scholars"
+                target="_blank"
+                >becarios Fulbright de EE.UU.</a
+              >,
+              <a
+                href="https://globalaffairs.ucdavis.edu/news/uc-davis-named-top-producer-gilman-scholars"
+                target="_blank"
+              >
+                becarios Gilman</a
+              >
+              y
+              <a
+                href="https://www.ucdavis.edu/news/campus-ranked-among-top-producers-peace-corps-volunteers/"
+                target="_blank"
+                >voluntarios del Cuerpo de Paz.</a
+              >
             </p>
           </div>
         </div>
@@ -148,6 +186,15 @@ export default {
     }
     @media #{$min-desktop} {
       height: 80%;
+    }
+  }
+}
+p {
+  a {
+    display: inline;
+    color: $cabernet;
+    &:hover {
+      color: $gold;
     }
   }
 }

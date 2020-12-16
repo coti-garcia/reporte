@@ -39,7 +39,8 @@
                     </div>
                     <div class="sub-text section-space--mb_40">
                       En el área agroalimentaria, a cargo de la División de
-                      Agricultura y Recursos Naturales, posee:
+                      Agricultura y Recursos Naturales (University of
+                      California, Agriculture and Natural Resources) posee:
                     </div>
                     <div class="payment-conters section-space--mb_40">
                       <div class="row">
