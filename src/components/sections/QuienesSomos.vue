@@ -9,7 +9,7 @@
           <ChartCircleTwo
             color="arboretum"
             sectionProgress="72"
-            circleValue="08"
+            circleValue="07"
             class="section-space--mb_40"
           />
         </div>
@@ -33,13 +33,13 @@
               </h3>
               <p class="wow move-up">
                 La gestión que realizamos en UC Davis Chile cuenta con el
-                respaldo y apoyo de un destacado directorio que incluye a las
-                más altas autoridades del campus de Davis, así como a
-                representantes de universidades chilenas que trabajan
-                directamente con nuestro Centro y quienes sesionan con una
-                periodicidad trimestral con el objetivo de abordar nuestros
-                desafíos y proyecciones, así como también para conocer el
-                estatus de los proyectos que desarrollamos en el país.
+                respaldo y apoyo de un directorio que incluye a las más altas
+                autoridades del campus de Davis, así como a representantes de
+                universidades chilenas que trabajan directamente con nuestro
+                Centro y quienes sesionan con una periodicidad trimestral, con
+                el objetivo de abordar desafíos y proyecciones, así como también
+                para conocer el estado de los proyectos que desarrollamos en el
+                país.
               </p>
               <p class="wow move-up">
                 Actualmente nuestro directorio está integrado por:
@@ -66,9 +66,8 @@
                 EQUIPO DIRECTIVO
               </h3>
               <p class="wow move-up text-white">
-                El equipo responsable del manejo y dirección del Centro de
-                Innovación en Ciencias de la Vida UC Davis Chile actualmente
-                está liderado por:
+                El equipo responsable de la gestión y dirección UC Davis Chile
+                actualmente está liderado por:
               </p>
             </div>
           </div>
@@ -87,7 +86,7 @@
                 />
               </div>
               <div class="text-right white">
-                Past Executive Director: <strong>Alan Bennett</strong>
+                Ex Director Ejecutivo:: <strong>Alan Bennett</strong>
               </div>
             </div>
             <!-- ht-team-member End -->
@@ -214,11 +213,9 @@
           <div class="col-lg-10">
             <div class="section-title mb-3">
               <p class="wow move-up">
-                A ellos se suman para cada proyecto, investigadores y
-                especialistas desde la propia UC Davis en California, quienes
-                aportan toda su experiencia, conocimiento y excelencia
-                impregnando el sello único que solo la mejor universidad en
-                Ciencias de la Vida del mundo puede entregar.
+                A ellos se suman, para cada proyecto, investigadores y
+                especialistas de UC Davis, quienes aportan toda su experiencia,
+                conocimiento y excelencia.
               </p>
               <p class="wow move-up">
                 Algunos de los principales investigadores de UC Davis que
@@ -237,37 +234,41 @@
               <li>Alan Bennett</li>
               <li>Edward Spang</li>
               <li>Kenneth A. Shackel</li>
+              <li>Andrew Walker</li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Andrew Walker</li>
               <li>Graham Fogg</li>
               <li>David E. Block</li>
               <li>Dan Summer</li>
               <li>Louise Ferguson</li>
               <li>Anita Oberholster</li>
               <li>Mark Bell</li>
+              <li>Allan Fulton</li>
+              <li>Kendra Baumgartner</li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Allan Fulton</li>
-              <li>Kendra Baumgartner</li>
               <li>Kaan Kurtural</li>
-              <li>Mark Bettany</li>
+              <li>Mark Battany</li>
               <li>Michael Lairmore</li>
               <li>Rodrigo Gallardo</li>
               <li>Michael Wilkes</li>
+              <li>Andrés Sciolla</li>
+              <li>James Marcin</li>
+              <li>Heather Young</li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Andrés Sciolla</li>
-              <li>James Marcin</li>
-              <li>Heather Young</li>
               <li>Camille Kirk</li>
               <li>Daniel Sperling</li>
+              <li>Geoffrey Schladow</li>
+              <li>Jay Lund</li>
+              <li>Anthony Wexler</li>
+              <li>Michael Siminovitch</li>
             </ul>
           </div>
         </div>
@@ -388,14 +389,14 @@ export default {
       {
         name: "Cecilia Pino",
         position: "Housekeeper",
-        img: "empty.jpg",
+        img: "Cecilia-Pino-01.jpg",
       },
     ],
     researchTeam: [
       {
         name: "Alejandra Acuña",
         position: "Agronomy Coordinator",
-        img: "empty.jpg",
+        img: "Alejandra-Acuna.jpg",
       },
       {
         name: "Patricia Anguita",
@@ -465,12 +466,22 @@ export default {
       {
         name: "Catalina Pavez",
         position: "Molecular Researcher",
-        img: "empty.jpg",
+        img: "Catalina-Pavez.jpg",
       },
       {
         name: "Isidora Silva",
         position: "Junior Researcher",
         img: "Isidora-Silva.jpg",
+      },
+      {
+        name: "Roberto Fuentes",
+        position: "Developer Engineer",
+        img: "Roberto-Fuentes.jpg",
+      },
+      {
+        name: "Catalina Montalvo",
+        position: "Extension and Innovation Advisor",
+        img: "Catalina-Montalvo.jpg",
       },
     ],
   }),
