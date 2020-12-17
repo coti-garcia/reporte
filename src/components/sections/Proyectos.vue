@@ -9,7 +9,7 @@
           <ChartCircleTwo
             color="cabernet"
             sectionProgress="100"
-            circleValue="10"
+            circleValue="9"
             class="section-space--mb_40"
           />
         </div>

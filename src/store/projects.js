@@ -121,6 +121,9 @@ export default {
             thumb: '02/01.jpg',
             images: [
                 "02/01.jpg",
+                "02/02.jpg",
+                "02/03.jpg",
+                "02/04.jpg",
             ],
             team: [
                 {
@@ -326,7 +329,12 @@ export default {
             slug: "centro-de-extensión",
             thumb: '05/01.jpg',
             title: "CEVS",// con nota en amarillo
-            images: ["05/01.jpg"],
+            images: [
+                "05/01.jpg",
+                "05/02.jpg",
+                "05/03.jpg",
+                "05/04.jpg",
+            ],
             name:
                 "Centro de Extensionismo Vitivinícola del Sur ",
             date: "Noviembre de 2016 a abril de 2020.",
@@ -1098,7 +1106,13 @@ export default {
             id: "14",
             slug: "orobanche-sugal",
             thumb: "14/01.jpg",
-            images: ["14/01.jpg"],
+            images: [
+                "14/01.jpg",
+                "14/02.jpg",
+                "14/03.jpg",
+                "14/04.jpg",
+                "14/05.jpg",
+            ],
             title:
                 "Orobanche - Sugal",
             name:
@@ -1530,8 +1544,9 @@ export default {
                 "Los lineamientos corregidos fueron presentados a la comunidad en seminarios especializados, desarrollados en Concepción y Santiago, que contaron con la participación de los expertos que colaboraron en su desarrollo.",
                 "Finalmente, la sustentabilidad de los resultados del proyecto quedó a cargo y resguardo del Ministerio de Salud.",
             ],
-            value:
-                "Este proyecto (aún en ejecución) pretende desarrollar, transferir, difundir e implementar los “Lineamientos para el desarrollo de la Telemedicina y Telesalud en Chile” para facilitar y acelerar los procesos de innovación del sistema de salud público y privado de Chile dirigidos a mejorar el acceso a la salud de calidad de las personas y la eficiencia del sistema. Posee un componente de trabajo abierto con los distintos actores del sistema de salud público y privado de Chile, para generar un insumo útil para clarificar gran parte de las inquietudes que pueden surgir a la hora de innovar en la atención en salud, apuntando a que los resultados de este proyecto puedan traducirse en un catalizador positivo de la innovación en salud en nuestro país, e incluso Latinoamérica. ",
+            value: [
+                "Este proyecto (aún en ejecución) pretende desarrollar, transferir, difundir e implementar los “Lineamientos para el desarrollo de la Telemedicina y Telesalud en Chile” para facilitar y acelerar los procesos de innovación del sistema de salud público y privado de Chile dirigidos a mejorar el acceso a la salud de calidad de las personas y la eficiencia del sistema. Posee un componente de trabajo abierto con los distintos actores del sistema de salud público y privado de Chile, para generar un insumo útil para clarificar gran parte de las inquietudes que pueden surgir a la hora de innovar en la atención en salud, apuntando a que los resultados de este proyecto puedan traducirse en un catalizador positivo de la innovación en salud en nuestro país, e incluso Latinoamérica. "
+            ],
             partnership: [
                 "Centro de Informática Biomédica y Observatorio de Bioética y Derecho, pertenecientes al Instituto de Ciencias e Innovación en Medicina de la Universidad del Desarrollo ",
                 "Unidad de Telemedicina de la Facultad de Medicina de la Universidad de Concepción",
@@ -1542,7 +1557,13 @@ export default {
             id: "20",
             slug: "plant-pathogens-detection",
             thumb: "20/01.jpg",
-            images: ["20/01.jpg"],
+            images: [
+                "20/01.jpg",
+                "20/02.jpg",
+                "20/03.jpg",
+                "20/04.jpg",
+                "20/05.jpg",
+            ],
             alt: "proyecto image",
             name:
                 "Determinación de presencia de virus y hongos de la madera en vides.",

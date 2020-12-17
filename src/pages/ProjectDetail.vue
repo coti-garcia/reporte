@@ -103,7 +103,7 @@
                     v-html="item"
                   ></p>
                 </div>
-                <div class="how-to border-top pt-4">
+                <div class="how-to border-top pt-4 mb-4">
                   <div class="portfolio-details-client pb-2">
                     <h3 class="label">Cómo se hizo el proyecto</h3>
                   </div>
@@ -112,6 +112,29 @@
                     :key="e"
                     v-html="item"
                   ></p>
+                </div>
+                <div class="description border-top pt-4 mb-4">
+                  <div class="portfolio-details-client pb-2">
+                    <h3 class="label">Aporte</h3>
+                  </div>
+                  <p
+                    v-for="(item, e) in project.value"
+                    :key="e"
+                    v-html="item"
+                  ></p>
+                </div>
+                <div class="description border-top pt-4 mb-4">
+                  <div class="portfolio-details-client pb-2">
+                    <h3 class="label">ALIANZAS:</h3>
+                  </div>
+                  <ul class="team-list">
+                    <li
+                      v-for="(item, i) in project.partnership"
+                      :key="`parnetship-${i}`"
+                    >
+                      {{ item }}
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
