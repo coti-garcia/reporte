@@ -45,8 +45,6 @@
               incluso el desarrollo de la industria de los vinos, de la que
               Chile es un importante actor a nivel mundial.
             </p>
-          </div>
-          <div class="col-12 col-md-6">
             <p>
               Los acuerdos de colaboración se han mantenido durante décadas y se
               han ido afianzando, con la conformación de comités, planes
@@ -54,6 +52,8 @@
               entre la academia y los sectores público y privado de ambos
               países.
             </p>
+          </div>
+          <div class="col-12 col-md-6">
             <p>
               En este marco, la asociación entre UC Davis y Chile permanece
               hasta hoy con decenas de más de 60 estudiantes chilenos de

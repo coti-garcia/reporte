@@ -5,7 +5,7 @@ export default {
             slug: "agroinchalam",
             title: "Agroinchalam",
             name:
-                "Programa de extensión y difusión tecnológica en estructuras de conducción y protección en frutales.",
+                "Programa de extensión y difusión tecnológica en estructuras de conducción y protección en frutales",
             date: "Enero de 2017 a marzo de 2020.",
             thumb: '01/01.jpg',
             images: [
@@ -87,8 +87,8 @@ export default {
                 "Desde esta perspectiva, la compañía buscó identificar, definir e implementar un enfoque más cercano a los clientes y usuarios finales, que permita entender sus necesidades en el uso de estas estructuras y en la entrega de conocimiento y tecnologías con las cuales responder a las exigencias actuales y futuras de los agricultores.",
             ],
             how: [
-                "1.	El proyecto se realizó por etapas con el fin de apoyar la toma de decisiones de la empresa, según el grado de conocimiento y capacidades técnicas, e ir implementando el modelo de vinculación con actores claves.",
-                `2.	Entre las actividades realizadas se encuentran: 
+                "El proyecto se realizó por etapas con el fin de apoyar la toma de decisiones de la empresa, según el grado de conocimiento y capacidades técnicas, e ir implementando el modelo de vinculación con actores claves.",
+                `Entre las actividades realizadas se encuentran: 
                   <ul>
                   <li>Identificación de las tecnologías claves y habilitantes en frutales priorizados.</li>
                   <li>Construcción de una hoja de ruta para la compañía.</li>
@@ -127,7 +127,7 @@ export default {
             ],
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Freddy Boehmwald ",
@@ -201,7 +201,7 @@ export default {
             title: "Ariztía",
             slug: 'ariztia',
             name:
-                "Caracterización y optimización de bioinsumos producidos a partir de camas de producción avícola.",
+                "Caracterización y optimización de bioinsumos producidos a partir de camas de producción avícola",
             thumb: "03/01.jpg",
             date: "Noviembre de 2017 a la fecha.",
             images: [
@@ -213,7 +213,7 @@ export default {
             ],
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Álvaro Castro. ",
@@ -267,7 +267,7 @@ export default {
             images: ["04/01.jpg"],
             title: "Cal Austral", // con nota en amarillo
             name:
-                "Determinación de línea base para el desarrollo de biofertilizantes a partir de desechos de la producción de mitílidos. ",
+                "Determinación de línea base para el desarrollo de biofertilizantes a partir de desechos de la producción de mitílidos ",
             date: "Septiembre de 2019 a julio 2020.",
             team: [
                 {
@@ -301,7 +301,7 @@ export default {
                 },
             ],
             customer: ["Cal Austral S.A."],
-            investment: "xxxxxx", // con nota amarilla
+            investment: "",
             description: [
                 "La agricultura en suelos de origen volcánico se basa en un uso excesivo, exclusivo e ineficiente de fertilizantes sintéticos producidos de fuentes no renovables y/o mediante procesos de una gran huella de carbono, por lo que un producto de origen biológico es una gran alternativa. ",
                 "Este tipo de suelos presentan como característica la baja disponibilidad de fósforo y pH ácidos, para lo cual, se utilizan enmiendas de cal agrícola. Por este motivo, Cal Austral decidió generar un bioproducto que complemente el que utilizan actualmente. Así surgieron BioCal y BioCal Plus. ",
@@ -314,10 +314,7 @@ export default {
             value: [
                 "Se obtuvo una colección de 233 microorganismos aislados, de los cuales un 71% solubilizan fosfatos, lo que constituye una base sólida para el desarrollo de nuevos biofertilizantes que permitirán disminuir el uso de fertilizantes fosfatados.",
             ],
-            partnership: [ // con nota amarilla
-                "",
-                "",
-            ],
+            partnership: '',
             extra: [
                 `<img src="imagen01.jpg">`,
                 `<img src="imagen02.jpg">`,
@@ -340,7 +337,7 @@ export default {
             date: "Noviembre de 2016 a abril de 2020.",
             team: [
                 {
-                    teamName: "UC Davis Chile",
+                    teamName: "Equipo UC Davis Chile",
                     members: [
                         {
                             name: "Mauricio Cañoles",
@@ -397,7 +394,7 @@ export default {
                     ],
                 },
                 {
-                    teamName: "UDEC",
+                    teamName: "Equipo UDEC",
                     members: [
                         {
                             name: "Ignacio Serra ",
@@ -418,7 +415,7 @@ export default {
                     ],
                 },
                 {
-                    teamName: "INIA",
+                    teamName: "Equipo INIA",
                     members: [
                         {
                             name: "Carlos Ruiz ",
@@ -581,7 +578,7 @@ export default {
             date: "Diciembre 2018 a noviembre de 2021.",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Alejandra Acuña",
@@ -618,11 +615,11 @@ export default {
                 "Adicionalmente, CIMHi incorpora la simulación de los resultados del Modelo Hidrológico de Planificación de la cuenca del río Aconcagua desarrollado por la DGA. En ella, el usuario puede visualizar la hidrología superficial y subterránea del río desde el año 1950 hasta marzo 2020. Esta información es relevante ya que es el modelo utilizado por la DGA para toma de decisiones y además permite entender mejor la dinámica de la cuenca en distintos escenarios climáticos, demográficos y productivos.",
             ],
             how: [
-                "En la última década, diversos actores y usuarios de agua del río Aconcagua han manifestado su interés en disponer de una plataforma de monitoreo en línea con información representativa de caudales, meteorología, pozos, etc., que ayude a una mejor gestión del recurso hídrico. En este contexto, las juntas de vigilancia de la 1ª, 2ª y 3ª sección en conjunto con la Dirección General de Aguas y UC Davis Chile postularon y a fines de 2018 se ha adjudicaron un proyecto Corfo de Bienes Públicos Estratégicos con el objetivo de desarrollar la Plataforma Web CIMHi para fortalecer la gestión sustentable del agua y dar apoyo a la toma de decisiones en la distribución y uso del recurso hídrico. ",
+                "En la última década, diversos actores y usuarios de agua del río Aconcagua han manifestado su interés en disponer de una plataforma de monitoreo en línea con información representativa de caudales, meteorología, pozos, etc., que ayude a una mejor gestión del recurso hídrico. En este contexto, las juntas de vigilancia de la 1ª, 2ª y 3ª sección en conjunto con la Dirección General de Aguas y UC Davis Chile postularon y a fines de 2018 se ha adjudicaron un proyecto Corfo de Bienes Públicos Estratégicos con el objetivo de desarrollar la <strong>Plataforma Web CIMHi</strong> para fortalecer la gestión sustentable del agua y dar apoyo a la toma de decisiones en la distribución y uso del recurso hídrico. ",
             ],
             value: [
                 `La plataforma CIMHI se ha perfilado desde su origen como un conjunto de herramientas que están disponibles para todos los usuarios de aguas de manera de extender el conocimiento y disminuir las brechas de información, permitiendo con ello apoyar la administración integrada del recurso hídrico y brindando información a los actores que administran y velan por la correcta distribución del recurso. En este contexto, CIMHi aporta:
-                  <ul>
+                  <ol>
                     <li>Herramientas con información confiable, validada por los usuarios de agua y que colaboren a mejorar la gestión hídrica y la toma de decisiones.</li>
                     <li>Disminuye las asimetrías de información y las incertidumbres en los balances hídricos.</li>
                     <li>Logra la coordinación entre los actores relevantes y la institucionalidad del agua.</li>
@@ -630,7 +627,7 @@ export default {
                     <li>Entrega las bases para desarrollar una herramienta de modelación que permita simular escenarios futuros.</li>
                     <li>Permite participar activamente en la difusión y extensión para la adecuada comprensión y uso de la plataforma web CIMHi.</li>
                     <li>Promueve que los usuarios de agua asuman la responsabilidad conjunta de mantener la plataforma web CIMHi.</li>
-                  </ul> 
+                  </ol> 
               `,
             ],
             partnership: [
@@ -647,12 +644,12 @@ export default {
             images: ["08/01.jpg"],
             alt: "proyecto image",
             name:
-                "Whole genome analytics, genetic identification of clones for grapevine.",
+                "Whole genome analytics, genetic identification of clones for grapevine",
             title: "Clones de la vid / ID Clones",
             date: "Septiembre de 2015 a enero de 2020.",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Dario Cantu",
@@ -718,7 +715,7 @@ export default {
         },
         {
             id: "9",
-            slug: "economis-circular",
+            slug: "economia-circular",
             thumb: '09/01.jpg',
             images: [
                 "09/01.jpg",
@@ -733,7 +730,7 @@ export default {
             date: "Septiembre de 2019 a enero de 2020",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Olivia Valdés",
@@ -812,7 +809,7 @@ export default {
             date: "Marzo de 2017 a la actualidad (aún en ejecución)",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Isidora Silva",
@@ -912,7 +909,7 @@ export default {
             date: "Enero de 2019 a diciembre de 2019.",
             team: [
                 {
-                    teamName: "UC Davis Chile",
+                    teamName: "Equipo UC Davis Chile",
                     members: [
                         {
                             name: "Patricio Román",
@@ -929,7 +926,7 @@ export default {
                     ],
                 },
                 {
-                    teamName: "ESPOL",
+                    teamName: "Equipo ESPOL",
                     members: [
                         {
                             name: "Carlos Monsalve",
@@ -955,7 +952,7 @@ export default {
             investment: "US$24.900",
             description: [
                 "La ESPOL, principal universidad pública del Ecuador, está en un proceso de mejora institucional que, entre otros asuntos, busca asegurar que sus capacidades de investigación y las de sus centros de estudio y tecnología, se conecten a una dinámica de innovación orientada a los requerimientos del mercado, la industria y los territorios donde irradia su influencia. ",
-                "La universidad encargó a UC Davis Chile evaluar el estado de ese proceso y proponer un modelo gestión, con foco en innovación, para sus centros de investigación. Esta asesoría se centró en una primera etapa en dar lineamiento estratégico y recomendaciones para que el Centro de Investigaciones Biotecnológicas del Ecuador (CIBE), implemente de manera orgánica procesos y prácticas de innovación en la definición, evaluación y ejecución de sus líneas de investigación, y con ello ser capaz de formular una propuesta de valor diferenciada y ser referente a nivel nacional e internacional, en su ámbito de especialización.",
+                "La universidad encargó a UC Davis Chile evaluar el estado de ese proceso y proponer un modelo gestión, con foco en innovación, para sus centros de investigación. Esta asesoría se centró en una primera etapa en dar lineamiento estratégico y recomendaciones para que el <em>Centro de Investigaciones Biotecnológicas del Ecuador (CIBE)</em>, implemente de manera orgánica procesos y prácticas de innovación en la definición, evaluación y ejecución de sus líneas de investigación, y con ello ser capaz de formular una propuesta de valor diferenciada y ser referente a nivel nacional e internacional, en su ámbito de especialización.",
                 "En etapas sucesivas, se formularon propuestas de cambios en la estructura de la ESPOL para mejorar su capacidad de gestión estratégica y alineamiento de sus centros de investigación.",
             ],
             how: [
@@ -972,9 +969,7 @@ export default {
                   </ul> 
               `,
             ],
-            partnership: [
-                "",
-            ]
+            partnership: '',
         },
         { // con comentarios amarillos
             id: "12",
@@ -988,7 +983,7 @@ export default {
             date: "27 de agosto – 7 septiembre 2018",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Daniela Sandoval",
@@ -1000,7 +995,7 @@ export default {
                         },
                         {
                             name: "Aryanne Quintal",
-                            position: "coordinadora de Proyectos en la Sección de Competitividad, Innovación y Tecnología de la Organización de Estados Americanos (OEA).",
+                            position: "Coordinadora de Proyectos en la Sección de Competitividad, Innovación y Tecnología de la Organización de Estados Americanos (OEA).",
                         },
                         {
                             name: "Nancy Pérez",
@@ -1008,11 +1003,11 @@ export default {
                         },
                         {
                             name: "Daniela Sánchez",
-                            position: "gestora tecnológica, Universidad del Desarrollo. ",
+                            position: "Gestora tecnológica, Universidad del Desarrollo. ",
                         },
                         {
                             name: "Gillian Armstrong",
-                            position: "fotografía y edición.",
+                            position: "Fotografía y edición.",
                         },
                     ],
                 },
@@ -1029,7 +1024,7 @@ export default {
             value: [
                 `<ul>
                     <li>Se realizó una serie de actividades de relacionamiento para los alumnos y expositores con Chile como telón de fondo. Esto contribuyó a crear un networking que beneficia la transferencia de tecnología en Latinoamérica.</li>
-                    <li>El programa también contó con actividades abiertas a todo público, tales como el día ‘Experiencia Chile’, instancia que abordó la experiencia chilena en el ámbito de la innovación y que contó con la participación de representantes de diferentes instituciones nacionales, tales como CORFO, Startup Chile, AmCHam, INAPI, Innova Chile, UDD y UC Davis Chile y charlas de expertos internacionales. La convocatoria sumó a 197 personas en el lugar y a más de 3.600 personas a través de plataformas digitales. También se generó 1 acuerdo de colaboración entre una institución chilena y una colombiana y se sentaron las bases para la realización del próximo HUB de Comercialización y Transferencia de Tecnologías en Panamá y el próximo “Intercambio para la Competitividad de las Américas en Innovación y Emprendimiento” (ACE por sus siglas en ingles), en Chile. </li>
+                    <li>El programa también contó con actividades abiertas a todo público, tales como el día <strong>‘Experiencia Chile’</strong>, instancia que abordó la experiencia chilena en el ámbito de la innovación y que contó con la participación de representantes de diferentes instituciones nacionales, tales como <strong>CORFO, Startup Chile, AmCHam, INAPI, Innova Chile, UDD y UC Davis Chile</strong> y charlas de expertos internacionales. La convocatoria sumó a 197 personas en el lugar y a más de 3.600 personas a través de plataformas digitales. También se generó 1 acuerdo de colaboración entre una institución chilena y una colombiana y se sentaron las bases para la realización del próximo HUB de Comercialización y Transferencia de Tecnologías en Panamá y el próximo “Intercambio para la Competitividad de las Américas en Innovación y Emprendimiento” (ACE por sus siglas en ingles), en Chile. </li>
                   </ul> 
               `,
             ],
@@ -1050,11 +1045,11 @@ export default {
             title:
                 "Diagnóstico Lamp",
             name:
-                "ESTRATEGIAS DE MITIGACIÓN CON ÉNFASIS EN CONTROL BIOLÓGICO DE ENFERMEDADES DE LA MADERA DE LA VID",
+                "Estrategias de mitigación con énfasis en control biológico de enfermedades de la madera de la vid",
             date: "Marzo de 2017 a diciembre de 2019.",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Felipe Sáez",
@@ -1081,11 +1076,11 @@ export default {
             ],
             customer: [
                 "Viña Concha y Toro",
-                "VSPT wine group.",
+                "VSPT wine group",
             ],
             investment: "$120.000.000",
             description: [
-                "Las enfermedades de la madera de la vid son consideradas como uno de los mayores problemas de la industria del vino a nivel mundial. Estas enfermedades son causadas por un grupo de hongos, varios de ellos pertenecientes al género de las Botryosphaeria que colonizan el tejido interno de la planta, generando enormes pérdidas productivas. De forma tradicional, el diagnóstico de estas enfermedades es realizado por la observación en conjunto de los síntomas de la planta y los estudios fitopatológicos dados por el cultivo in-vitro de los hongos patogénicos. Estos métodos son lentos y requieren de personal altamente especializado y calificado. Además, los síntomas en la planta pueden aparecer hasta años después de la infección. Con el objetivo de desarrollar un sistema de detección selectivo para hongos de este género se desarrolló un método que utiliza una variante de la técnica de biología molecular PCR, la amplificación isotérmica LAMP, para la evaluación rápida, específica e in situ de esta familia de hongos. Con esta técnica fue posible incluso discriminar aislados de hospederos distintos a Vitis vinifera. ",
+                "Las enfermedades de la madera de la vid son consideradas como uno de los mayores problemas de la industria del vino a nivel mundial. Estas enfermedades son causadas por un grupo de hongos, varios de ellos pertenecientes al género de las Botryosphaeria que colonizan el tejido interno de la planta, generando enormes pérdidas productivas. De forma tradicional, el diagnóstico de estas enfermedades es realizado por la observación en conjunto de los síntomas de la planta y los estudios fitopatológicos dados por el cultivo in-vitro de los hongos patogénicos. Estos métodos son lentos y requieren de personal altamente especializado y calificado. Además, los síntomas en la planta pueden aparecer hasta años después de la infección. Con el objetivo de desarrollar un sistema de detección selectivo para hongos de este género se desarrolló un método que utiliza una variante de la técnica de biología molecular PCR, la amplificación isotérmica LAMP, para la evaluación rápida, específica e in situ de esta familia de hongos. Con esta técnica fue posible incluso discriminar aislados de hospederos distintos a <em>Vitis vinifera</em>. ",
             ],
             how: [
                 "Para la ejecución del proyecto se implementó la técnica de LAMP para la detección de los hongos pertenecientes al género Botryosphaeria, causantes de síntomas y daños iniciales de las enfermedades de la madera en viñedos jóvenes (menos de 5 años de establecimiento en campo). Para esto, se utilizaron cultivos puros de estos hongos, logrando detecciones de cantidades muy bajas de estos hongos (hasta un fentógramo de DNA de los patógenos). Esto da cuenta de la sensibilidad de la técnica utilizada, que no se logra con otros métodos de detección usados en actualmente (qPCR e inmunodetección). ",
@@ -1116,11 +1111,11 @@ export default {
             title:
                 "Orobanche - Sugal",
             name:
-                "Modelo de control integrado para Phelipanche ramosa en cultivo de tomate industrial en Chile.",
+                "Modelo de control integrado para Phelipanche ramosa en cultivo de tomate industrial en Chile",
             date: "Noviembre de 2018  a noviembre de 2020.",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Alejandra Acuña",
@@ -1161,7 +1156,7 @@ export default {
                 "Con este proyecto se dio cuenta de la relevancia de este problema agronómico en la industria productora de tomate, pues si no se enfrenta adecuadamente puede acabar con la producción en Chile. Además, al monitorear los niveles de infestación por zona geográfica, se desarrolló un programa de manejo y se ha trabajado en identificar prácticas preventivas que evitan la dispersión de la maleza desde campos infestados.",
             ],
             partnership: [
-                "Sugal Chile Ltda., empresas agroquímicas que tienen las soluciones químicas de control de esta maleza (si se pueden nombrar), Pontificia Universidad Católica e Instituto de Investigaciones Agropecuarias, INIA.",
+                "Sugal Chile Ltda., empresas agroquímicas que tienen las soluciones químicas de control de esta maleza, Pontificia Universidad Católica e Instituto de Investigaciones Agropecuarias, INIA.",
             ]
         },
         {  //comentarios en amarillo
@@ -1261,8 +1256,8 @@ export default {
                 },
             ],
             customer: [
-                "Primera temporada 2017: VSPT wine group, Viña Concha y Toro y Universidad de Talca. ",
-                "Segunda temporada (2018 y 2019): VSPT wine group, Universidad de Talca, Viña Santa Rita y Universidad Federico Santa María.",
+                "<strong>Primera temporada 2017:</strong><br /> VSPT wine group, Viña Concha y Toro y Universidad de Talca. ",
+                "<strong>Segunda temporada (2018 y 2019):</strong> <br/>VSPT wine group, Universidad de Talca, Viña Santa Rita y Universidad Federico Santa María.",
             ],
             investment: "$311 millones",
             description: [
@@ -1292,14 +1287,18 @@ export default {
             id: "16",
             slug: "infiltracion-de-acuiferos",
             thumb: "16/01.jpg",
-            images: ["16/01.jpg"],
+            images: [
+                "16/01.jpg",
+                "16/02.jpg",
+                "16/03.jpg",
+            ],
             alt: "proyecto image",
             name: "Prototipo de recarga artificial de aguas subterráneas",
             title: "Infiltración de acuíferos",
-            date: "Mayo de 2018 a marzo de 2019.",
+            date: "Mayo de 2018 a marzo de 2019",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Carlos Flores",
@@ -1362,14 +1361,14 @@ export default {
             ],
             title:
                 "Proyecto Arica",
-            name: "Plataforma de Bioproductos para la Región de Arica y Parinacota.",
+            name: "Plataforma de Bioproductos para la Región de Arica y Parinacota",
             subtitle:
                 `<h6><strong>Fase 1:</strong> Plataforma de Biodescubrimiento de Recursos Genéticos Microbianos en la Región de Arica y Parinacota para su uso en Agricultura.</h6>
               <h6><strong>Fase 2:</strong> Plataforma de Escalamiento para la Validación y Empaquetamiento de Bioproductos en la Universidad de Tarapacá.</h6>`,
-            date: "Marzo de 2015 a la fecha.",
+            date: "Marzo de 2015 a la fecha",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Patricio Muñoz",
@@ -1416,7 +1415,7 @@ export default {
                 },
             ],
             customer: [
-                "Universidad de Tarapacá."],
+                "Universidad de Tarapacá"],
             investment: "US$896.380",
             description: [
                 "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en el uso de la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
@@ -1425,7 +1424,7 @@ export default {
                 "Para la ejecución de este proyecto, el equipo científico realizó un muestreo intensivo en plantas cultivadas y endémicas de la zona y se aislaron más de 400 microorganismos, los cuales fueron caracterizados en base a sus propiedades benéficas para agricultura (bioestimulantes y biocontroladores). Mediante la ejecución de diversas pruebas de laboratorio, tanto cualitativas como cuantitativas, se acotó la lista de microorganismos de acuerdo a ciertos parámetros muy específicos hasta llegar a una bacteria identificada como Pseudomonas lini cepa S57, la cual a nivel de laboratorio cumple con los requisitos para desarrollar un bioestimulante y biofungicida funcional para la Región de Arica y Parinacota. Se optimizó el crecimiento de la bacteria para favorecer su masa celular empleando metodologías de escalamiento en biorreactor. Asimismo, se trabajó en la generación y prueba de distinto tipo de formulaciones líquidas, polvos mojables y granulares, las que se están evaluando para la validación de resultados en invernaderos de la Universidad de Tarapacá. ",
             ],
             value: [
-                "En este estudio, se inició el desarrollo de un bioproducto agrícola compatible con las condiciones salino-bóricas de la Región de Arica y Parinacota, las cuales limitan el uso de otros bioproductos comerciales disponibles en la zona. Este nuevo bioproducto está compuesto por una formulación que contiene la bacteria Pseudomonas lini cepa S57 obtenida de plantas cultivadas en el antiplano, y posee actividades estimulantes de crecimiento vegetal y biofungicida contra algunas enfermedades como Botrytis. Estas dos funcionalidades dieron origen a 2 patentes que fueron solicitadas al instituto de propiedad intelectual (INAPI). Hasta ahora, la bacteria P. lini cepa S57 se ha formulado en preparaciones líquidas y granulares, cuyas propiedades están en evaluación y validación en campo.",
+                "En este estudio, se inició el desarrollo de un bioproducto agrícola compatible con las condiciones salino-bóricas de la Región de Arica y Parinacota, las cuales limitan el uso de otros bioproductos comerciales disponibles en la zona. Este nuevo bioproducto está compuesto por una formulación que contiene la bacteria <em>Pseudomonas lini</em> cepa S57 obtenida de plantas cultivadas en el antiplano, y posee actividades estimulantes de crecimiento vegetal y biofungicida contra algunas enfermedades como Botrytis. Estas dos funcionalidades dieron origen a 2 patentes que fueron solicitadas al instituto de propiedad intelectual (INAPI). Hasta ahora, la bacteria <em>P. lini</em> cepa S57 se ha formulado en preparaciones líquidas y granulares, cuyas propiedades están en evaluación y validación en campo.",
                 "La bacteria mencionada, como ya se mencionó, es parte de una colección de recursos genéticos microbianos aislados en la Región de Arica y Parinacota y que cuenta con una variedad de microorganismos de zonas extremófilas caracterizados parcialmente de acuerdo a sus funcionalidades para la agricultura. La colección posee más de 400 microorganismos con un inmenso potencial biotecnológico que se espera poder ponerlo al servicio de la academia para investigación, industria agrícola, farmacéutica, alimentaria y otras para su explotación y beneficio de la sociedad.",
             ],
             partnership: [
@@ -1437,7 +1436,7 @@ export default {
             id: "18",
             slug: "surface-renewal",
             thumb: '18/01.jpg',
-            images: ["18/01.jpg", "18/02.jpg"],
+            images: ["18/01.jpg", "18/02.jpg", "18/03.jpg"],
             title:
                 "SURFACE RENEWAL",
             name:
@@ -1445,7 +1444,7 @@ export default {
             date: "Septiembre 2017 a julio de 2021",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Richard Snyder",
@@ -1495,7 +1494,12 @@ export default {
             id: "19",
             slug: "bien-publico-telemedicina",
             thumb: '19/01.jpg',
-            images: ["19/01.jpg"],
+            images: [
+                "19/01.jpg",
+                "19/02.jpg",
+                "19/03.jpg",
+                "19/04.jpg",
+            ],
             name:
                 "Lineamientos para el desarrollo de la Telemedicina y Telesalud en Chile.",
             title: "Bien Público Telemedicina",
@@ -1503,7 +1507,7 @@ export default {
             date: "2018 - 2021",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Maurizio Mattoli",
@@ -1566,12 +1570,12 @@ export default {
             ],
             alt: "proyecto image",
             name:
-                "Determinación de presencia de virus y hongos de la madera en vides.",
+                "Determinación de presencia de virus y hongos de la madera en vides",
             title: "Plant pathogens detection",
-            date: "octubre de 2015 a octubre de 2018.",
+            date: "Octubre de 2015 a octubre de 2018",
             team: [
                 {
-                    teamName: "Equipo técnico",
+                    teamName: "Equipo",
                     members: [
                         {
                             name: "Rubén Polanco",
@@ -1616,13 +1620,13 @@ export default {
             value: [
                 `La información generada permitió elaborar una estrategia para establecer futuros programas de manejo de enfermedades fungosas entre las que están:
                 <ul>
-                  <li>Identidad a nivel de especie de los hongos que afectan a vides recién establecidas en campo. En Chile, los principales patógenos de madera corresponden a Phaeomoniella chlamydospora, seguido por la familia Botryosphaeriaceae, principalmente las especies Diplodia seriata, Diplodia mutila, Neofusicoccum parvum y Spencermartinsia viticola (sinónimo de Botryosphaeria viticola), anamorfo de Dothiorella viticola, un patógeno de gran importancia a nivel mundial debido a los devastadores efectos que conlleva la infección en campo</li>
-                  <li>Diseño de sistemas de diagnóstico molecular para la familia Botryosphaeriaceae.</li>
+                  <li>Identidad a nivel de especie de los hongos que afectan a vides recién establecidas en campo. En Chile, los principales patógenos de madera corresponden a <em>Phaeomoniella chlamydospora</em>, seguido por la familia <em>Botryosphaeriaceae</em>, principalmente las especies <em>Diplodia seriata, Diplodia mutila, Neofusicoccum parvum y Spencermartinsia viticola</em> (sinónimo de Botryosphaeria viticola), anamorfo de Dothiorella viticola, un patógeno de gran importancia a nivel mundial debido a los devastadores efectos que conlleva la infección en campo</li>
+                  <li>Diseño de sistemas de diagnóstico molecular para la familia <em>Botryosphaeriaceae.</em></li>
                   <li>Búsqueda de biocontroladores para hongos que afectan a vides recién establecidas en campo.</li>
                 </ul> 
             `,
                 "Además, se transfirieron desde California (Plant Fundation Service) metodologías actualizadas para la identificación de los virus que producen daño comercial en vides.",
-                "A partir del trabajo de cultivo de placas por parte de los investigadores de la Universidad de Talca, fue reportada por primera vez la presencia de Eutypa lata este hongo fitopatógeno es catalogado, desde la década del 70, como uno de los más letales para la vid y actualmente en Estados Unidos, específicamente en toda el área de California, los daños que causa son sumamente importantes, al igual que en viñedos de Australia, Sudáfrica y Europa.",
+                "A partir del trabajo de cultivo de placas por parte de los investigadores de la Universidad de Talca, fue reportada por primera vez la presencia de <em>Eutypa lata</em> este hongo fitopatógeno es catalogado, desde la década del 70, como uno de los más letales para la vid y actualmente en Estados Unidos, específicamente en toda el área de California, los daños que causa son sumamente importantes, al igual que en viñedos de Australia, Sudáfrica y Europa.",
             ],
             partnership: [
                 "UC Davis (mencionar el área o laboratorio de UC Davis California)",

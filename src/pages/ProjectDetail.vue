@@ -68,13 +68,18 @@
                       <td class="label">Mandantes</td>
                       <td>
                         <ul>
-                          <li v-for="item in project.customer" :key="item">
-                            {{ item }}
-                          </li>
+                          <li
+                            v-for="item in project.customer"
+                            :key="item"
+                            v-html="item"
+                          ></li>
                         </ul>
                       </td>
                     </tr>
-                    <tr class="portfolio-details-client">
+                    <tr
+                      v-if="project.investment"
+                      class="portfolio-details-client"
+                    >
                       <td class="label">Inversión total</td>
                       <td>{{ project.investment }}</td>
                     </tr>
@@ -123,7 +128,10 @@
                     v-html="item"
                   ></p>
                 </div>
-                <div class="description border-top pt-4 mb-4">
+                <div
+                  v-if="project.partnership"
+                  class="description border-top pt-4 mb-4"
+                >
                   <div class="portfolio-details-client pb-2">
                     <h3 class="label">ALIANZAS:</h3>
                   </div>

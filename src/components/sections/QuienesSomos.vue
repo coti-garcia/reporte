@@ -86,7 +86,7 @@
                 />
               </div>
               <div class="text-right white">
-                Ex Director Ejecutivo:: <strong>Alan Bennett</strong>
+                Ex Director Ejecutivo: <strong>Alan Bennett</strong>
               </div>
             </div>
             <!-- ht-team-member End -->
@@ -338,12 +338,12 @@ export default {
     administrativeTeam: [
       {
         name: "María Trinidad Eva",
-        position: "Administration and Finance Manager",
+        position: "Administration & Finance Manager",
         img: "Trinidad-Eva.jpg",
       },
       {
         name: "Francisco Díaz",
-        position: "Partnership and Communications Manager",
+        position: "Partnership & Communications Manager",
         img: "Francisco-Diaz.jpg",
       },
       {
@@ -353,7 +353,7 @@ export default {
       },
       {
         name: "Jorge Cabezas",
-        position: "Administration and Finance Coordinator",
+        position: "Administration & Finance Coordinator",
         img: "Jorge-Cabezas.jpg",
       },
       {
@@ -400,22 +400,22 @@ export default {
       },
       {
         name: "Patricia Anguita",
-        position: "Intelectual Property and Technology Transfer Coordinator",
+        position: "Intelectual Property & Technology Transfer Coordinator",
         img: "Patricia-Anguita.jpg",
       },
       {
         name: "Álvaro Castro",
-        position: "Research and Development Coordinator",
+        position: "Research & Development Coordinator",
         img: "Alvaro-Castro.jpg",
       },
       {
         name: "Fernando Coz",
-        position: "Environment and Sustainability Coordinator",
+        position: "Environment & Sustainability Coordinator",
         img: "Fernando-Coz.jpg",
       },
       {
         name: "Leticia Rojas",
-        position: "Innovation and Extension Coordinator",
+        position: "Innovation & Extension Coordinator",
         img: "Leticia-Rojas.jpg",
       },
       {
@@ -430,27 +430,27 @@ export default {
       },
       {
         name: "Jessica Alvarado",
-        position: "Innovation and Extension Specialist",
+        position: "Innovation & Extension Specialist",
         img: "Jessica-Alvarado.jpg",
       },
       {
         name: "Juan Carlos Galaz",
-        position: "Innovation and Extension Specialist",
+        position: "Innovation & Extension Specialist",
         img: "Juan-Carlos-Galaz.jpg",
       },
       {
         name: "Victor González",
-        position: "Innovation and Extension Specialist",
+        position: "Innovation & Extension Specialist",
         img: "Victor-Gonzalez.jpg",
       },
       {
         name: "Natalia Díaz",
-        position: "Innovation and Extension Specialist",
+        position: "Innovation & Extension Specialist",
         img: "Natalia-Diaz.jpg",
       },
       {
         name: "Camila Saavedra",
-        position: "Viticulture and Enology Specialist",
+        position: "Viticulture & Enology Specialist",
         img: "Camila-Saavedra.jpg",
       },
       {
@@ -480,7 +480,7 @@ export default {
       },
       {
         name: "Catalina Montalvo",
-        position: "Extension and Innovation Advisor",
+        position: "Extension & Innovation Advisor",
         img: "Catalina-Montalvo.jpg",
       },
     ],

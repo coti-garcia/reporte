@@ -23,12 +23,8 @@
     <!-- portfolio item wrapper start -->
     <div class="portfolio-pages-wrapper">
       <div class="container">
-        <div
-          class="row clearfix masonry-wrap"
-          v-masonry
-          transition-duration="3s"
-          item-selector=".masonary-item"
-        >
+        <div class="row clearfix masonry-wrap">
+          <!--v-masonry-->
           <div
             class="col-lg-4 col-md-6 masonary-item"
             v-for="project in projects"

@@ -19,7 +19,7 @@
               class="wow move-up"
             />
             <p class="text-center intro cabernet mx-auto mb-5">
-              Fundada en 1908, UC Davis es la universidad, académicamente, mas
+              Fundada en 1908, UC Davis es la universidad académicamente más
               completa e integral de la costa oeste, y una de las cinco
               universidades públicas en los Estados Unidos con mayor desarrollo
               y trayectoria en salud humana, medicina veterinaria, ciencias
