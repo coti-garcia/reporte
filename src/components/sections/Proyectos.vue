@@ -26,7 +26,7 @@
         <div class="row clearfix masonry-wrap">
           <!--v-masonry-->
           <div
-            class="col-lg-4 col-md-6 masonary-item"
+            class="col-12 masonary-item"
             v-for="project in projects"
             :key="project.id"
           >
