@@ -17,19 +17,14 @@
           <div class="col-lg-4 col-md-6 footer-widget">
             <ul class="footer-widget__list">
               <li>
-                Av. Andrés Bello 2299, oficina 1102, <br />Providencia, Santiago
-                • Chile
+                Av. Santa María 2670, oficina 206 <br />Providencia, Santiago •
+                Chile
               </li>
               <li>
                 <a
                   href="mailto:ucdavischile@ucdavis.edu"
                   class="hover-style-link"
                   >ucdavischile@ucdavis.edu</a
-                >
-              </li>
-              <li>
-                <a href="tel:(+68)122109876" class="hover-style-link"
-                  >+56 2 325 11220</a
                 >
               </li>
               <li>
