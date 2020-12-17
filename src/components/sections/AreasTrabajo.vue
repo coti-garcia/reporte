@@ -6,7 +6,7 @@
           <ChartCircleTwo
             color="bodega"
             sectionProgress="81"
-            circleValue="09"
+            circleValue="08"
             class="section-space--mb_40"
           />
         </div>
@@ -54,28 +54,27 @@
                   </h3>
                   <div class="sub-text section-space--mb_40">
                     <p>
-                      El origen de las investigaciones en esta área tiene como
-                      factor común resolver problemas concretos de las
+                      Los objetivos de las investigaciones en esta área tienen
+                      como factor común resolver problemas concretos de las
                       industrias o de temas estratégicos de interés nacional o
                       internacional, que generen valor a la sociedad.
                     </p>
                     <p>
-                      En UC Davis Campus tenemos una larga tradición de
-                      investigación y trabajo en todas las áreas del
-                      conocimiento en un rango que va desde las ciencias
-                      biológicas e ingeniería al derecho y la ecología humana,
-                      entre otras. Nuestra presencia como centro de excelencia
-                      en Chile, nos ha permitido realizar investigaciones que
-                      cuentan con acceso a estudios que ya han avanzado en la
-                      resolución de problemáticas que se dan en el país,
-                      instalación de laboratorios en Chile y uso de laboratorios
-                      de punta a nivel mundial en California, además de la
-                      participación de investigadores reconocidos como líderes
-                      en sus campos.
+                      En UC Davis tenemos una larga tradición de investigación y
+                      trabajo en todas las áreas del conocimiento en un rango
+                      que va desde las ciencias biológicas e ingeniería, al
+                      derecho y la ecología humana. Nuestra presencia como
+                      Centro de Innovación en Chile, nos ha permitido realizar
+                      investigaciones que cuentan con acceso a estudios que ya
+                      han avanzado en la resolución de problemáticas que se dan
+                      en el país, instalación de laboratorios en Chile y uso de
+                      laboratorios de punta a nivel mundial en California,
+                      además de la participación de investigadores reconocidos
+                      como líderes en sus campos.
                     </p>
                     <p>
-                      En esta primera etapa, y obedeciendo a necesidades
-                      específicas del país, hemos desarrollado temas como:
+                      Durante esto años, y obedeciendo a necesidades específicas
+                      del país, hemos desarrollado temas como:
                     </p>
                   </div>
                 </div>
@@ -101,13 +100,13 @@
                     <div class="text">
                       <p>
                         En el ámbito de la producción agrícola, el manejo
-                        eficiente y sustentable se hace cada vez más necesario
+                        eficiente y sustentable se hace cada vez más necesario,
                         tanto para optimizar y mejorar la calidad de la
                         producción, como para resguardar el medioambiente. Con
                         tecnologías de secuenciación masiva de ADN buscamos
                         responder a una serie de necesidades de caracterización
                         e individualización de organismos y genes con potencial
-                        industrial e identificando enfermedades y plagas que
+                        industrial, e identificando enfermedades y plagas que
                         afectan a las plantas y árboles.
                       </p>
                       <p>
@@ -138,17 +137,17 @@
                       <p>
                         Chile y California tienen grandes similitudes en su
                         clima y en sus cultivos. Estos paralelos son una
-                        oportunidad para intercambiar información y aplicar
+                        oportunidad para intercambiar información y adaptar
                         soluciones ya desarrolladas para un mismo problema.
                       </p>
                       <p>
-                        Un sector relevante en ambos estados es la industria del
-                        vino, la que sigue creciendo tanto en volumen como en
-                        producción de vinos premium. Su calidad y precio son
-                        determinados por una compleja interacción entre la
-                        genética de la vid, condiciones del suelo, clima,
-                        madurez, fermentación y envejecimiento. Gracias a la
-                        aplicación de estudios genéticos, hemos trabajado en
+                        Un sector relevante en Chile y California es la
+                        industria del vino, la que sigue creciendo tanto en
+                        volumen como en producción de vinos premium. Su calidad
+                        y precio son determinados por una compleja interacción
+                        entre la genética de la vid, condiciones del suelo,
+                        clima, madurez, fermentación y envejecimiento. Gracias a
+                        la aplicación de estudios genéticos, hemos trabajado en
                         soluciones basadas en ciencia en cada etapa del proceso
                         de producción del vino para mejorar el producto final y
                         su valor económico.
@@ -176,11 +175,11 @@
                         El manejo sustentable de los cultivos y la seguridad en
                         el control de plagas es una necesidad de la agricultura
                         actual. Nuestro trabajo en este ámbito ha logrado el
-                        desarrollo de campo de los bioproductos y bioprocesos
-                        con mirar a reemplazar o complementar a los químicos que
+                        desarrollo de bioproductos y bioprocesos con miras a
+                        reemplazar o complementar a los productos químicos que
                         se emplean en la agricultura hace décadas. Chile, por la
                         enorme variedad de sus sistemas ecológicos, que van
-                        desde el desierto más antiguo del mundo a la Antártica,
+                        desde el desierto más árido del mundo a la Antártica,
                         cuenta con innumerables microorganismos –especialmente
                         bacterias y hongos- que pueden ayudar a plantas y
                         cultivos a protegerse contra insectos o patógenos
@@ -256,16 +255,14 @@
                       desarrollo que se generan.
                     </p>
                     <p>
-                      Gracias a la gran experiencia en esta materia de nuestra
-                      matriz UC Davis en California, apoyamos tanto en Chile
-                      como en Latinoamérica, el avance conceptual y práctico de
-                      la gestión de la propiedad intelectual y estrategia de la
-                      transferencia tecnológica, tanto para el entendimiento y
-                      la adopción de prácticas metodologías por el sector
-                      académico, estado y empresas .
+                      Gracias a la gran experiencia de UC Davis en esta materia,
+                      apoyamos, tanto en Chile como en Latinoamérica, el avance
+                      conceptual y práctico de la gestión de la propiedad
+                      intelectual y el diseño de estrategias de transferencia
+                      tecnológica.
                     </p>
                     <p>
-                      Dentro del trabajo que llevamos a cabo de esta área están
+                      Dentro del trabajo que llevamos a cabo en esta área está
                       también el buscar oportunidades de investigación y
                       desarrollo que generen un impacto tangible en las
                       industrias o en la sociedad, acompañar a los
@@ -273,8 +270,7 @@
                       activos, apoyar la innovación en empresas de cualquier
                       tamaño y fortalecer las oficinas de transferencia
                       tecnológicas de las universidades y centros de
-                      investigación que se encuentren en proceso de creación,
-                      crecimiento y consolidación.
+                      investigación de Chile y Latinoamérica.
                     </p>
                   </div>
                 </div>
@@ -326,7 +322,7 @@
                   </h4>
                   <div class="sub-text section-space--mb_40">
                     <p>
-                      El sistema de extensión de la Universidad de California,
+                      El Sistema de Extensión de la Universidad de California,
                       UC Cooperative Extension, ha sido clave en posibilitar que
                       la investigación se traduzca en beneficios reales para la
                       agricultura en ese Estado, logrando construir un puente
@@ -359,7 +355,7 @@
           <div class="row">
             <div class="col-12 col-lg-9">
               <p>
-                El trabajo de la Coordinación de Innovacióny Extensión de UC
+                El trabajo de la Coordinación de Innovación y Extensión de UC
                 Davis Chile se enfoca en cinco componentes, a partir de los
                 cuales ofrecemos diversos servicios:
               </p>
@@ -407,13 +403,13 @@ export default {
         trabajamos:
           "Identificar y priorizar problemas en conjunto con los actores de las industrias",
         ofrecemos:
-          "Desarrollo de diagnósticos en co-creación con los actores de las industrias, utilizando metodologías y herramientas faciliten su identificación y priorización.  ",
+          "•	Desarrollo de diagnósticos en co-creación con los actores de las industrias, utilizando metodologías y herramientas que faciliten su identificación y priorización.",
       },
       {
         id: 502,
         num: 2,
         trabajamos:
-          "Facilitar su interacción con agentes de investigación, educación, agroindustria y otras instituciones relevantes",
+          "Facilitar la interacción con agentes de investigación, educación, agroindustria e instituciones relevantes",
         ofrecemos:
           "Creación de redes de colaboración, con investigadores (nacionales y de California), asesores, productores, proveedores, etc.  para implementar soluciones acordes a las necesidades de la industria.",
       },
@@ -431,7 +427,7 @@ export default {
         trabajamos:
           "Facilitar el acceso a conocimiento, información, tecnologías y buenas prácticas.",
         ofrecemos:
-          "Plataforma de Extensión de UC Davis Chile, con el objetivo de poner a disposición de las industrias, personas y organizaciones conocimiento e información validada y basada en ciencia, proveniente de trabajos nacionales y de UC Davis.",
+          "Plataforma de Extensión de UC Davis Chile, con contenidos  e información validada y basada en ciencia, proveniente de trabajos nacionales y de UC Davis.",
         ofrecemos2:
           "Desarrollo de materiales de extensión: fichas técnicas, manuales, videos, etc. ",
       },
