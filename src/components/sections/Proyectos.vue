@@ -23,6 +23,15 @@
     <!-- portfolio item wrapper start -->
     <div class="portfolio-pages-wrapper">
       <div class="container">
+        <div class="row">
+          <div class="col-12 text-white intro">
+            <p>
+              A continuación, información relativa a nuestros principales
+              proyectos. Si desea revisar el portafolio total de los 55
+              proyectos, puede hacer click AQUI
+            </p>
+          </div>
+        </div>
         <div class="row clearfix masonry-wrap">
           <!--v-masonry-->
           <div

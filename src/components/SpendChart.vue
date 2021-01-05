@@ -27,7 +27,7 @@ export default {
           data: [3404, 2524],
         },
         {
-          label: "Valorizado",
+          label: "Administración",
           backgroundColor: "#FFBF00",
           stack: "Stack 0",
           data: [1879, 1783],
