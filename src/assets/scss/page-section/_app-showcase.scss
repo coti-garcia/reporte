@@ -18,19 +18,19 @@
     }
     .hero {
         &-item {
-            height: 800px;
+      
             display: flex;
             align-items: center;
             justify-content: center;
             flex-direction: column;
             padding-top: 90px;
             // responsive
-            @media #{$large-mobile}{
-                height: 900px;
-            }
-            @media #{$extra-small-mobile}{
-                height: 500px;
-            }
+            // @media #{$large-mobile}{
+            //     height: 900px;
+            // }
+            // @media #{$extra-small-mobile}{
+            //     height: 500px;
+            // }
         }
         &-thumb {
             padding: 95px 15px 0;

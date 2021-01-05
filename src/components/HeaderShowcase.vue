@@ -8,7 +8,7 @@
   >
     <div class="container-fluid container-fluid--cp-150">
       <b-link class="menu-btn" @click="toggleClass('addClass', 'active')">
-        <i class="fas fa-bars"></i> <span>índice</span>
+        <i class="fas fa-bars"></i> <span><strong>índice</strong></span>
       </b-link>
       <b-navbar-brand class="navbar-brand logo-light mr-sm-auto" to="/">
         <!-- <img
@@ -122,6 +122,7 @@ export default {
     color: #fff;
     span {
       padding-left: 15px;
+      font-size: 28px;
     }
   }
   &.is-sticky {

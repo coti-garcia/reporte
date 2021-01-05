@@ -1,5 +1,5 @@
 <template>
-  <section class="hero-app-showcase bg-cover default-bg" id="home">
+  <section class="hero-app-showcase bg-cover default-bg pb-5" id="home">
     <div class="hero-item text-center">
       <div class="hero-content">
         <img
@@ -10,17 +10,11 @@
         <h2 class="main-title font-weight-light text-white font-display">
           Reporte
         </h2>
-        <h6 class="hero-content-subtitle">UC DAVIS CHILE – 5 AÑOS</h6>
-      </div>
-      <div class="hero-thumb">
-        <!-- <img
-          src="../assets/img/hero/showcase/showcase-hero-thumb.png"
-          class="img-fluid"
-          alt="hero thumb"
-        /> -->
+        <h6 class="hero-content-subtitle">Nuestros primeros 5 años de vida</h6>
       </div>
     </div>
-    <div class="vc_row-separator center_curve_alt bottom">
+    <ShowcaseRelacionHistorica />
+    <!-- <div class="vc_row-separator center_curve_alt bottom">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         version="1.1"
@@ -29,12 +23,16 @@
       >
         <path d="M 0 0 L0 100 L100 100 L100 0 Q 50 200 0 0"></path>
       </svg>
-    </div>
+    </div> -->
   </section>
 </template>
 
 <script>
+import ShowcaseRelacionHistorica from "@/components/ShowcaseRelacionHistorica.vue";
 export default {
+  components: {
+    ShowcaseRelacionHistorica,
+  },
   data() {
     return {
       // bgImg: {
@@ -49,6 +47,7 @@ export default {
 .logo {
   max-width: 500px;
   margin-bottom: 80px;
+  margin-top: 80px;
   width: 80%;
 }
 .main-title {
