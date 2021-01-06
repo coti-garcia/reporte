@@ -1,127 +1,107 @@
 <template>
-  <section class="bg-white section-space--pt_120 section-space--mt_120">
+  <section class="bg-white">
     <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <h3 class="subtitle text-center poppy mb-md-5 text-uppercase">
-            EN 5 AÑOS NUESTRO APORTE AL PAÍS <br />SE TRADUCE EN:
-          </h3>
-        </div>
-      </div>
       <div class="row info first">
         <div class="col-12 col-md-6 col-lg-3">
-          <div class="main poppy"><span class="big">+ 85</span></div>
-          Investigadores, académicos y staff de la Universidad de California
-          Davis colaborando activamente en proyectos de I+D y extensión
-          tecnológica
+          <div class="main d-flex blue">
+            <span class="big">55</span><span class="genomas">Proyectos</span>
+          </div>
+          de I+D, transferencia, extensión tecnológica realizados
           <router-link
             :to="{
               name: 'Anexo',
               params: {
-                anexo: 'anexo-1',
+                anexo: 'anexo-6',
               },
             }"
             class="link text-uppercase gold pt-3"
-            >Ver anexo</router-link
-          >
-        </div>
-        <div class="col-12 col-md-6 col-lg-3">
-          <span class="big blue">+ 70</span> investigadores nacionales han sido
-          parte del staff del Centro
-          <router-link
-            :to="{
-              name: 'Anexo',
-              params: {
-                anexo: 'anexo-2',
-              },
-            }"
-            class="link text-uppercase gold pt-3"
-            >Ver anexo</router-link
+            >Ver más</router-link
           >
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex poppy">
-            <span class="big">4</span
-            ><span class="genomas">Genomas de referencia</span>
+            <span class="big">6</span
+            ><span class="genomas"
+              >millones<br />
+              de dólares</span
+            >
           </div>
-          de vides viníferas desarrollados
-          <ul class="pb-3">
-            <li>Merlot</li>
-            <li>Chardonnay</li>
-            <li>Savignon Blanc</li>
-            <li>Carménerè</li>
-          </ul>
-
-          <a
-            class="gold"
-            href="https://cantulab.github.io/data.html"
-            target="_blank"
-            >REVISAR: Repositorio de genomas de vides viníferas</a
-          >
+          en contratos tecnológicos y de servicios con empresas e instituciones
+          públicas
         </div>
         <div class="col-12 col-md-6 col-lg-3">
-          <div>
-            <div class="main d-flex blue">
-              <span class="big">29</span
-              ><span class="genomas">Genomas de Clones </span>
-            </div>
-            de vides viníferas utilizadas por la industria en Chile
+          <div class="main d-flex blue">
+            <span class="big">28</span><span class="genomas">Empresas</span>
           </div>
+          de distintos sectores productivos e instituciones públicas atendidas
+        </div>
+        <div class="col-12 col-md-6 col-lg-3">
+          <div class="main d-flex poppy mb-2">
+            <span class="big pr-2">3</span
+            ><span class="medium">Solicitudes de patentes presentadas</span>
+          </div>
+          <span> a PCT relacionadas con bioproductos</span>
+          <router-link
+            :to="{
+              name: 'Anexo',
+              params: {
+                anexo: 'anexo-8',
+              },
+            }"
+            class="link text-uppercase gold pt-3"
+            >Ver más</router-link
+          >
         </div>
       </div>
       <div class="row info medium">
-        <div class="col-12 col-md-4 col-lg-3">
+        <div class="col-12 col-md-4 col-lg-4">
           <div class="item">
-            <div class="main d-flex d-md-block poppy">
+            <div class="main d-flex poppy">
               <span class="big">4</span
-              ><span class="medium">Tesis de posgrado</span>
+              ><span class="genomas">Genomas de referencia</span>
             </div>
-            con base en proyectos de I+D del centro
-            <router-link
-              :to="{
-                name: 'Anexo',
-                params: {
-                  anexo: 'anexo-4',
-                },
-              }"
-              class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
+            de vides viníferas desarrollados
+            <ul class="pb-3">
+              <li>Merlot</li>
+              <li>Chardonnay</li>
+              <li>Savignon Blanc</li>
+              <li>Carménerè</li>
+            </ul>
+
+            <a
+              class="gold"
+              href="https://cantulab.github.io/data.html"
+              target="_blank"
+              >REVISAR: Repositorio de genomas de vides viníferas</a
             >
           </div>
           <div class="item">
-            <div class="main d-flex d-md-block blue">
-              <span class="big">8</span
-              ><span class="medium">Publicaciones</span>
+            <div>
+              <div class="main d-flex blue">
+                <span class="big">29</span
+                ><span class="genomas">Genomas de Clones </span>
+              </div>
+              de vides viníferas utilizadas por la industria en Chile
             </div>
-            científicas indexadas
-            <router-link
-              :to="{
-                name: 'Anexo',
-                params: {
-                  anexo: 'anexo-3',
-                },
-              }"
-              class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
-            >
           </div>
         </div>
-        <div class="col-12 col-md-8 col-lg-5">
+        <div class="col-12 col-md-8 col-lg-4">
           <div class="item">
-            <div class="main d-flex blue mb-2">
-              <span class="big">3</span
-              ><span class="genomas">Solicitudes de patentes presentadas</span>
+            <div class="main d-flex blue">
+              <span class="big">2</span
+              ><span class="genomas"
+                >Tecnologías <br />biotech licenciadas</span
+              >
             </div>
-            <span> a PCT relacionadas con bioproductos</span>
             <router-link
               :to="{
                 name: 'Anexo',
                 params: {
-                  anexo: 'anexo-8',
+                  anexo: 'anexo-9',
                 },
               }"
               class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
+              >Ver más</router-link
             >
           </div>
           <div class="item">
@@ -139,43 +119,39 @@
                 },
               }"
               class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
+              >Ver más</router-link
             >
           </div>
         </div>
         <div class="col-12 col-md-12 col-lg-4">
           <div class="item">
-            <div class="main d-flex poppy">
-              <span class="big">2</span
-              ><span class="genomas"
-                >Tecnologías <br />biotech licenciadas</span
-              >
-            </div>
+            <div class="main poppy"><span class="big">+ 85</span></div>
+            Investigadores, académicos y staff de la Universidad de California
+            Davis colaborando activamente en proyectos de I+D y extensión
+            tecnológica
             <router-link
               :to="{
                 name: 'Anexo',
                 params: {
-                  anexo: 'anexo-9',
+                  anexo: 'anexo-1',
                 },
               }"
               class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
+              >Ver más</router-link
             >
           </div>
           <div class="item">
-            <div class="main d-flex blue">
-              <span class="big">55</span><span class="genomas">Proyectos</span>
-            </div>
-            de I+D, transferencia, extensión tecnológica realizados
+            <span class="big blue">+ 70</span> investigadores nacionales han
+            sido parte del staff del Centro
             <router-link
               :to="{
                 name: 'Anexo',
                 params: {
-                  anexo: 'anexo-6',
+                  anexo: 'anexo-2',
                 },
               }"
               class="link text-uppercase gold pt-3"
-              >Ver anexo</router-link
+              >Ver más</router-link
             >
           </div>
         </div>
@@ -206,18 +182,38 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="item">
-            <div class="main d-flex d-md-block blue">
-              <span class="big">28</span><span class="medium">Empresas </span>
+            <div class="main d-flex d-md-block poppy">
+              <span class="big">4</span
+              ><span class="medium">Tesis de posgrado</span>
             </div>
-            de distintos sectores productivos e instituciones públicas atendidas
+            con base en proyectos de I+D del centro
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-4',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver más</router-link
+            >
           </div>
           <div class="item">
-            <div class="main d-flex d-md-block poppy">
-              <span class="big">6</span
-              ><span class="medium">millones de dólares </span>
+            <div class="main d-flex d-md-block blue">
+              <span class="big">8</span
+              ><span class="medium">Publicaciones</span>
             </div>
-            en contratos tecnológicos y de servicios con empresas e
-            instituciones públicas
+            científicas indexadas
+            <router-link
+              :to="{
+                name: 'Anexo',
+                params: {
+                  anexo: 'anexo-3',
+                },
+              }"
+              class="link text-uppercase gold pt-3"
+              >Ver más</router-link
+            >
           </div>
         </div>
 
@@ -237,7 +233,7 @@
               },
             }"
             class="link text-uppercase gold pt-3"
-            >Ver anexo</router-link
+            >Ver más</router-link
           >
         </div>
       </div>
@@ -296,9 +292,7 @@ a {
     margin-left: 10px;
     padding-bottom: 30px;
     padding-top: 30px;
-    &:first-child {
-      padding-top: 20px;
-    }
+
     @media #{$large-mobile} {
       max-width: calc(100% - 20px);
     }
