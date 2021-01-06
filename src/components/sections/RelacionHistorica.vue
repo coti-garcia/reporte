@@ -56,9 +56,9 @@
           <div class="col-12 col-md-6">
             <p>
               En este marco, la asociación entre UC Davis y Chile permanece
-              hasta hoy con decenas de más de 60 estudiantes chilenos de
-              postgrado e investigadores postdoctorales trabajando en los campus
-              en California.
+              hasta hoy con decenas de estudiantes chilenos de postgrado e
+              investigadores postdoctorales trabajando en los campus en
+              California.
             </p>
             <p>
               En Chile, en tanto, gracias al
@@ -75,10 +75,17 @@
             </p>
           </div>
         </div>
+        <div class="text-center mt-5 pt-5">
+          <button
+            class="ht-btn ht-btn-md ht-btn-custom"
+            @click="showHitos != showHitos"
+          >
+            Ver Hitos de la relación entre Chile y UC Davis desde los años 60
+          </button>
+        </div>
         <!-- product overview -->
       </div>
-      <ShowcaseRelacionHistorica />
-      <div class="container">
+      <div class="container" v-if="showHitos">
         <div class="row icon-process-area section-space--ptb_120">
           <div class="col-lg-12">
             <h3 class="pinot text-center">
@@ -96,7 +103,7 @@
 <script>
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import SectionTitle from "@/components/SectionTitle";
-
+import ModalHitos from "@/components/ModalHitos";
 import ShowcaseRelacionHistorica from "@/components/ShowcaseRelacionHistorica.vue";
 import Gradation from "@/components/Gradation";
 export default {
@@ -106,6 +113,12 @@ export default {
     ChartCircleTwo,
     ShowcaseRelacionHistorica,
     Gradation,
+    ModalHitos,
+  },
+  data() {
+    return {
+      showHitos: true,
+    };
   },
 };
 </script>

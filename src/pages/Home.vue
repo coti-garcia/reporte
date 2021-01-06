@@ -24,14 +24,17 @@
     <!-- 6. Nuestra Mision -->
     <NuestraMision />
 
-    <!-- 7. Impacto -->
-    <Impacto />
-
     <!-- 8. Quienes somos -->
     <QuienesSomos />
 
+    <!-- 7. Impacto -->
+    <Impacto />
+
     <!-- 9. Areas de trabajo -->
     <AreasTrabajo />
+
+    <!--10. Cifras -->
+    <Cifras />
 
     <!-- 10. Proyectos -->
 
@@ -49,6 +52,7 @@ import Cartas from "@/components/sections/Cartas";
 import HeroAppShowcase from "@/components/HeroAppShowcase";
 import UCDavisUS from "@/components/sections/UCDavisUS";
 import UCDavisChile from "@/components/sections/UCDavisChile";
+import Cifras from "@/components/sections/Cifras";
 import Presentacion from "@/components/sections/Presentacion";
 import RelacionHistorica from "@/components/sections/RelacionHistorica";
 import OverlayMenu from "@/components/OverlayMenu";
@@ -68,7 +72,7 @@ export default {
     HeroAppShowcase,
     Presentacion,
     RelacionHistorica,
-
+    Cifras,
     OverlayMenu,
     QuienesSomos,
     NuestraMision,

@@ -9,7 +9,7 @@
           <ChartCircleTwo
             color="arboretum"
             sectionProgress="72"
-            circleValue="07"
+            circleValue="06"
             class="section-space--mb_40"
           />
         </div>
@@ -21,17 +21,76 @@
       />
     </div>
 
-    <section class="board section-space--pb_120">
+    <section
+      class="executive-team section-space--pb_120 section-space--pt_60 mt-lg-6"
+    >
+      <div class="container mt-lg-5 inner-section">
+        <div class="row pt-mb-5">
+          <div class="col-lg-4">
+            <div class="section-title section-space--mb_60">
+              <h3
+                class="subtitle arboretum font-weight--light mb-15 wow move-up"
+              >
+                EQUIPO DIRECTIVO
+              </h3>
+              <p class="wow move-up">
+                El equipo responsable de la gestión y dirección UC Davis Chile
+                actualmente está liderado por:
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-8 px-4 justify-content-center">
+            <div class="row">
+              <div
+                class="ht-team-member col-12 col-md-4 col-lg-4 mb-4 wow move-up"
+                v-for="(item, e) in executiveTeam"
+                :key="e"
+              >
+                <TeamMember
+                  :name="item.name"
+                  :position="item.position"
+                  :img="item.img"
+                />
+              </div>
+              <div class="text-right">
+                Ex Director Ejecutivo: <strong>Alan Bennett</strong>
+              </div>
+            </div>
+            <!-- ht-team-member End -->
+          </div>
+        </div>
+        <div class="row mt-5">
+          <div class="col-lg-4">
+            <p class="wow move-up">
+              La estructura organizacional y operacional de nuestro Centro se
+              puede graficar de la siguiente manera:
+            </p>
+          </div>
+          <div class="col-lg-8">
+            <img
+              src="@/assets/img/organigrama.jpg"
+              alt="organization chart"
+              class="img-fluid"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section
+      class="bg-arboretum white board section-space--pb_120 section-space--pt_60"
+    >
       <div class="container mt-md-3 mt-lg-5">
         <div class="row">
           <div class="col-lg-10">
             <div class="section-title section-space--mb_60">
               <h3
-                class="subtitle arboretum font-weight--light mb-15 wow move-up"
+                class="subtitle text-white font-weight--light mb-15 wow move-up"
               >
                 DIRECTORIO
               </h3>
-              <p class="wow move-up">
+              <p class="wow move-up white">
                 La gestión que realizamos en UC Davis Chile cuenta con el
                 respaldo y apoyo de un directorio que incluye a las más altas
                 autoridades del campus de Davis, así como a representantes de
@@ -53,81 +112,20 @@
       </div>
     </section>
 
-    <section
-      class="bg-arboretum executive-team section-space--pb_120 section-space--pt_60 mt-lg-6"
-    >
-      <div class="container mt-lg-5 inner-section">
-        <div class="row pt-mb-5">
-          <div class="col-lg-4">
-            <div class="section-title section-space--mb_60">
-              <h3
-                class="subtitle text-white font-weight--light mb-15 wow move-up"
-              >
-                EQUIPO DIRECTIVO
-              </h3>
-              <p class="wow move-up text-white">
-                El equipo responsable de la gestión y dirección UC Davis Chile
-                actualmente está liderado por:
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-8 px-4 justify-content-center">
-            <div class="row">
-              <div
-                class="ht-team-member col-12 col-md-4 col-lg-4 mb-4 wow move-up"
-                v-for="(item, e) in executiveTeam"
-                :key="e"
-              >
-                <TeamMember
-                  :name="item.name"
-                  :position="item.position"
-                  :img="item.img"
-                />
-              </div>
-              <div class="text-right white">
-                Ex Director Ejecutivo: <strong>Alan Bennett</strong>
-              </div>
-            </div>
-            <!-- ht-team-member End -->
-          </div>
-        </div>
-        <div class="row mt-5">
-          <div class="col-lg-4">
-            <p class="wow move-up text-white">
-              La estructura organizacional y operacional de nuestro Centro se
-              puede graficar de la siguiente manera:
-            </p>
-          </div>
-          <div class="col-lg-8">
-            <img
-              src="@/assets/img/organigrama.jpg"
-              alt="organization chart"
-              class="img-fluid"
-            />
-          </div>
-        </div>
-      </div>
-    </section>
-
     <section class="administration section-space--pt_60">
       <div class="container">
         <div class="row pt-lg-5 mt-mb-5">
           <div class="col-lg-10">
-            <div class="section-title section-space--mb_60">
+            <div class="section-title section-space--mb_30">
               <h3
                 class="subtitle arboretum font-weight--light mb-15 wow move-up"
               >
-                ADMINISTRACIÓN
+                Equipo corporativo
               </h3>
               <p class="wow move-up">
                 Para lograr el óptimo funcionamiento de UC Davis Chile, nuestro
                 Centro cuenta con un equipo ejecutivo de alto nivel compuesto
                 por especialistas de distintas áreas.
-              </p>
-              <p class="wow move-up">
-                Actualmente nuestra administración cuenta con los siguientes
-                profesionales:
               </p>
             </div>
           </div>
@@ -394,9 +392,9 @@ export default {
     ],
     researchTeam: [
       {
-        name: "Alejandra Acuña",
-        position: "Agronomy Coordinator",
-        img: "Alejandra-Acuna.jpg",
+        name: "Álvaro Castro",
+        position: "Research & Development Coordinator",
+        img: "Alvaro-Castro.jpg",
       },
       {
         name: "Patricia Anguita",
@@ -404,20 +402,22 @@ export default {
         img: "Patricia-Anguita.jpg",
       },
       {
-        name: "Álvaro Castro",
-        position: "Research & Development Coordinator",
-        img: "Alvaro-Castro.jpg",
+        name: "Leticia Rojas",
+        position: "Innovation & Extension Coordinator",
+        img: "Leticia-Rojas.jpg",
       },
+      {
+        name: "Alejandra Acuña",
+        position: "Agronomy Coordinator",
+        img: "Alejandra-Acuna.jpg",
+      },
+
       {
         name: "Fernando Coz",
         position: "Environment & Sustainability Coordinator",
         img: "Fernando-Coz.jpg",
       },
-      {
-        name: "Leticia Rojas",
-        position: "Innovation & Extension Coordinator",
-        img: "Leticia-Rojas.jpg",
-      },
+
       {
         name: "Olivia Valdés",
         position: "Food Science Coordinator",

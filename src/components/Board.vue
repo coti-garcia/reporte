@@ -14,7 +14,7 @@
     </div>
     <!-- ht-team-member End -->
     <div class="col-12">
-      <h5 class="arboretum mt-3 font-weight--light mb-15 wow move-up">
+      <h5 class="white mt-3 font-weight--light mb-15 wow move-up">
         Ex Directores
       </h5>
     </div>

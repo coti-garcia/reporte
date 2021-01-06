@@ -12,7 +12,7 @@
             />
             <SectionTitle
               color="redbud"
-              sectionTitle="Centro de Innovación <br />UC Davis Chile"
+              sectionTitle="UC Davis Chile"
               class="wow move-up"
             />
             <h3 class="subtitle text-center mb-5 redbud text-uppercase">
@@ -59,54 +59,18 @@
             </p>
           </div>
         </div>
+        <div class="text-center mt-5 pt-5">
+          <button
+            class="ht-btn ht-btn-md ht-btn-custom bg-redbug text-uppercase"
+            @click="showHitos != showHitos"
+          >
+            Ver línea de tiempo
+          </button>
+        </div>
         <!-- product overview -->
       </div>
+
       <Timeline />
-      <CifrasGestion />
-      <div class="section-space--ptb_120 bg-image">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <h3 class="subtitle mb-5 redbud text-uppercase">
-                Mirando hacia la<br />
-                <strong>sustentabilidad futura</strong>
-              </h3>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-12 col-md-10 blue big-text">
-              <p>
-                La experiencia internacional conocida por todos, muestra que la
-                investigación fundamental es normalmente financiada por fondos
-                públicos, tanto a través de los fondos basales entregados a las
-                universidades, como por proyectos individuales en los que éstas
-                también participan. Así se genera gran parte de la producción
-                científica de nuestra Universidad en California (el 2019, de los
-                USD 845,5 millones obtenidos por UC Davis para I+D, más del 81%
-                proviene del gobierno federal y del Estado de California).
-              </p>
-              <p>
-                Distinto es el caso de centros con temáticas específicas, con un
-                foco claro en la investigación aplicada y el desarrollo de
-                tecnología y/o conocimiento destinado a su aplicación productiva
-                o como bien público. Este el caso de los Centros de Excelencia
-                Internacional que hoy funcionan en Chile y otros Centros
-                Tecnológicos. En este caso el modelo apunta a un financiamiento
-                de tres tercios: uno basal aportado por el Estado, otro de
-                fondos públicos competitivos y el último de contratos
-                específicos con la industria
-              </p>
-              <p>
-                UC Davis Chile procura avanzar hacia este modelo, utilizando
-                como base el conocimiento y la experiencia de la Universidad de
-                California que se ha generado por la inversión del estado de
-                California y fondos federales de los Estados Unidos, así como el
-                conocimiento de nuestros socios académicos en Chile.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </template>
@@ -115,14 +79,12 @@
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import SectionTitle from "@/components/SectionTitle";
 import Timeline from "@/components/Timeline";
-import CifrasGestion from "@/components/CifrasGestion";
 export default {
   name: "UCDavisChile",
   components: {
     SectionTitle,
     ChartCircleTwo,
     Timeline,
-    CifrasGestion,
   },
 };
 </script>

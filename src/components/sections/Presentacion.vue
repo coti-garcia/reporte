@@ -37,10 +37,14 @@
           </p>
           <p>
             Si bien en los inicios nos enfocamos en el sector vitivinícola, con
-            el paso de los años hemos incorporado competencias en el rubro
-            alimenticio y medioambiental fortaleciendo el vínculo entre ciencia
-            e industria en temáticas de gran relevancia tanto para Chile como
-            para California.
+            el paso de los años fuimos incorporando nuevas competencias y
+            abordando requerimientos más amplios del sector agroalimentario,
+            para avanzar luego hacia iniciativas en medioambiente, recursos
+            hídricos, sustentabilidad, extensionismo, economía circular,
+            contaminación atmosférica y calidad de aíre, eficiencia energética e
+            iluminación y telemedicina, entre otros, lo que nos ha permitido ir
+            fortaleciendo el vínculo entre ciencia e industria en temáticas de
+            gran relevancia, tanto para Chile como para California.
           </p>
         </div>
         <div class="col-12 col-md-4">

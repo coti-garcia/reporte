@@ -101,6 +101,12 @@ export default {
     ],
     periodTwo: [
       {
+        id: 1061,
+        date: "Enero, 2014",
+        description:
+          "Univerversidad de Talca, Universidad Andrés Bello y Universidad de Tarapacá comprometen su participación como asociados académicos de UC Davis Chile",
+      },
+      {
         id: 106,
         date: "Noviembre, 2014",
         description:
