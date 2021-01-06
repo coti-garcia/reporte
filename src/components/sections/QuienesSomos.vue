@@ -53,8 +53,18 @@
                   :img="item.img"
                 />
               </div>
-              <div class="text-right">
-                Ex Director Ejecutivo: <strong>Alan Bennett</strong>
+              <div class="text-right d-flex align-items-center">
+                <div class="small-img">
+                  <img
+                    src="@/assets/img/team/Alan-Bennett.jpg"
+                    alt="Alan Bennett"
+                    class="img-fluid"
+                  />
+                </div>
+                <div>
+                  Ex Director Ejecutivo y fundador del Centro:
+                  <strong>Alan Bennett</strong>
+                </div>
               </div>
             </div>
             <!-- ht-team-member End -->
@@ -69,7 +79,7 @@
           </div>
           <div class="col-lg-8">
             <img
-              src="@/assets/img/organigrama.jpg"
+              src="@/assets/img/organigrama-03.png"
               alt="organization chart"
               class="img-fluid"
             />
@@ -134,6 +144,41 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-lg-12">
+            <div class="container">
+              <h5>Partnership y Comunicaciones</h5>
+            </div>
+            <div class="swiper-container team-slider__container">
+              <swiper :options="swiperOptionComunication">
+                <div
+                  class="swiper-slide"
+                  v-for="(item, e) in comunicationTeam"
+                  :key="e"
+                >
+                  <div class="grid-item wow move-up py-4">
+                    <!-- ht-team-member Start -->
+                    <div class="ht-team-member text-center">
+                      <TeamMember
+                        :name="item.name"
+                        :position="item.position"
+                        :img="item.img"
+                      />
+                    </div>
+                    <!-- ht-team-member End -->
+                  </div>
+                </div>
+              </swiper>
+              <!-- Add Arrows -->
+              <div
+                class="swiper-pagination comunication section-space--mt_50"
+              ></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="container">
+              <h5>Administración y Finanzas</h5>
+            </div>
             <div class="swiper-container team-slider__container">
               <swiper :options="swiperOption">
                 <div
@@ -206,8 +251,8 @@
           <!-- ht-team-member End -->
         </div>
       </div>
-      <div class="container">
-        <div class="row pt-5 mt-5">
+      <div class="container pb-5">
+        <div class="row pt-4 mt-5">
           <div class="col-lg-10">
             <div class="section-title mb-3">
               <p class="wow move-up">
@@ -225,53 +270,256 @@
         <div class="row">
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Dario Cantu</li>
-              <li>Daniele Zaccaria</li>
-              <li>Sam Sandoval</li>
-              <li>Susan Ebeler</li>
-              <li>Alan Bennett</li>
-              <li>Edward Spang</li>
-              <li>Kenneth A. Shackel</li>
-              <li>Andrew Walker</li>
+              <li>
+                <a
+                  href="https://biology.ucdavis.edu/people/alan-bennett"
+                  target="_blank"
+                  >Alan Bennett</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://globalaffairs.ucdavis.edu/people/lovell-jarvis"
+                  target="_blank"
+                  >Lovell “Tu” Jarvis</a
+                >
+              </li>
+              <li>
+                <a href="https://cantulab.github.io/people.html" target="_blank"
+                  >Dario Cantu</a
+                >
+              </li>
+              <li>
+                <a
+                  href="http://lawr.ucdavis.edu/people/faculty/zaccaria-daniele"
+                  target="_blank"
+                  >Daniele Zaccaria</a
+                >
+              </li>
+              <li>
+                <a
+                  href="http://lawr.ucdavis.edu/people/faculty/sandoval-solis-samuel"
+                  target="_blank"
+                  >Sam Sandoval</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://wineserver.ucdavis.edu/people/susan-ebeler#/"
+                  target="_blank"
+                  >Susan Ebeler</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://foodscience.ucdavis.edu/people/edward-spang#/"
+                  target="_blank"
+                  >Edward Spang</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.plantsciences.ucdavis.edu/people/kenneth-shackel"
+                  target="_blank"
+                  >Kenneth A. Shackel</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://biology.ucdavis.edu/people/m-andrew-walker"
+                  target="_blank"
+                  >Andrew Walker</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Graham Fogg</li>
-              <li>David E. Block</li>
-              <li>Dan Summer</li>
-              <li>Louise Ferguson</li>
-              <li>Anita Oberholster</li>
-              <li>Mark Bell</li>
-              <li>Allan Fulton</li>
-              <li>Kendra Baumgartner</li>
+              <li>
+                <a
+                  href="http://lawr.ucdavis.edu/people/faculty/fogg-graham"
+                  target="_blank"
+                  >Graham Fogg</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://wineserver.ucdavis.edu/people/david-block#/"
+                  target="_blank"
+                  >David E. Block</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://are.ucdavis.edu/people/faculty/daniel-sumner/"
+                  target="_blank"
+                  >Daniel Sumner</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.plantsciences.ucdavis.edu/people/louise-ferguson"
+                  target="_blank"
+                  >Louise Ferguson</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://caes.ucdavis.edu/people/anita-oberholster"
+                  target="_blank"
+                  >Anita Oberholster</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://ucanr.edu/sites/anrstaff/Divisionwide_Programs/Program_Council/?facultyid=33294"
+                  target="_blank"
+                  >Mark Bell</a
+                >
+              </li>
+              <li>
+                <a href="https://ucanr.edu/?facultyid=732" target="_blank"
+                  >Allan Fulton</a
+                >
+              </li>
+              <li>
+                <a href="https://ucanr.edu/?facultyid=2860" target="_blank"
+                  >Kendra Baumgartner</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://wineserver.ucdavis.edu/people/kaan-kurtural#/"
+                  target="_blank"
+                  >Kaan Kurtural</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Kaan Kurtural</li>
-              <li>Mark Battany</li>
-              <li>Michael Lairmore</li>
-              <li>Rodrigo Gallardo</li>
-              <li>Michael Wilkes</li>
-              <li>Andrés Sciolla</li>
-              <li>James Marcin</li>
-              <li>Heather Young</li>
+              <li>
+                <a href="https://ucanr.edu/?facultyid=122" target="_blank"
+                  >Mark Battany</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.vetmed.ucdavis.edu/people/michael-lairmore"
+                  target="_blank"
+                  >Michael Lairmore</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.vetmed.ucdavis.edu/faculty/rodrigo-gallardo"
+                  target="_blank"
+                  >Rodrigo Gallardo</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://health.ucdavis.edu/team/internalmedicine/706/michael-wilkes---internal-medicine-sacramento"
+                  target="_blank"
+                  >Michael Wilkes</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://physicians.ucdavis.edu/details/42404/andres-sciolla-psychiatry-sacramento"
+                  target="_blank"
+                  >Andrés Sciolla</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://health.ucdavis.edu/team/children/516/james-marcin---pediatric-critical-care-sacramento"
+                  target="_blank"
+                  >James Marcin</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://health.ucdavis.edu/team/informatics/1171/heather-young---gerontology---rural-health-care---health-policy-sacramento"
+                  target="_blank"
+                  >Heather Young</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://sustainability.ucdavis.edu/about/index.html"
+                  target="_blank"
+                  >Camille Kirk</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.vetmed.ucdavis.edu/faculty/patricia-ann-conrad"
+                  target="_blank"
+                  >Patricia Conrad</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
             <ul class="wow move-up">
-              <li>Camille Kirk</li>
-              <li>Daniel Sperling</li>
-              <li>Geoffrey Schladow</li>
-              <li>Jay Lund</li>
-              <li>Anthony Wexler</li>
-              <li>Michael Siminovitch</li>
+              <li>
+                <a
+                  href="http://lawr.ucdavis.edu/people/faculty/dahlke-helen"
+                  target="_blank"
+                  >Helen Dahlke</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://its.ucdavis.edu/people/daniel-sperling/"
+                  target="_blank"
+                  >Daniel Sperling</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://cee.engineering.ucdavis.edu/directory/geoffrey-schladow"
+                  target="_blank"
+                  >Geoffrey Schladow</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://faculty.engineering.ucdavis.edu/lund/"
+                  target="_blank"
+                  >Jay Lund</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://aqrc.ucdavis.edu/people/anthony-wexler"
+                  target="_blank"
+                  >Anthony Wexler</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://cltc.ucdavis.edu/michael-siminovitch"
+                  target="_blank"
+                  >Michael Siminovitch</a
+                >
+              </li>
             </ul>
           </div>
         </div>
       </div>
     </section>
+
+    <div
+      class="container-fluid bg-white section-space--ptb_60 section-space--mt_60"
+    >
+      <h3 class="subtitle arboretum text-center mb-5 pb-3">
+        Departamento y Centros que colaboran <br />más estrechamente con UC
+        Davis Chile
+      </h3>
+      <SlideLogos />
+    </div>
   </div>
 </template>
 <script>
@@ -279,6 +527,7 @@ import SectionTitle from "@/components/SectionTitle";
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import Board from "@/components/Board";
 import TeamMember from "@/components/TeamMember";
+import SlideLogos from "@/components/SlideLogos";
 export default {
   name: "QuienesSomos",
   components: {
@@ -286,6 +535,7 @@ export default {
     SectionTitle,
     Board,
     TeamMember,
+    SlideLogos,
   },
   data: () => ({
     swiperOption: {
@@ -313,6 +563,24 @@ export default {
         },
       },
     },
+    swiperOptionComunication: {
+      speed: 800,
+      loop: false,
+      slidesPerView: 4,
+      spaceBetween: 30,
+      pagination: {
+        el: ".comunication",
+        clickable: true,
+      },
+      breakpoints: {
+        767: {
+          slidesPerView: 3,
+        },
+        575: {
+          slidesPerView: 1,
+        },
+      },
+    },
     executiveTeam: [
       {
         name: "Mauricio Cañoles",
@@ -333,12 +601,7 @@ export default {
         country: "CL",
       },
     ],
-    administrativeTeam: [
-      {
-        name: "María Trinidad Eva",
-        position: "Administration & Finance Manager",
-        img: "Trinidad-Eva.jpg",
-      },
+    comunicationTeam: [
       {
         name: "Francisco Díaz",
         position: "Partnership & Communications Manager",
@@ -348,6 +611,23 @@ export default {
         name: "Rodrigo Riquelme",
         position: "Partnership Coordinator",
         img: "Rodrigo-Riquelme.jpg",
+      },
+      {
+        name: "Gabriela Jiménez",
+        position: "Partnership Assistant",
+        img: "Gabriela-Jimenez.jpg",
+      },
+      {
+        name: "Carolina Aravena",
+        position: "Communications Assistant",
+        img: "Carolina-Aravena.jpg",
+      },
+    ],
+    administrativeTeam: [
+      {
+        name: "María Trinidad Eva",
+        position: "Administration & Finance Manager",
+        img: "Trinidad-Eva.jpg",
       },
       {
         name: "Jorge Cabezas",
@@ -373,16 +653,6 @@ export default {
         name: "Fernanda Retamales",
         position: "Finance Assistant",
         img: "Fernanda-Retamales.jpg",
-      },
-      {
-        name: "Gabriela Jiménez",
-        position: "Partnership Assistant",
-        img: "Gabriela-Jimenez.jpg",
-      },
-      {
-        name: "Carolina Aravena",
-        position: "Communications Assistant",
-        img: "Carolina-Aravena.jpg",
       },
       {
         name: "Cecilia Pino",
@@ -505,5 +775,13 @@ export default {
 ul {
   list-style: circle;
   padding-left: 20px;
+}
+.small-img {
+  width: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: solid 3px #fff;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 </style>

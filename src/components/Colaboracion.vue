@@ -92,22 +92,12 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid bg-white section-space--ptb_60">
-      <h3 class="subtitle cabernet text-center mb-5 pb-3">
-        Departamentos y Centros colaboradores más cercanos
-      </h3>
-      <SlideLogos />
-    </div>
   </div>
 </template>
 
 <script>
-import SlideLogos from "@/components/SlideLogos";
 export default {
   name: "Colaboracion",
-  components: {
-    SlideLogos,
-  },
 };
 </script>
 

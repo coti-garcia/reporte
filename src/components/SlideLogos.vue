@@ -2,7 +2,7 @@
   <div class="row">
     <div class="col-lg-12">
       <div class="swiper-container logos-slider__container">
-        <swiper :options="sliderOption">
+        <swiper :options="sliderOptionLogos">
           <div class="swiper-slide logo-img" v-for="logo in logos" :key="logo">
             <img
               :src="require(`@/assets/img/logos/${logo}`)"
@@ -25,7 +25,7 @@ export default {
   name: "SlideLogos",
   data() {
     return {
-      sliderOption: {
+      sliderOptionLogos: {
         speed: 800,
         loop: false,
         slidesPerView: 5,
