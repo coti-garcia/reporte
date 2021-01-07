@@ -30,17 +30,19 @@
                 <div class="payment-process-step__content float-md-right">
                   <div class="payment-process__inner">
                     <h2 class="font-weight--blod section-space--mb_40">
-                      Colaboración y extensionismo
+                      Sistema de Extensión de California
                     </h2>
                     <div class="sub-text section-space--mb_20">
-                      Desde sus inicios, UC Davis trabaja en conjunto con
-                      instituciones públicas y privadas y pone énfasis en la
-                      extensión y transferencia tecnológica.
+                      El extensionismo de la U. de California tiene más de 100
+                      años de trayectoria y ha mostrado ser un sistema eficiente
+                      y eficaz, por lo que podría convertirse en un referente
+                      para Chile.
                     </div>
                     <div class="sub-text section-space--mb_40">
-                      En el área agroalimentaria, a cargo de la División de
-                      Agricultura y Recursos Naturales (University of
-                      California, Agriculture and Natural Resources) posee:
+                      El trabajo de investigación y extensión en el área
+                      agroalimentaria está coordinado por la División de
+                      Agricultura y Recursos Naturales (Division of Agriculture
+                      and Natural Resources, ARN), conformado por:
                     </div>
                     <div class="payment-conters section-space--mb_40">
                       <div class="row">

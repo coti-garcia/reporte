@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="container cifras section-space--ptb_120">
+    <div class="container cifras section-space--ptb_60">
       <div class="row graficos">
         <div class="col-12 col-md-6">
           <p>

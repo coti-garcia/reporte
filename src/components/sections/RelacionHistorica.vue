@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section-space--pt_120" id="relacion-historica">
+    <div class="section-space--ptb_120" id="relacion-historica">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -76,25 +76,16 @@
           </div>
         </div>
         <div class="text-center mt-5 pt-5">
-          <button
-            class="ht-btn ht-btn-md ht-btn-custom"
-            @click="showHitos != showHitos"
+          <router-link
+            :to="{
+              name: 'Hitos',
+            }"
+            class="ht-btn ht-btn-md ht-btn-custom bg-gold text-uppercase"
           >
             Ver Hitos de la relación entre Chile y UC Davis desde los años 60
-          </button>
+          </router-link>
         </div>
         <!-- product overview -->
-      </div>
-      <div class="container" v-if="showHitos">
-        <div class="row icon-process-area section-space--ptb_120">
-          <div class="col-lg-12">
-            <h3 class="pinot text-center">
-              Hitos de la relación entre Chile y UC Davis <br />
-              desde los años 60
-            </h3>
-            <Gradation />
-          </div>
-        </div>
       </div>
     </div>
   </div>

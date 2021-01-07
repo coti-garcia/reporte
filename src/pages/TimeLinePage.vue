@@ -7,18 +7,18 @@
     <Breadcrumb>
       <template slot="breadcrumb">
         <div class="breadcrumb_box text-center">
-          <h2 class="breadcrumb-title">
-            {{ title }}
-          </h2>
+          <h2 class="breadcrumb-title">Línea de tiempo</h2>
           <!-- breadcrumb-list start -->
           <ul class="breadcrumb-list">
             <li class="breadcrumb-item">
               <router-link :to="{ name: 'Home' }">Home</router-link>
             </li>
             <li class="breadcrumb-item">
-              <router-link :to="{ name: 'Impacto' }">Impacto</router-link>
+              <router-link :to="{ name: 'UCDavisChile' }"
+                >UC Davis Chile</router-link
+              >
             </li>
-            <li class="breadcrumb-item active gold">{{ shortName }}</li>
+            <li class="breadcrumb-item active gold">Línea de tiempo</li>
           </ul>
           <!-- breadcrumb-list end -->
         </div>
@@ -27,18 +27,8 @@
     <!-- breadcrumb end -->
 
     <!-- portfolio details wrapper start -->
-    <div class="portfolio-details-wrapper section-space--ptb_100">
-      <div class="container">
-        <Anexo1 v-if="currentPage == 'anexo-1'" />
-        <Anexo2 v-if="currentPage == 'anexo-2'" />
-        <Anexo3 v-if="currentPage == 'anexo-3'" />
-        <Anexo4 v-if="currentPage == 'anexo-4'" />
-        <Anexo5 v-if="currentPage == 'anexo-5'" />
-        <Anexo6 v-if="currentPage == 'anexo-6'" />
-        <Anexo7 v-if="currentPage == 'anexo-7'" />
-        <Anexo8 v-if="currentPage == 'anexo-8'" />
-        <Anexo9 v-if="currentPage == 'anexo-9'" />
-      </div>
+    <div class="portfolio-details-wrapper">
+      <Timeline />
     </div>
 
     <!-- portfolio details wrapper end -->
@@ -53,15 +43,7 @@ import Breadcrumb from "@/components/Breadcrumb";
 import FooterMain from "@/components/FooterMain";
 import HeaderProject from "@/components/HeaderProject";
 import OverlayMenu from "@/components/OverlayMenu";
-import Anexo1 from "@/components/anexos/Anexo1";
-import Anexo2 from "@/components/anexos/Anexo2";
-import Anexo3 from "@/components/anexos/Anexo3";
-import Anexo4 from "@/components/anexos/Anexo4";
-import Anexo5 from "@/components/anexos/Anexo5";
-import Anexo6 from "@/components/anexos/Anexo6";
-import Anexo7 from "@/components/anexos/Anexo7";
-import Anexo8 from "@/components/anexos/Anexo8";
-import Anexo9 from "@/components/anexos/Anexo9";
+import Timeline from "@/components/Timeline";
 export default {
   name: "PortfolioGrid",
   components: {
@@ -69,15 +51,7 @@ export default {
     Breadcrumb,
     FooterMain,
     OverlayMenu,
-    Anexo1,
-    Anexo2,
-    Anexo3,
-    Anexo4,
-    Anexo5,
-    Anexo6,
-    Anexo8,
-    Anexo7,
-    Anexo9,
+    Timeline,
   },
   data: () => ({
     title: "",
@@ -181,5 +155,9 @@ export default {
 .anexo-number {
   font-size: 30px;
   font-weight: 300;
+}
+.breadcrumb-area.bg-blue {
+  background: $redbud;
+  padding-bottom: 0;
 }
 </style>

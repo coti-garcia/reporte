@@ -12,34 +12,75 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6 wow move-up">
+          <div class="col-lg-3">
+            <div class="app-landing-title-contet">
+              <div class="title-details_one wow move-up">
+                <h2>+240</h2>
+              </div>
+              <div class="subtitle wow move-up">
+                divulgaciones de invenciones al año
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="app-landing-title-contet">
+              <div class="title-details_one wow move-up">
+                <h2>950</h2>
+                <h5 class="mb-0">patentes activas</h5>
+              </div>
+              <div class="subtitle wow move-up">en EE. UU. y el mundo</div>
+            </div>
+          </div>
+          <!-- <div class="col-lg-6 wow move-up">
             <ul class="check-list green-check-list section-space--mb_50">
-              <li class="list-item">61 premios nobel</li>
-              <li class="list-item">
-                Más de 240 divulgaciones de invenciones al año
-              </li>
-              <li class="list-item">
-                950 patentes activas en EE. UU. y el mundo
-              </li>
-              <li class="list-item">
-                Más de 164 solicitudes de patentes al año
-              </li>
               <li class="list-item">
                 Más de US$13 millones en ingresos por licencias al año
               </li>
               <li class="list-item">14 startups creadas entre 2018 y 2019</li>
             </ul>
-          </div>
+          </div> -->
 
           <div class="col-lg-3">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>US$8,1</h2>
-                <h5>billones</h5>
+                <h5 class="mb-0">billones</h5>
               </div>
               <div class="subtitle wow move-up">
                 de contribución anual <br />a la economía de California
               </div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-5 pt-5 border-top">
+          <div class="col-lg-4">
+            <div class="app-landing-title-contet">
+              <div class="title-details_one wow move-up">
+                <h2>+164</h2>
+              </div>
+              <div class="subtitle wow move-up">
+                solicitudes de patentes al año
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="app-landing-title-contet">
+              <div class="title-details_one wow move-up">
+                <h2>+ US$13</h2>
+                <h5 class="mb-0">millones</h5>
+              </div>
+              <div class="subtitle wow move-up">
+                en ingresos por licencias al año
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="app-landing-title-contet">
+              <div class="title-details_one wow move-up">
+                <h2>14</h2>
+                <h5 class="mb-0">startups</h5>
+              </div>
+              <div class="subtitle wow move-up">creadas entre 2018 y 2019</div>
             </div>
           </div>
         </div>
@@ -83,7 +124,9 @@ export default {
   }
   .subtitle {
     color: #fff;
-    font-size: 25px;
+    font-size: 21px;
+    line-height: 1.3;
+    margin-top: 0;
   }
   & .title-details_two {
     margin-left: 0px;

@@ -1,6 +1,9 @@
 <template>
   <div>
-    <div class="section-space--pt_120 bg-gray" id="uc-davis-chile">
+    <div
+      class="section-space--pt_120 section-space--ptb_60 bg-gray"
+      id="uc-davis-chile"
+    >
       <div class="container mb-md-5 pb-md-5">
         <div class="row">
           <div class="col">
@@ -59,18 +62,18 @@
             </p>
           </div>
         </div>
-        <div class="text-center mt-5 pt-5">
-          <button
-            class="ht-btn ht-btn-md ht-btn-custom bg-redbug text-uppercase"
-            @click="showHitos != showHitos"
+        <div class="text-center mt-5 pt-3">
+          <router-link
+            :to="{
+              name: 'TimeLine',
+            }"
+            class="ht-btn ht-btn-md ht-btn-custom bg-gold text-uppercase"
           >
             Ver línea de tiempo
-          </button>
+          </router-link>
         </div>
         <!-- product overview -->
       </div>
-
-      <Timeline />
     </div>
   </div>
 </template>
@@ -78,13 +81,12 @@
 <script>
 import ChartCircleTwo from "@/components/ChartCircleTwo";
 import SectionTitle from "@/components/SectionTitle";
-import Timeline from "@/components/Timeline";
+
 export default {
   name: "UCDavisChile",
   components: {
     SectionTitle,
     ChartCircleTwo,
-    Timeline,
   },
 };
 </script>

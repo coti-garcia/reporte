@@ -83,4 +83,14 @@ export const routes = [
         name: 'Anexo',
         component: () => import("../pages/Anexo")
     },
+    {
+        path: '/uc-davis-chile/linea-tiempo',
+        name: 'TimeLine',
+        component: () => import("../pages/TimeLinePage.vue")
+    },
+    {
+        path: '/relacion-historica/hitos',
+        name: 'Hitos',
+        component: () => import("../pages/HitosPage.vue")
+    }
 ];

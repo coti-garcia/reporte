@@ -2,7 +2,7 @@
   <div class="drak-area bg-cabernet section-space--ptb_40" id="about">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-6 wow move-up">
+        <!-- <div class="col-lg-6 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <h4>
@@ -16,12 +16,12 @@
               </h4>
             </div>
           </div>
-        </div>
-        <div class="col-6 col-lg-3 col-md-6 wow move-up">
+        </div> -->
+        <div class="col-6 col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
-                <h5 class="heading mb-10">
+                <h5 class="heading">
                   <span class="big-num arboretum">4</span> Facultades
                 </h5>
                 <div class="text">
@@ -35,12 +35,10 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-6 col-lg-3 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
-                <h5 class="heading mb-10">
+                <h5 class="heading">
                   <span class="big-num arboretum">6</span> Escuelas
                 </h5>
                 <div class="text">
@@ -91,7 +89,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 wow move-up">
+        <!-- <div class="col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__icon">
@@ -117,7 +115,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="col-lg-4 col-md-6 wow move-up">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
@@ -170,7 +168,9 @@ h4 {
 }
 .big-num {
   font-size: 80px;
-  display: block;
+}
+.feature-app-landing__inner {
+  margin-bottom: 0;
 }
 .feature-app-landing__icon {
   width: 80px;

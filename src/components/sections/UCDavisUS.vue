@@ -126,7 +126,7 @@
         </div>
       </div>
     </section>
-    <UCDavisFeature class="section-space--mb_80 section-space--ptb_120" />
+    <UCDavisFeature class="section-space--mb_80 section-space--ptb_60" />
 
     <Hitos />
     <Colaboracion />

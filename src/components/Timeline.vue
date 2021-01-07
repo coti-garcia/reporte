@@ -1,12 +1,7 @@
 <template>
   <section class="bg-redbud white">
-    <div class="container section-space--mt_60 section-space--ptb_120">
+    <div class="container section-space--pb_120 section-space--pt_60">
       <div class="row example-basic">
-        <div class="col-12">
-          <h3 class="subtitle white text-center mb-5 redbud text-uppercase">
-            Línea de Tiempo
-          </h3>
-        </div>
         <div class="col-12">
           <ul class="timeline timeline-centered">
             <li class="timeline-item period">
