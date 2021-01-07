@@ -28,7 +28,15 @@
             <p>
               A continuación, información relativa a nuestros principales
               proyectos. Si desea revisar el portafolio total de los
-              <strong>55 proyectos</strong>, puede hacer click AQUI
+              <router-link
+                :to="{
+                  name: 'Anexo',
+                  params: {
+                    anexo: 'anexo-6',
+                  },
+                }"
+                ><strong>55 proyectos</strong></router-link
+              >.
             </p>
           </div>
         </div>

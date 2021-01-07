@@ -7,7 +7,7 @@
     <Breadcrumb>
       <template slot="breadcrumb">
         <div class="breadcrumb_box text-center">
-          <h2 class="breadcrumb-title">{{ project.title }}</h2>
+          <h2 class="breadcrumb-title">{{ project.name }}</h2>
           <!-- breadcrumb-list start -->
           <ul class="breadcrumb-list">
             <li class="breadcrumb-item">
@@ -301,5 +301,9 @@ export default {
       max-width: 130px;
     }
   }
+}
+
+.portfolio-details-title {
+  font-size: 32px;
 }
 </style>

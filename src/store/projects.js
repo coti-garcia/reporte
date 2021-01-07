@@ -2,8 +2,8 @@ export default {
     list: [
         {
             id: "1",
-            slug: "agroinchalam",
-            title: "Agroinchalam",
+            slug: "programa-extension-difusion",
+            title: "Programa de extensión y difusión tecnológica",
             name:
                 "Programa de extensión y difusión tecnológica en estructuras de conducción y protección en frutales",
             date: "Enero de 2017 a marzo de 2020.",
@@ -198,8 +198,8 @@ export default {
         },
         {
             id: '03',
-            title: "Ariztía",
-            slug: 'ariztia',
+            title: "Caracterización y optimización de bioinsumos",
+            slug: 'caracterizacion-optimización-bioinsumos',
             name:
                 "Caracterización y optimización de bioinsumos producidos a partir de camas de producción avícola",
             thumb: "03/01.jpg",
@@ -262,10 +262,10 @@ export default {
         },
         {
             id: "4",
-            slug: "cal-austral",
+            slug: "desarrollo-biofertilizantes",
             thumb: '04/01.jpg',
             images: ["04/01.jpg"],
-            title: "Cal Austral", // con nota en amarillo
+            title: "Desarrollo de biofertilizantes", // con nota en amarillo
             name:
                 "Determinación de línea base para el desarrollo de biofertilizantes a partir de desechos de la producción de mitílidos ",
             date: "Septiembre de 2019 a julio 2020.",
@@ -301,7 +301,7 @@ export default {
                 },
             ],
             customer: ["Cal Austral S.A."],
-            investment: "",
+            investment: "$19.400.000",
             description: [
                 "La agricultura en suelos de origen volcánico se basa en un uso excesivo, exclusivo e ineficiente de fertilizantes sintéticos producidos de fuentes no renovables y/o mediante procesos de una gran huella de carbono, por lo que un producto de origen biológico es una gran alternativa. ",
                 "Este tipo de suelos presentan como característica la baja disponibilidad de fósforo y pH ácidos, para lo cual, se utilizan enmiendas de cal agrícola. Por este motivo, Cal Austral decidió generar un bioproducto que complemente el que utilizan actualmente. Así surgieron BioCal y BioCal Plus. ",
@@ -1348,7 +1348,7 @@ export default {
         },
         {
             id: "17",
-            slug: "proyecto-arica",
+            slug: "plataforma-bioproductos",
             thumb: '17/01.jpg',
             images: [
                 "17/01.jpg",
@@ -1360,7 +1360,7 @@ export default {
                 "17/07.jpg"
             ],
             title:
-                "Proyecto Arica",
+                "Plataforma de Bioproductos",
             name: "Plataforma de Bioproductos para la Región de Arica y Parinacota",
             subtitle:
                 `<h6><strong>Fase 1:</strong> Plataforma de Biodescubrimiento de Recursos Genéticos Microbianos en la Región de Arica y Parinacota para su uso en Agricultura.</h6>
@@ -1471,7 +1471,7 @@ export default {
             ],
             customer: [
                 "VSPT Wine Group"],
-            investment: "CL$60.000 por temporada",
+            investment: "CL$200.000.000",
             description: [
                 "La disponibilidad de agua ha sido declarada como uno de los desafíos más grandes que la agricultura enfrenta actualmente. Un problema que se ha agravado debido al cambio climático, debido a recurrentes sequías, la limitada disponibilidad general de agua para riego, la expansión agrícola, y la creciente demanda urbana por aumento de la población, están forzando a la agricultura a implementar mejores técnicas de gestión de riego para mejorar la eficiencia del uso del agua.",
                 "Esta línea se centró en el desarrollo de métodos para optimizar el uso del agua para riego, utilizando técnicas modernas para la estimación de la demanda real de agua en vides bajo distintas condiciones de producción (sistemas de conducción, orientación espacial de las hieras y rendimiento). La propuesta se centró en la aplicación y adopción de una tecnología desarrollada en UC Davis denominada Surface Renewal, basada en la estimación de la evapotranspiración real de un cultivo.",
