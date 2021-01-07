@@ -1,7 +1,7 @@
 <template>
   <div
     class="feature-app-showcase section-space--pt_120 section-space--mb_120"
-    id="impacto"
+    id="aporte-simetrico"
   >
     <div class="container">
       <div class="row">
