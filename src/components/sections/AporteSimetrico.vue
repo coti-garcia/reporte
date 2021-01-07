@@ -1,22 +1,22 @@
 <template>
   <div
-    class="feature-app-showcase section-space--pt_120 section-space--mb_120 bg-gray"
+    class="feature-app-showcase section-space--pt_120 section-space--mb_120"
     id="impacto"
   >
     <div class="container">
       <div class="row">
         <div class="col-12">
           <ChartCircleTwo
-            color="poppy"
+            color="strawberry"
             sectionProgress="63"
-            circleValue="06"
+            circleValue="09"
             class="section-space--mb_40"
           />
         </div>
         <div class="col-12">
           <SectionTitle
-            color="poppy"
-            sectionTitle="Impacto simétrico para <br/>Chile y California"
+            color="strawberry"
+            sectionTitle="Aporte simétrico para <br/>Chile y California"
             class="wow move-up"
           />
         </div>
@@ -58,7 +58,6 @@
         </div>
       </div>
     </div>
-    <Aporte />
   </div>
 </template>
 

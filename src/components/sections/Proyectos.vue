@@ -9,7 +9,7 @@
           <ChartCircleTwo
             color="cabernet"
             sectionProgress="100"
-            circleValue="9"
+            circleValue="10"
             class="section-space--mb_40"
           />
         </div>
@@ -24,11 +24,11 @@
     <div class="portfolio-pages-wrapper">
       <div class="container">
         <div class="row">
-          <div class="col-12 text-white intro">
+          <div class="col-12 text-white text-center intro mx-auto">
             <p>
               A continuación, información relativa a nuestros principales
-              proyectos. Si desea revisar el portafolio total de los 55
-              proyectos, puede hacer click AQUI
+              proyectos. Si desea revisar el portafolio total de los
+              <strong>55 proyectos</strong>, puede hacer click AQUI
             </p>
           </div>
         </div>
@@ -53,9 +53,6 @@
                 </div>
               </router-link>
               <div class="post-info">
-                <div class="post-categories carbernet">
-                  {{ project.title }}
-                </div>
                 <h5 class="post-title font-weight--bold">
                   <router-link
                     :to="{
@@ -70,6 +67,19 @@
           </div>
         </div>
       </div>
+    </div>
+    <div class="text-center mt-4">
+      <router-link
+        :to="{
+          name: 'Anexo',
+          params: {
+            anexo: 'anexo-6',
+          },
+        }"
+        class="ht-btn ht-btn-md ht-btn-custom bg-gold text-uppercase"
+      >
+        Ver listado completo de proyectos
+      </router-link>
     </div>
     <!-- portfolio item wrapper end -->
 
@@ -124,3 +134,8 @@ export default {
 };
 </script>
 
+<style lang="scss" scoped>
+.ht-btn {
+  background-image: none;
+}
+</style>

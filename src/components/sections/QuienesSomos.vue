@@ -1,6 +1,6 @@
 <template>
   <div
-    class="feature-app-showcase section-space--pt_60 section-space--mb_60 section-space--pb_120 bg-gray"
+    class="feature-app-showcase section-space--pt_60 section-space--mb_60 pb-3 bg-gray"
     id="quienes-somos"
   >
     <div class="container">

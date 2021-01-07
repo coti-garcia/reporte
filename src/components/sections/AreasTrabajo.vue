@@ -1,5 +1,8 @@
 <template>
-  <div class="feature-app-showcase section-space--pt_60" id="areas-trabajo">
+  <div
+    class="feature-app-showcase section-space--pt_60 bg-gray"
+    id="areas-trabajo"
+  >
     <div class="container">
       <div class="row">
         <div class="col">
@@ -168,7 +171,7 @@
                     />
                   </div>
                   <div class="feature-app-landing__content">
-                    <h5 class="heading mb-10">Bioproductos</h5>
+                    <h5 class="heading mb-10">Bioprocesos y Bioproductos</h5>
 
                     <div class="text">
                       <p>
@@ -304,7 +307,7 @@
                 </div>
                 <div class="line">
                   <img
-                    src="@/assets/img/logo-vertical.jpg"
+                    src="@/assets/img/logo-vertical.png"
                     class="img-fluid"
                     alt="thumbnail"
                   />

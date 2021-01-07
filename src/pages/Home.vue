@@ -33,6 +33,8 @@
     <!-- 9. Areas de trabajo -->
     <AreasTrabajo />
 
+    <AporteSimetrico />
+
     <!--10. Cifras -->
     <Cifras />
 
@@ -61,6 +63,7 @@ import QuienesSomos from "@/components/sections/QuienesSomos";
 import AreasTrabajo from "@/components/sections/AreasTrabajo.vue";
 import Proyectos from "@/components/sections/Proyectos.vue";
 import Impacto from "@/components/sections/Impacto.vue";
+import AporteSimetrico from "@/components/sections/AporteSimetrico.vue";
 import FooterMain from "@/components/FooterMain";
 export default {
   name: "app",
@@ -81,6 +84,7 @@ export default {
     FooterMain,
     UCDavisChile,
     Impacto,
+    AporteSimetrico,
   },
 };
 </script>

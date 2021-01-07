@@ -1,13 +1,6 @@
 <template>
-  <section class="bg-white">
+  <section>
     <div class="container cifras section-space--ptb_120">
-      <div class="row">
-        <div class="col-12">
-          <h3 class="subtitle text-center mb-5 redbud text-uppercase">
-            CIFRAS DE NUESTRA GESTIÓN
-          </h3>
-        </div>
-      </div>
       <div class="row graficos">
         <div class="col-12 col-md-6">
           <p>
