@@ -189,9 +189,13 @@ export default {
   align-items: center;
   flex-wrap: wrap;
   img {
-    max-width: 215px;
-    max-height: 100px;
-    margin: 10px;
+    max-width: 164px;
+    max-height: 70px;
+    @media #{$min-tablet} {
+      max-width: 215px;
+      max-height: 100px;
+      margin: 10px;
+    }
   }
 }
 </style>
