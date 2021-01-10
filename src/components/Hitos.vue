@@ -2,17 +2,17 @@
   <div
     class="app-landing--center-slider-wrapper bg-blue section-space--ptb_120"
   >
-    <div class="app-landing-listing-title-wrap drak-area section-space--pt_60">
+    <div class="app-landing-listing-title-wrap drak-area pt-0 pt-md-5">
       <div class="container">
         <div class="row">
-          <div class="col-lg-3">
+          <div class="col-12 col-lg-3 pb-md-4">
             <div class="app-landing-title-contet">
               <div class="title-details_two wow move-up">
                 <h2>Hitos</h2>
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-12 col-md-4 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>+240</h2>
@@ -22,7 +22,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-12 col-md-4 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>950</h2>
@@ -31,16 +31,8 @@
               <div class="subtitle wow move-up">en EE. UU. y el mundo</div>
             </div>
           </div>
-          <!-- <div class="col-lg-6 wow move-up">
-            <ul class="check-list green-check-list section-space--mb_50">
-              <li class="list-item">
-                Más de US$13 millones en ingresos por licencias al año
-              </li>
-              <li class="list-item">14 startups creadas entre 2018 y 2019</li>
-            </ul>
-          </div> -->
 
-          <div class="col-lg-3">
+          <div class="col-12 col-md-4 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>US$8,1</h2>
@@ -52,8 +44,8 @@
             </div>
           </div>
         </div>
-        <div class="row mt-5 pt-5 border-top">
-          <div class="col-lg-4">
+        <div class="row mt-md-5 pt-md-5 border-md-top">
+          <div class="col-12 col-md-4 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>+164</h2>
@@ -63,7 +55,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4">
+          <div class="col-12 col-md-4 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>+ US$13</h2>
@@ -74,7 +66,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4">
+          <div class="col-12 col-md-4">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>14</h2>
@@ -101,6 +93,11 @@ export default {
   .app-landing-listing-title-wrap {
     transform: skewY(8deg);
   }
+  .border-md-top {
+    @media #{$min-tablet} {
+      border-top: solid thin #fff;
+    }
+  }
 }
 .app-landing-title-contet {
   display: flex;
@@ -109,7 +106,7 @@ export default {
     max-width: 287px;
     width: 100%;
     & h2 {
-      font-size: 55px;
+      font-size: 50px;
       line-height: 1.1;
       font-weight: 700;
     }

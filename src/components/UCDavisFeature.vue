@@ -17,7 +17,7 @@
             </div>
           </div>
         </div> -->
-        <div class="col-6 col-lg-4 col-md-6 wow move-up">
+        <div class="col-12 col-md-12 col-lg-4 col-md-6 wow move-up escuelas">
           <div class="feature-app-landing__wrap">
             <div class="feature-app-landing__inner">
               <div class="feature-app-landing__content">
@@ -183,6 +183,15 @@ h4 {
   line-height: 0;
   .img-fluid {
     width: 50px;
+  }
+}
+
+.escuelas {
+  @media #{$min-tablet} {
+    display: flex;
+  }
+  @media #{$min-desktop} {
+    display: block;
   }
 }
 </style>
