@@ -60,21 +60,28 @@
           :to="{ name: 'AreasTrabajo' }"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
-          ><span>Áreas de trabajo UC Davis Chile</span>
+          ><span>Áreas de trabajo</span>
         </b-nav-item>
         <!-- 09 -->
         <b-nav-item
-          :to="{ name: 'AporteSimetricas' }"
+          :to="{ name: 'AporteSimetrico' }"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
           ><span>Aporte simétrico</span>
         </b-nav-item>
         <!-- 10 -->
         <b-nav-item
+          :to="{ name: 'Cifras' }"
+          class="scroll"
+          @click="toggleClass('removeClass', 'active')"
+          ><span>Cifras</span>
+        </b-nav-item>
+        <!-- 11 -->
+        <b-nav-item
           :to="{ name: 'Proyectos' }"
           class="scroll"
           @click="toggleClass('removeClass', 'active')"
-          ><span>Listado de principales proyectos</span>
+          ><span>Principales proyectos</span>
         </b-nav-item>
       </b-navbar-nav>
     </b-collapse>

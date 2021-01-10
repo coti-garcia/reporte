@@ -48,7 +48,12 @@ export const routes = [
             },
             {
                 path: '/aporte-simetrico',
-                name: 'AporteSimetricas',
+                name: 'AporteSimetrico',
+                // component: Home,
+            },
+            {
+                path: '/cifras',
+                name: 'Cifras',
                 // component: Home,
             },
             {

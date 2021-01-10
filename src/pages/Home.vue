@@ -8,38 +8,36 @@
 
     <!-- 1. Presentacion -->
     <Presentacion />
-
-    <!-- 2. Cartas de presentación -->
     <Cartas />
 
-    <!-- 3.	UC Davis EE. UU. -->
+    <!-- 2.	UC Davis EE. UU. -->
     <UCDavisUS />
 
-    <!-- 4. three step process -->
+    <!-- 3. three step process -->
     <RelacionHistorica />
 
-    <!-- 5. UC Davis Chile -->
+    <!-- 4. UC Davis Chile -->
     <UCDavisChile />
 
-    <!-- 6. Nuestra Mision -->
+    <!-- 5. Nuestra Mision -->
     <NuestraMision />
 
-    <!-- 8. Quienes somos -->
+    <!-- 6. Quienes somos -->
     <QuienesSomos />
 
     <!-- 7. Impacto -->
     <Impacto />
 
-    <!-- 9. Areas de trabajo -->
+    <!-- 8. Areas de trabajo -->
     <AreasTrabajo />
 
+    <!-- 9. Aporte Simetrico -->
     <AporteSimetrico />
 
     <!--10. Cifras -->
     <Cifras />
 
-    <!-- 10. Proyectos -->
-
+    <!-- 11. Proyectos -->
     <Proyectos />
     <!-- overlay menu section -->
     <OverlayMenu />

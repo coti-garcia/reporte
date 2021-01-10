@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="section-space--pt_120 bg-gray" id="uc-davis-chile">
+    <div class="section-space--pt_120 bg-gray" id="cifras">
       <div class="container">
         <div class="row">
           <div class="col">

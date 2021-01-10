@@ -72,6 +72,14 @@ const router = new VueRouter({
                 top = document.querySelector("#proyectos").offsetTop;
                 return position.offset = { y: top };
             }
+            if (to.name === "Cifras") {
+                top = document.querySelector("#cifras").offsetTop;
+                return position.offset = { y: top };
+            }
+            if (to.name === "AporteSimetrico") {
+                top = document.querySelector("#aporte-simetrico").offsetTop;
+                return position.offset = { y: top };
+            }
             return { x: 0, y: 0 }
         }
     }
