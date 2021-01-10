@@ -75,7 +75,7 @@
             </p>
           </div>
         </div>
-        <div class="text-center mt-5 pt-5">
+        <div class="text-center mt-md-5 pt-5">
           <router-link
             :to="{
               name: 'Hitos',
@@ -124,6 +124,14 @@ export default {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
+  }
+}
+a.ht-btn.ht-btn-md.ht-btn-custom.bg-gold.text-uppercase {
+  line-height: 1.4;
+  height: auto;
+  padding: 10px 20px;
+  @media #{$min-tablet} {
+    padding: 20px 25px;
   }
 }
 </style>
