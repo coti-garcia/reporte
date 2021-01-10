@@ -12,7 +12,7 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-md-4 pb-5 pb-md-0">
+          <div class="col-12 col-md-4 col-lg-3 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>+240</h2>
@@ -22,7 +22,7 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-md-4 pb-5 pb-md-0">
+          <div class="col-12 col-md-4 col-lg-3 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>950</h2>
@@ -32,7 +32,7 @@
             </div>
           </div>
 
-          <div class="col-12 col-md-4 pb-5 pb-md-0">
+          <div class="col-12 col-md-4 col-lg-3 pb-5 pb-md-0">
             <div class="app-landing-title-contet">
               <div class="title-details_one wow move-up">
                 <h2>US$8,1</h2>

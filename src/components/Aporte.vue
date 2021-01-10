@@ -54,7 +54,7 @@
         </div>
       </div>
       <div class="row info medium">
-        <div class="col-12 col-md-4 col-lg-4">
+        <div class="col-12 col-md-6 col-lg-4">
           <div class="item">
             <div class="main d-flex poppy">
               <span class="big">4</span
@@ -85,7 +85,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-8 col-lg-4">
+        <div class="col-12 col-md-6 col-lg-4">
           <div class="item">
             <div class="main d-flex blue">
               <span class="big">2</span

@@ -53,7 +53,7 @@
                   :img="item.img"
                 />
               </div>
-              <div class="text-right d-flex align-items-center">
+              <div class="text-left d-flex align-items-center">
                 <div class="small-img">
                   <img
                     src="@/assets/img/team/Alan-Bennett.jpg"
@@ -77,7 +77,7 @@
               puede graficar de la siguiente manera:
             </p>
           </div>
-          <div class="col-lg-8">
+          <div class="col-lg-8 mt-4 mt-lg-0">
             <img
               src="@/assets/img/organigrama-03.png"
               alt="organization chart"
@@ -168,9 +168,7 @@
                 </div>
               </swiper>
               <!-- Add Arrows -->
-              <div
-                class="swiper-pagination comunication section-space--mt_50"
-              ></div>
+              <div class="swiper-pagination comunication mb-5"></div>
             </div>
           </div>
         </div>
@@ -180,7 +178,7 @@
               <h5>Administración y Finanzas</h5>
             </div>
             <div class="swiper-container team-slider__container">
-              <swiper :options="swiperOption">
+              <swiper :options="swiperOptionAdmin">
                 <div
                   class="swiper-slide"
                   v-for="(item, e) in administrativeTeam"
@@ -200,7 +198,7 @@
                 </div>
               </swiper>
               <!-- Add Arrows -->
-              <div class="swiper-pagination section-space--mt_50"></div>
+              <div class="swiper-pagination admin mb-0"></div>
             </div>
           </div>
         </div>
@@ -538,13 +536,13 @@ export default {
     SlideLogos,
   },
   data: () => ({
-    swiperOption: {
+    swiperOptionAdmin: {
       speed: 800,
       loop: false,
       slidesPerView: 6,
       spaceBetween: 30,
       pagination: {
-        el: ".swiper-pagination",
+        el: ".admin",
         clickable: true,
       },
       breakpoints: {
