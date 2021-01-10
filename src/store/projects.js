@@ -79,7 +79,7 @@ export default {
                 },
             ],
             customer: ["Inchalam S.A."],
-            investment: "US$359.000",
+            investment: "CLP $288.400.000",
             description: [
                 "La fruticultura nacional ha incorporado gradualmente tecnologías para ser competitiva a nivel internacional y responder a las preferencias de consumo. Con ello, han incorporado nuevos sistemas productivos en que las operaciones se realizan en huertos de alta densidad de plantación, con árboles que provienen de patrones enanizantes que permiten huertos peatonales y homogéneos, entre otros. Es así como los sistemas de conducción en frutales se han ido sofisticando y, dependiendo de su vigor, se han introducido nuevas estructuras (trellis system) que utilizan alambre y que permiten tanto conducir y dar forma al frutal, como en entregar un soporte adicional ante eventos externos cuando se encuentran en plena producción.",
                 "Sumado a estos desafíos, el cambio y variabilidad climática ha permitido el uso de cubiertas o techos que minimizan los efectos y condiciones extremas, extendiendo la fruticultura a otras locaciones, en condiciones de suelo y clima más complejos, pero que permiten aprovechar una ventana comercial mayor.",
@@ -169,7 +169,7 @@ export default {
                 },
             ],
             customer: ["Corporación Nacional Forestal (CONAF) "],
-            investment: "CPL $311.650.000",
+            investment: "CLP $300.000.000",
             description: [
                 "Las araucarias presentan un problema en sus hojas llamado Daño Foliar de la Araucaria (DFA), lo que genera un daño progresivo en los follajes. Para determinar si existe un componente microbiológico en este daño, se utilizaron herramientas genómicas para comparar individuos sanos con enfermos y evidenciar si hay diferencias en la composición de los microbiomas presentes en ambas condiciones. ",
                 "Primero, se buscó caracterizar la enfermedad en terreno y en laboratorio, apuntando a identificar y aislar el agente causal del DFA y en la segunda etapa, el objetivo fue aislar el posible patógeno e implementar medidas de manejo y control del DFA en vivero.",
@@ -239,7 +239,7 @@ export default {
                 },
             ],
             customer: ["Industrial Leyda Limitada"],
-            investment: "$322.000.000",
+            investment: "CLP $322.000.000",
             description: [
                 "La aplicación continua de fertilizantes y pesticidas químicos ha demostrado efectos perjudiciales en los ecosistemas agrícolas, como también riesgos para la salud de humanos y animales. Es relevante desarrollar productos biológicos que reemplacen y/o acompañen a los productos químicos, que presenten altos estándares de calidad y sean sustentables.",
                 "Industrial Leyda, filial de Ariztía, junto a UC Davis Chile, desarrollaron este proyecto con el fin de obtener un bioproducto estandarizado y de alta efectividad utilizando como base el proceso de producción actual de los productos Vitaterra y Vitabión. Como resultado, se obtuvo una colección de 101 bacterias caracterizadas funcionalmente, a nivel de laboratorio, con respecto a su actividad de biocontrol de hongos, de nemátodos, de bacterias fitopatógenas, de producción de enzimas líticas, entre otros. Finalmente, se obtuvieron tres consorcios sintéticos con funciones fungicidas, nematicidas y bioestimulantes.",
@@ -301,7 +301,7 @@ export default {
                 },
             ],
             customer: ["Cal Austral S.A."],
-            investment: "$19.400.000",
+            investment: "CPL $19.400.000",
             description: [
                 "La agricultura en suelos de origen volcánico se basa en un uso excesivo, exclusivo e ineficiente de fertilizantes sintéticos producidos de fuentes no renovables y/o mediante procesos de una gran huella de carbono, por lo que un producto de origen biológico es una gran alternativa. ",
                 "Este tipo de suelos presentan como característica la baja disponibilidad de fósforo y pH ácidos, para lo cual, se utilizan enmiendas de cal agrícola. Por este motivo, Cal Austral decidió generar un bioproducto que complemente el que utilizan actualmente. Así surgieron BioCal y BioCal Plus. ",
@@ -445,7 +445,7 @@ export default {
                 },
             ],
             customer: ["CORFO"],
-            investment: "$1.172.505.874 ",
+            investment: "CLP $1.172.505.874",
             description: [
                 "Los valles de Tutuvén, Itata, Biobío y Malleco, ubicados en las regiones de Maule, Ñuble, Biobío y Araucanía respectivamente, son los productores de uva y vinos más antiguos de Latinoamérica. En ellos se encuentran las variedades tradicionales Cinsault, Carignan, País y Moscatel de Alejandría, entre otras.  Estos territorios han quedado rezagados, perdiendo competitividad respecto a otros valles, donde predominan fundamentalmente variedades finas europeas de uva.",
                 "Para mejorar la calidad y distribución del vino producido por las pymes de la zona, se creó el CEVS, organismo articulador entre el sector privado, el público e investigadores. Su objetivo era ofrecer servicios de diagnóstico y asistencia técnica a las empresas para adquirir conocimientos, prácticas y tecnologías para mejorar sus procesos productivos y capacidad de innovar. ",
@@ -519,7 +519,7 @@ export default {
                 "Fundación Ibáñez Atkinson",
                 "Embajada de Estados Unidos en Santiago, Chile",
             ],
-            investment: "$158.780.955",
+            investment: "CLP $158.780.955",
             description: [
                 "Los lagos de la Patagonia son una fuente de biodiversidad y una plataforma única en cuanto al desarrollo económico y social en Chile. Chile Lagos Limpios (ChLL) fue creada en 2018 para proteger este ecosistema aplicando la ciencia, la educación y las mejores prácticas para preservarlo. Para ello, nació la alianza con UC Davis Chile, que trajo la experiencia del Tahoe Environmental Research Center (TERC), que trabaja en Lake Tahoe, en California, EE. UU. ",
                 "Hoy el proyecto está monitoreando los lagos Ranco y Panguipulli, basándose en la experiencia de TERC en Lake Tahoe y Clear Lake en el marco de un fondo adjudicado para desarrollar un proyecto de colaboración académica entre UC Davis y el Centro de Desarrollo Local de la PUC en Villarrica.",
@@ -607,7 +607,7 @@ export default {
                 "Dirección General de Aguas (DGA)",
                 "Juntas de vigilancia de la Primera, Segunda y Tercera Sección del río Aconcagua",
             ],
-            investment: "CL$120.000.000",
+            investment: "CLP $151.325.000",
             description: [
                 "El proyecto CIMHi es una plataforma web de hidrometría superficial y subterránea del río Aconcagua. Su desarrollo está basado en un modelo de trabajo colaborativo en el que participan profesionales de distintas organizaciones y que persigue aunar voluntades en torno a la gestión conjunta del recurso hídrico de la cuenca del río Aconcagua.",
                 "Con el objetivo de disminuir las asimetrías de información y extender el conocimiento hacia los usuarios, la plataforma web entrega información en línea de 60 estaciones de medición con datos fluviométricos y meteorológicos, incluyendo rutas de nieve. Los datos son proporcionados por la Dirección General de Aguas (DGA), Codelco y las juntas de vigilancia de la primera, segunda y tercera sección del río Aconcagua. Próximamente, se incorporarán datos de Esval.",
@@ -692,7 +692,7 @@ export default {
             ],
             customer: [
                 "VSPT wine group y Viña Concha y Toro"],
-            investment: "US$896.380",
+            investment: "USD $896.380",
             description: [//comentarios en amarillo
                 "Un aspecto relevante para asegurar la calidad de los vinos es asegurar la identidad genética de las plantas de vid utilizadas. Este desafío es particularmente complejo al tratar de identificar clones dentro de una variedad, debido a que no existen diferencias observables a simple vista. Con el objetivo de diferenciar entre clones, se desarrolló una serie de marcadores genéticos basados en secuenciación, los cuales permiten una prospección más rápida y de menor costo por planta. Los marcadores desarrollados permiten la identificación de clones específicos dentro de las variedades Cabernet Sauvignon, Sauvignon blanc, Merlot, Chardonnay y Pinot Noir. Además durante el desarrollo de este proyecto se secuenció la variedad Carmener, cepa de carácter icónico para la viticultura chilena.",
             ],
@@ -725,7 +725,7 @@ export default {
             ],
             alt: "proyecto image",
             name:
-                "Estudio “Economía circular en el sector agroalimentario",
+                'Estudio "Economía circular en el sector agroalimentario"',
             title: "Economía circular",
             date: "Septiembre de 2019 a enero de 2020",
             team: [
@@ -769,7 +769,7 @@ export default {
             ],
             customer: [
                 "Oficina de Estudios y Políticas Agrarias (ODEPA), Ministerio de Agricultura de Chile"],
-            investment: "$15.000.000",
+            investment: "CLP $15.000.000",
             description: [//comentarios en amarillo
                 "La Oficina de Estudios y Políticas Agrarias (ODEPA) del Ministerio de Agricultura, encargó a UC Davis Chile el estudio “Economía Circular en el Sector Agroalimentario Chileno”, con la finalidad de conocer la situación en nuestro país y establecer un benchmark respecto de otros países en que se aplican prácticas productivas sostenibles y respetuosas del ecosistema.",
                 "El estudio representa una línea base que levanta el estado del arte en el sector, identificando iniciativas de innovación en cinco subsectores del agro y los principales desafíos que enfrentan para promover las estrategias circulares. ",
@@ -871,7 +871,7 @@ export default {
                 "Universidad de Talca",
                 "Univiveros",
             ],
-            investment: "$203.000.000",
+            investment: "CLP $203.000.000",
             description: [
                 "Uno de los problemas que hoy enfrenta la producción de uvas para  vinificación y de mesa son las enfermedades de la madera (GTD, por su sigla en inglés). Éstas generan una drástica disminución de la calidad de la uva y de la longevidad del viñedo provocando múltiples pérdidas productivas en todo el mundo, sin que existan medidas de control eficientes hasta la fecha. Con el objetivo de desarrollar una herramienta preventiva que permita el control biológico de estas enfermedades, se aislaron hongos endófitos de vides de distintas localidades a lo largo del país. Éstos fueron evaluados en ensayos de laboratorio frente a los principales hongos que producen GTD, obteniendo una efectividad de hasta un 98%. Se han realizado ensayos en material de propagación y bajo condiciones productivas de vivero, observando una colonización del tejido interno de la planta sin afectar su normal desarrollo.",
                 "Durante las próximas temporadas se evaluará la efectividad de estas plantas tratadas con biocontroladores endófitos para disminuir la incidencia de hongos patógenos.",
@@ -949,7 +949,7 @@ export default {
             ],
             customer: [
                 "Escuela Politécnica del Litoral (ESPOL), Guayaquil, Ecuador."],
-            investment: "US$24.900",
+            investment: "USD $24.900",
             description: [
                 "La ESPOL, principal universidad pública del Ecuador, está en un proceso de mejora institucional que, entre otros asuntos, busca asegurar que sus capacidades de investigación y las de sus centros de estudio y tecnología, se conecten a una dinámica de innovación orientada a los requerimientos del mercado, la industria y los territorios donde irradia su influencia. ",
                 "La universidad encargó a UC Davis Chile evaluar el estado de ese proceso y proponer un modelo gestión, con foco en innovación, para sus centros de investigación. Esta asesoría se centró en una primera etapa en dar lineamiento estratégico y recomendaciones para que el <em>Centro de Investigaciones Biotecnológicas del Ecuador (CIBE)</em>, implemente de manera orgánica procesos y prácticas de innovación en la definición, evaluación y ejecución de sus líneas de investigación, y con ello ser capaz de formular una propuesta de valor diferenciada y ser referente a nivel nacional e internacional, en su ámbito de especialización.",
@@ -1013,7 +1013,7 @@ export default {
                 },
             ],
             customer: ["OEA"],
-            investment: "$69.555.381",
+            investment: "CLP $69.555.381",
             description: [
                 "El HUB de Comercialización y Transferencia de Tecnología para las Amé- ricas es un programa internacional que tiene como objetivo generar vínculos entre organizaciones y capacitar a profesionales en este ámbito.  La quinta versión de esta iniciativa, se desarrolló por primera vez en Chile entre el 27 de agosto y el 7 de septiembre del 2018, y tuvo como sede el Campus RESB de la Universidad del Desarrollo (UDD).",
                 "Este programa de dos semanas de duración, 90 horas de trabajo práctico y teórico, contó con 37 emprendedores y profesionales (14 chilenos) seleccionados de 12 países miembros de la OEA, los cuales trabajaron con 25 expositores internacionales y 15 nacionales de alto nivel, con experiencia práctica en propiedad intelectual, desarrollo, gestión, transferencia y comercialización de tecnología. ",
@@ -1045,7 +1045,7 @@ export default {
             title:
                 "Diagnóstico Lamp",
             name:
-                "Estrategias de mitigación con énfasis en control biológico de enfermedades de la madera de la vid",
+                "Desarrollo de un sistema de diagnóstico para hongos de la madera basado en amplificaciones isotérmicas (LAMP) ",
             date: "Marzo de 2017 a diciembre de 2019.",
             team: [
                 {
@@ -1078,7 +1078,7 @@ export default {
                 "Viña Concha y Toro",
                 "VSPT wine group",
             ],
-            investment: "$120.000.000",
+            investment: "CLP $120.000.000",
             description: [
                 "Las enfermedades de la madera de la vid son consideradas como uno de los mayores problemas de la industria del vino a nivel mundial. Estas enfermedades son causadas por un grupo de hongos, varios de ellos pertenecientes al género de las Botryosphaeria que colonizan el tejido interno de la planta, generando enormes pérdidas productivas. De forma tradicional, el diagnóstico de estas enfermedades es realizado por la observación en conjunto de los síntomas de la planta y los estudios fitopatológicos dados por el cultivo in-vitro de los hongos patogénicos. Estos métodos son lentos y requieren de personal altamente especializado y calificado. Además, los síntomas en la planta pueden aparecer hasta años después de la infección. Con el objetivo de desarrollar un sistema de detección selectivo para hongos de este género se desarrolló un método que utiliza una variante de la técnica de biología molecular PCR, la amplificación isotérmica LAMP, para la evaluación rápida, específica e in situ de esta familia de hongos. Con esta técnica fue posible incluso discriminar aislados de hospederos distintos a <em>Vitis vinifera</em>. ",
             ],
@@ -1141,7 +1141,7 @@ export default {
                 },
             ],
             customer: ["Sugal Chile Ltda."],
-            investment: "$263.000.000",
+            investment: "CLP $292.000.000",
             description: [
                 "Desde 1982, en Chile existe la Phelipanche ramosa, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y la Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
                 "Para la empresa Sugal Chile, que administra un total de de 7.500 hectáreas de tomate industrial en la zona central del país, esta maleza es prioritaria en sus programas de manejo del cultivo. Para monitorearla y controlar el efecto de los herbicidas en el suelo y los cultivos, se desarrolló un modelo de control integrado. Adicionalmente, se implementó una herramienta para el registro histórico de los niveles de infestación de los predios de los agricultores que tienen contrato de producción de tomate con Sugal, que sirva como base para la utilización de una herramienta de apoyo a la toma de decisiones con relación al control de la maleza.",
@@ -1259,7 +1259,7 @@ export default {
                 "<strong>Primera temporada 2017:</strong><br /> VSPT wine group, Viña Concha y Toro y Universidad de Talca. ",
                 "<strong>Segunda temporada (2018 y 2019):</strong> <br/>VSPT wine group, Universidad de Talca, Viña Santa Rita y Universidad Federico Santa María.",
             ],
-            investment: "$311 millones",
+            investment: "CLP $225.000.000",
             description: [
                 "La realidad productiva vitivinícola de Chile se ha orientado a los mercados de grandes volúmenes, por lo que la eficiencia es parte importante del negocio. Para esto, es fundamental la implementación de tecnologías que permitan a las empresas avanzar en la homogeneidad de sus procesos y en la calidad de sus vinos.",
                 "La uva, como materia prima, define en gran medida la calidad final del producto. Es un parámetro difícil de definir, ya que es subjetivo y multidimensional, sí existen consensos que permiten evaluarla de manera objetiva, a través de la medición de marcadores químicos que están asociados a atributos de color, aroma y sensaciones en boca. ",
@@ -1325,7 +1325,7 @@ export default {
             ],
             customer: [
                 "Comunidad de Aguas Subterráneas del Río Copiapó (CASUB)"],
-            investment: "US$12.500",
+            investment: "CLP $7.000.000",
             description: [
                 "El recurso hídrico es cada vez más escaso y su adecuado aprovechamiento es  un imperativo especialmente para Chile que se encuentra entre los 30 países con mayor stress hídrico del mundo. El momento del año en que los ríos alcanzan su mayor caudal, ofrece una gran oportunidad para implementar estrategias de recarga de los acuíferos (aguas subterráneas), que son intensamente demandados en períodos en que las aguas superficiales disminuyen significativamente.",
                 "El proyecto consistió en el estudio de requerimientos, evaluación de  localización, diseño, implementación y evaluación económica de un prototipo de sistema de recarga artificial del acuífero, en la cuenca del río Copiapó en la Región de Atacama.",
@@ -1416,7 +1416,7 @@ export default {
             ],
             customer: [
                 "Universidad de Tarapacá"],
-            investment: "US$896.380",
+            investment: "CLP $450.000.000 ",
             description: [
                 "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en el uso de la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
             ],
@@ -1471,7 +1471,7 @@ export default {
             ],
             customer: [
                 "VSPT Wine Group"],
-            investment: "CL$200.000.000",
+            investment: "CLP $280.000.000",
             description: [
                 "La disponibilidad de agua ha sido declarada como uno de los desafíos más grandes que la agricultura enfrenta actualmente. Un problema que se ha agravado debido al cambio climático, debido a recurrentes sequías, la limitada disponibilidad general de agua para riego, la expansión agrícola, y la creciente demanda urbana por aumento de la población, están forzando a la agricultura a implementar mejores técnicas de gestión de riego para mejorar la eficiencia del uso del agua.",
                 "Esta línea se centró en el desarrollo de métodos para optimizar el uso del agua para riego, utilizando técnicas modernas para la estimación de la demanda real de agua en vides bajo distintas condiciones de producción (sistemas de conducción, orientación espacial de las hieras y rendimiento). La propuesta se centró en la aplicación y adopción de una tecnología desarrollada en UC Davis denominada Surface Renewal, basada en la estimación de la evapotranspiración real de un cultivo.",
@@ -1538,7 +1538,7 @@ export default {
             ],
             customer: [
                 "Subsecretaría de Salud Pública – Ministerio de Salud (Chile)"],
-            investment: "$133.142.936 CLP",
+            investment: "CLP $133.142.936",
             description:
                 ["Su objetivo fue la provisión de un insumo para contribuir a la eficiencia del sistema de salud y facilitar y acelerar los procesos de innovación, en particular aquellos dirigidos a mejorar el acceso a la salud de calidad de las personas y la oportunidad de la atención. El proyecto proporciona un glosario de definiciones, un modelo de caracterización de los escenarios de telemedicina y telesalud, el marco regulatorio aplicable, un conjunto de buenas prácticas, recomendaciones y otros elementos que apuntan a facilitar el desarrollo de las prestaciones en esta modalidad en Chile, de tal forma que puedan ser asimiladas como procedimientos normales integrados y de apoyo al sistema de salud dentro de un marco de calidad y seguridad. "],
             how: [
