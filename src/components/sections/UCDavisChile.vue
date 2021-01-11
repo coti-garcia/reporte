@@ -80,19 +80,19 @@
         </div>
         <div class="col-12 col-md-3">
           <p class="intro blue">
-            Ser una puente que conecte la investigación, el desarrollo
+            Ser un puente que conecte la investigación, el desarrollo
             tecnológico y las innovaciones de California con Chile y la región.
           </p>
         </div>
         <div class="col-12 col-md-8">
           <div>
             <p>
-              Considerando de una parte las capacidades y fortalezas de la
+              Considerando por una parte, las capacidades y fortalezas de la
               Universidad de California y, por otra, la necesidad de la economía
               chilena de incrementar sus actividades de I+D e innovación, UC
-              Davis Chile procura ser como un catalizador de proyectos e
-              iniciativas, posicionándose como puente en la transferencia de
-              conocimientos, desarrollos y tecnologías desde California a Chile.
+              Davis Chile procura ser un catalizador de proyectos e iniciativas,
+              posicionándose como puente en la transferencia de conocimientos,
+              desarrollos y tecnologías desde California a Chile.
             </p>
             <p>
               Para cumplir con este propósito UC Davis Chile, no sólo apalanca

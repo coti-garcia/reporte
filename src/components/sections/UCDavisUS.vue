@@ -37,7 +37,7 @@
           <div class="col-12 col-md-8">
             <p class="pl-md-3">
               UC Davis es una universidad de investigación con programas
-              académicos de alto prestigio en distribuidos cuatro facultades
+              académicos de alto prestigio distribuidos en cuatro facultades
               (Ciencias Agrícolas y Ambientales, Ciencias Biológicas,
               Ingeniería, y Letras y Ciencias) y seis escuelas (Educación,
               Leyes, Administración y Negocios, Medicina, Enfermería y Medicina
