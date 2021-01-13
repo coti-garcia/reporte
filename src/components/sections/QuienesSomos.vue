@@ -506,6 +506,20 @@
             </ul>
           </div>
         </div>
+        <div class="row mt-5 text-center mx-2">
+          <router-link
+            :to="{
+              name: 'Anexo',
+              params: {
+                anexo: 'anexo-1',
+              },
+            }"
+            class="ht-btn ht-btn-md ht-btn-custom bg-gold text-uppercase mx-auto"
+          >
+            Ver listado completo de investigadores UC Davis que han colaborado
+            con el centro
+          </router-link>
+        </div>
       </div>
     </section>
 
@@ -775,11 +789,20 @@ ul {
   padding-left: 20px;
 }
 .small-img {
-  width: 80px;
+  width: 100px;
   border-radius: 50%;
   overflow: hidden;
   border: solid 3px #fff;
   margin-left: 15px;
   margin-right: 15px;
+}
+a.ht-btn.ht-btn-md.ht-btn-custom.bg-gold.text-uppercase {
+  line-height: 1.4;
+  height: auto;
+  padding: 10px 20px;
+
+  @media #{$min-tablet} {
+    padding: 20px 25px;
+  }
 }
 </style>

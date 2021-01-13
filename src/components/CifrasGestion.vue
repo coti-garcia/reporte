@@ -11,7 +11,7 @@
             decreciente en 3 Fases:
           </p>
           <p>
-            <strong>Fase 1:</strong> IInstalación; subsidio de hasta 50% del
+            <strong>Fase 1:</strong> Instalación; subsidio de hasta 50% del
             costo total (3 años).
           </p>
           <p>

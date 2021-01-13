@@ -79,9 +79,9 @@
                       2º lugar en el mundo en agricultura y ciencias
                       veterinarias
                     </li>
-                    <li>
+                    <!-- <li>
                       5º lugar entre las universidades públicas de EE. UU.
-                    </li>
+                    </li> -->
                     <li>3º universidad más verde del planeta</li>
                   </ul>
                 </div>

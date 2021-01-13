@@ -65,6 +65,13 @@
                   >Nuestra misión</router-link
                 >
               </li>
+              <li>
+                <router-link
+                  :to="{ name: 'QuienesSomos' }"
+                  class="hover-style-link"
+                  >Quiénes somos</router-link
+                >
+              </li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 footer-widget">
@@ -76,23 +83,28 @@
               </li>
               <li>
                 <router-link
-                  :to="{ name: 'QuienesSomos' }"
+                  :to="{ name: 'AreasTrabajo' }"
                   class="hover-style-link"
-                  >Quiénes somos</router-link
+                  >Áreas de trabajo</router-link
                 >
               </li>
               <li>
                 <router-link
-                  :to="{ name: 'AreasTrabajo' }"
+                  :to="{ name: 'AporteSimetrico' }"
                   class="hover-style-link"
-                  >Áreas de trabajo UC Davis Chile</router-link
+                  >Aporte simétrico</router-link
+                >
+              </li>
+              <li>
+                <router-link :to="{ name: 'Cifras' }" class="hover-style-link"
+                  >Cifras</router-link
                 >
               </li>
               <li>
                 <router-link
                   :to="{ name: 'Proyectos' }"
                   class="hover-style-link"
-                  >Listado de principales proyectos</router-link
+                  >Principales proyectos</router-link
                 >
               </li>
             </ul>

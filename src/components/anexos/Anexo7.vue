@@ -42,8 +42,8 @@ export default {
           {
             id: "1",
             title:
-              "Innova BioBio/UDD Tech Transfer Workshop. Charla Translational Research & Public-Private Partnerships.",
-            datePlace: "Pablo Zamora UDD, Concepción. Febrero", //Esto puede ser solo la fecha o fecha y lugar.
+              "Innova BioBio/UDD Tech Transfer Workshop. Charla de Pablo Zamora: Translational Research & Public-Private Partnerships. Concepción.",
+            datePlace: "Febrero", //Esto puede ser solo la fecha o fecha y lugar.
           },
           {
             id: "2",
@@ -72,8 +72,8 @@ export default {
           {
             id: "6",
             title:
-              'Charla magistral del Director Científico de UC Davis Chile, Pablo Zamora: "El uso de microbiomas para aplicaciones en agricultura" en evento de Lanzamiento Programa AgTech de RedAgrícola',
-            datePlace: "Santiago 11 de diciembre de 2015.",
+              'Charla magistral del Director Científico de UC Davis Chile, Pablo Zamora: "El uso de microbiomas para aplicaciones en agricultura" en evento de Lanzamiento Programa AgTech de RedAgrícola. Santiago ',
+            datePlace: "11 de diciembre de 2015.",
           },
           {
             id: "7",
@@ -143,21 +143,20 @@ export default {
           {
             id: "17",
             title:
-              "First Symposium on Food Safety (Universidad Andrés Bello y OCDE).",
-            datePlace:
-              "5 al 7 de diciembre, Casona Las Condes de la UNAB.Co-organiza UC Davis Chile",
+              "First Symposium on Food Safety (Universidad Andrés Bello y OCDE). Co-organiza UC Davis Chile",
+            datePlace: "5 al 7 de diciembre",
           },
           {
             id: "18",
             title:
-              "Bruce German y Moshe Rosenberg, del Departamento de Food Science and Technology de UC Davis, participaron en el Seminario “Leche y Salud Humana”, actividad  conjunta UC Davis Chile - Consorcio Lechero.",
-            datePlace: "13 de diciembre, en Hotel Cumbres (Santiago).",
+              "Bruce German y Moshe Rosenberg, del Departamento de Food Science and Technology de UC Davis, participaron en el Seminario “Leche y Salud Humana”, actividad  conjunta UC Davis Chile - Consorcio Lechero. Santiago.",
+            datePlace: "13 de diciembre",
           },
           {
             id: "19",
             title:
               "Dr. Eduardo Silva, del Departamento de Biomedical Engineering de UC Davis, participó en la “NanoConference 2016: Biomedicine, Mining & Energy” -conferencia internacional organizada por CORFO y la Universidad Andrés Bello- y ofreció “Engineering new vascular nerwork with biomaterials”, charla organizada en colaboración con la Dirección de Desarrollo Tecnológico de la U. del Desarrollo (iCono UDD).",
-            datePlace: "14 y 15 de diciembre, en Santiago.",
+            datePlace: "Santiago, 14 y 15 de diciembre.",
           },
         ],
       },
@@ -174,13 +173,13 @@ export default {
             id: "21",
             title:
               "Lawrence Kirkendall, profesor de la U. de Bergen (Noruega), dictó la charla “El fascinante mundo de los Escolítidos”",
-            datePlace: "13 de marzo, en las oficinas de UC Davis Chile",
+            datePlace: "13 de marzo",
           },
           {
             id: "22",
             title:
               "Graham Fogg, del Center for Watershed Sciences de UC Davis, ofreció la charla “Sustainable Groundwater Management”. ",
-            datePlace: "30 de marzo, en las oficinas de UC Davis Chile.",
+            datePlace: "30 de marzo",
           },
           {
             id: "23",
@@ -210,8 +209,9 @@ export default {
           },
           {
             id: "27",
-            title: "Pablo Zamora, Director Asociado, en Creo en Chile.",
-            datePlace: "15 de junio en Espacio Riesco",
+            title:
+              "Presentación de Pablo Zamora, Director Científico UC Davis Chile, en Expo Creo en Chile.",
+            datePlace: "15 de junio",
           },
           {
             id: "28",
@@ -377,15 +377,10 @@ export default {
             datePlace: "27 agosto al 27 septiembre.",
           },
           {
-            id: "53",
-            title: "Seminario Bioproductos",
-            datePlace: "",
-          },
-          {
             id: "54",
             title:
-              "Primera Cumbre Internacional de Bioinsumos, organizada en conjunto por UC Davis",
-            datePlace: "Chile y MundoAgro -Septiembre.",
+              "Primera Cumbre Internacional de Bioinsumos, organizada en conjunto por UC Davis Chile y MundoAgro",
+            datePlace: "6 Septiembre",
           },
           {
             id: "55",
