@@ -114,14 +114,15 @@ export default {
           boardPosition: "Director",
           name: "Pablo Villalobos",
           position:
-            "Director Departamento de Innovación y Transferencia Tecnológica, Universidad de Tarapacá",
+            "Vicerrector de Innovación y Transferencia Tecnológica, Universidad de Talca",
           img: "empty.jpg",
           country: "CL",
         },
         {
           boardPosition: "Director",
           name: "Eugenio Doussoulin",
-          position: "Associate Campus Counsel",
+          position:
+            "Director de Asuntos Internacionales (s), Universidad de Tarapacá",
           img: "empty.jpg",
           country: "CL",
         },
