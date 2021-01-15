@@ -31,9 +31,12 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex blue">
-            <span class="big">28</span><span class="genomas">Empresas</span>
+            <span class="big">28</span
+            ><span class="medium pl-2 mb-2"
+              >Empresas, Asociaciones Gremiales e Instituciones públicas</span
+            >
           </div>
-          de distintos sectores productivos e instituciones públicas atendidas
+          de distintos sectores productivos atendidas
         </div>
         <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex poppy mb-2">
@@ -219,7 +222,7 @@
 
         <div class="col-12 col-md-6 col-lg-3">
           <div class="main d-flex poppy">
-            <span class="big">96</span
+            <span class="big">93</span
             ><span class="genomas">Eventos de difusión</span>
           </div>
           para presentar resultados del Centro y compartir el conocimiento y
