@@ -163,6 +163,12 @@ export default {
           country: "US",
         },
         {
+          name: "Lovell “Tu” Jarvis",
+          position: "Professor Emeritus, Agricultural and Resource Economics",
+          img: "empty.jpg",
+          country: "US",
+        },
+        {
           name: "Gonzalo Herrera",
           position:
             "Ex Vicerrector de Innovación, representante Universidad de Talca 2015-2017",
