@@ -278,7 +278,7 @@ export default {
           {
             id: "staff-402",
             unit: "Teacher Education and preparation",
-            name: "Margarita JiménezN/ASilva Ph.D. ",
+            name: "Margarita Jiménez-Silva Ph.D.",
             position:
               "Associate Professor and Director of Teacher Education, School of Education, UC Davis",
           },
@@ -329,9 +329,9 @@ export default {
           {
             id: "staff-603",
             unit: "UC Davis Graduate School of Management",
-            name: "Keish Liggett- Nichols and 6 part-time MBA students",
+            name: "Keisha Liggett-Nichols and 6 part-time MBA students",
             position:
-              "Lecturer, Faculty Advisor, UC Davis Graduate School of Management",
+              "FORMER Lecturer, Faculty Advisor, UC Davis Graduate School of Management",
           },
         ],
       },
@@ -544,6 +544,12 @@ export default {
         title: "Global Affairs",
         staff: [
           {
+            id: "staff-903",
+            unit: "Vice Provost and Associate Chancellor",
+            name: "Johanna Regulska, Ph.D.",
+            position: "Vice Provost and Associate Chancellor",
+          },
+          {
             id: "staff-901",
             unit: "Office of the Vice Provost and Associate Chancellor",
             name: "Jim Rix, Ph.D. ",
@@ -554,12 +560,6 @@ export default {
             unit: "Office of the Vice Provost and Associate Chancellor",
             name: "Michael Lazzara, Ph.D. ",
             position: "Associate Vice Provost of Academic Programs",
-          },
-          {
-            id: "staff-903",
-            unit: "Vice Provost and Associate Chancellor",
-            name: "Johanna Regulska, Ph.D.",
-            position: "Vice Provost and Associate Chancellor",
           },
         ],
       },

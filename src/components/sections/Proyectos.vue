@@ -67,8 +67,8 @@
                       name: 'ProjectDetail',
                       params: { slug: project.slug },
                     }"
-                    >{{ project.name }}</router-link
-                  >
+                    v-html="project.name"
+                  ></router-link>
                 </h5>
               </div>
             </div>

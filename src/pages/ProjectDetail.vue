@@ -7,7 +7,7 @@
     <Breadcrumb>
       <template slot="breadcrumb">
         <div class="breadcrumb_box text-center">
-          <h2 class="breadcrumb-title">{{ project.name }}</h2>
+          <h2 class="breadcrumb-title" v-html="project.name"></h2>
           <!-- breadcrumb-list start -->
           <ul class="breadcrumb-list">
             <li class="breadcrumb-item">

@@ -89,7 +89,7 @@ export default {
       {
         id: "anexo-1",
         num: "1",
-        title: "Investigadores UC Davis",
+        title: "Investigadores, académicos y staff UC Davis",
         shortName: "Investigadores UC Davis",
       },
       {

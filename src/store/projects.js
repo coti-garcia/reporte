@@ -99,7 +99,7 @@ export default {
             value: [
                 "El programa contribuyó a implementar un puente entre la academia y la investigación con el sector privado para abordar las brechas de acceso a la información en esta temática a través de un proceso de extensión. ",
                 "Además, articuló diferentes actores para la transferencia de conocimiento y adopción de tecnologías con un sentido práctico y fundamento.",
-                "Para Ichalam, y como resultado de este proyecto, el aporte fue la creación de Agroinchalam, como un spin-off que permite atender las necesidades de los actores del rubro y definir mejor la oferta de productos y soluciones para sus clientes. ",
+                "Para Inchalam, y como resultado de este proyecto, el aporte fue la creación de Agroinchalam, como un spin-off que permite atender las necesidades de los actores del rubro y definir mejor la oferta de productos y soluciones para sus clientes. ",
             ],
             partnership: [
                 "Centro de Extensión Vitivinícola del Sur. ",
@@ -111,10 +111,10 @@ export default {
             id: "2",
             slug: "araucarias",
             title: "Araucarias",
-            name: "Daño foliar en Araucaria araucana: agente causal y medidas de mitigación",
+            name: "Daño foliar en <em>Araucaria araucana</em>: agente causal y medidas de mitigación",
             subtitle: ` 
-                <h6><strong>Etapa 1:</strong> Determinación de posibles agentes causales del daño foliar en Araucaria araucana mediante un estudio comparativo de la estructura microbiana y su asociación con variables ambientales </h6>
-                <h6><strong>Etapa 2:</strong> Desarrollo e implementación de herramientas genómicas para el manejo del Daño Foliar de Araucaria araucana (DFA) y su relación con prácticas culturales de conservación.</h6>`
+                <h6><strong>Etapa 1:</strong> Determinación de posibles agentes causales del daño foliar en <em>Araucaria araucana</em> mediante un estudio comparativo de la estructura microbiana y su asociación con variables ambientales </h6>
+                <h6><strong>Etapa 2:</strong> Desarrollo e implementación de herramientas genómicas para el manejo del Daño Foliar de <em>Araucaria araucana</em> (DFA) y su relación con prácticas culturales de conservación.</h6>`
             ,
             date:
                 "<strong>Etapa 1:</strong> Diciembre 2016  a agosto 2017 <br/> <strong>Etapa 2:</strong> Noviembre 2017 a junio 2019",
@@ -134,7 +134,7 @@ export default {
                             position: "Ph.D., Bioproducts Coordinatos, UC Davis Chile",
                         },
                         {
-                            name: "Alvaro Castro ",
+                            name: "Álvaro Castro",
                             position: "Ph.D., Research and Development Coordinator, UC Davis Chile. Universidad de Santiago de Chile",
                         },
                         {
@@ -176,7 +176,7 @@ export default {
             ],
             how: [
                 "Se realizó un análisis metagenómico aislando el ADN de distintas muestras ambientales, las que se tomaron de cinco puntos en las regiones del Biobío y La Araucanía. ",
-                "Con base en estos resultados, para la segunda etapa se propuso el uso de herramientas genéticas y moleculares avanzadas que permitieron identificar potenciales agentes causales y, además, generar información respecto de la diversidad genética de Araucaria araucana apuntando a robustecer la documentación disponible sobre este árbol, que era muy poca a la fecha, además de generar recomendaciones para la conservación de la especie y su manejo frente al DFA.",
+                "Con base en estos resultados, para la segunda etapa se propuso el uso de herramientas genéticas y moleculares avanzadas que permitieron identificar potenciales agentes causales y, además, generar información respecto de la diversidad genética de <em>Araucaria araucana</em> apuntando a robustecer la documentación disponible sobre este árbol, que era muy poca a la fecha, además de generar recomendaciones para la conservación de la especie y su manejo frente al DFA.",
                 "Debido al rápido avance de esta enfermedad, se diseñaron e implementaron ensayos en viveros con el fin de evaluar tratamientos químicos y biológicos para la mitigación y control del DFA de manera preventiva, se instauró un sistema de trazabilidad del material vegetal ingresado al vivero y se definieron buenas prácticas de manejo que incluyen el monitoreo de posibles patógenos, la eliminación de material vegetal con daño y capacitación técnica al personal encargado de viveros. ",
             ],
             value: [
@@ -274,7 +274,7 @@ export default {
                     teamName: "Equipo técnico",
                     members: [
                         {
-                            name: "Alvaro Castro ",
+                            name: "Álvaro Castro",
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico de la Universidad de Chile y doctorado en Biotecnología de la Universidad de Santiago.",
                         },
                         {
@@ -309,7 +309,6 @@ export default {
             ],
             how: [
                 "Dentro de las actividades realizadas, se tomaron muestras de suelos en la Región de Los Lagos, en predios de producción de especies forrajeras, y se incluyeron recolecciones en etapas del proceso actual de producción de Biocal. Las muestras obtenidas, fueron enviadas a AGQ Labs Chile para análisis fisicoquímico. Además, utilizando diferentes técnicas microbiológicas, se aislaron los microorganismos que contenían las muestras de estos suelos. Finalmente, se evaluó in vitro la capacidad de solubilizar fosfato de los microorganismos aislados.",
-                "Los resultados (son la base para el futuro desarrollo de los biofertilizantes?)", // con nota amarilla
             ],
             value: [
                 "Se obtuvo una colección de 233 microorganismos aislados, de los cuales un 71% solubilizan fosfatos, lo que constituye una base sólida para el desarrollo de nuevos biofertilizantes que permitirán disminuir el uso de fertilizantes fosfatados.",
@@ -333,7 +332,7 @@ export default {
                 "05/04.jpg",
             ],
             name:
-                "Centro de Extensionismo Vitivinícola del Sur ",
+                "Centro de Extensionismo Vitivinícola del Sur (CEVS)",
             date: "Noviembre de 2016 a abril de 2020.",
             team: [
                 {
@@ -458,7 +457,7 @@ export default {
             ],
             value: [
                 "El CEVS contribuyó a fortalecer el ecosistema de extensión regional. Hasta ese momento, no existía una estructura formal que articulara y coordinara el accionar de los actores del sistema, por lo que los esfuerzos eran individuales, de corto alcance y, en ocasiones, duplicados.",
-                "Otras contribuciones  del CEVES fueron el apoyo a la formalización de las pymes y la vinculación entre la ciencia y la empresa, ya que el modelo de trabajo del CEVS, buscó entregar las condiciones para realizar investigación aplicada e innovación, basada en problemas reales y con validación en terreno. ",
+                "Otras contribuciones  del CEVS fueron el apoyo a la formalización de las pymes y la vinculación entre la ciencia y la empresa, ya que el modelo de trabajo del CEVS, buscó entregar las condiciones para realizar investigación aplicada e innovación, basada en problemas reales y con validación en terreno. ",
                 "Entre los indicadores que dan cuenta del aporte del trabajo realizado, se destaca que el 94% de los productores atendidos mejoró la calidad física y organoléptica de sus vinos, el 54% incrementó los rendimientos de uva, el 8% adquirió equipamiento y maquinaria, y el 21% incrementó sus ventas totales. Esto se debe fundamentalmente al aumento de vinos envasados, destinados a mercados de mayor valor.",
                 "De acuerdo a los registros del CEVS, el 81% de las empresas atendidas logró aumentar sus ventas por sobre el 10%. El 60% de estas declaró haber disminuido sus costos productivos y el 68% haber aumentado su producción. Además, el 60% de estas empresas, logró mantener o aumentar el empleo.",
                 "En términos de la comercialización del vino, cuando las empresas fueron diagnosticadas por el CEVS, el 84% del vino producido se destinaba mayormente a venta a granel, principalmente a empresas envasadoras de la zona o a grandes viñas de la zona central. Luego de los servicios de extensión ofrecidos por el CEVS, las empresas han logrado comercializar el 38% de sus vinos envasados, principalmente en formato de vidrio (750cc), en mercados orientados al segmento Horeca, nacional e internacional, incrementando así su nivel de ventas.",
@@ -559,11 +558,11 @@ export default {
                 "LECHE",
                 "Karun",
                 "Mesa Tropera. ",
-                "Universidad UACH",
-                "Universidad EULA",
-                "Universidad PUC",
-                "Universidad CEDEL UC",
-                "Universidad UDD",
+                "Universidad Austral de Chile",
+                "Centro de Ciencias Ambientales EULA-Chile de la Universidad de Concepción",
+                "Pontificia Universidad Católica de Chile",
+                "Centro UC de desarrollo local",
+                "Universidad del Desarrollo ",
             ],
         },
         {
@@ -573,7 +572,7 @@ export default {
             images: ["07/01.jpg", "07/02.jpg"],
             alt: "proyecto image",
             name:
-                "Central de información y modelación hídrica de la cuenca del río Aconcagua",
+                "Central de información y modelación hídrica de la cuenca del río Aconcagua (CIMHi)",
             title: "CIMHI",
             date: "Diciembre 2018 a noviembre de 2021.",
             team: [
@@ -590,11 +589,11 @@ export default {
                         },
                         {
                             name: "Samuel Sandoval",
-                            position: "Assistant professor, UC Davis California, PhD Medio Ambiente y Recursos Hídricos. ",
+                            position: "Assistant professor, UC Davis, PhD Medio Ambiente y Recursos Hídricos. ",
                         },
                         {
                             name: "Graham Fogg",
-                            position: "Faculty, UC Davis California, M.S. Hidrología y Recursos Hídricos, Ph.D. Hidrología.",
+                            position: "Faculty, UC Davis, M.S. Hidrología y Recursos Hídricos, Ph.D. Hidrología.",
                         },
                         {
                             name: "Roberto Fuentes",
@@ -660,7 +659,7 @@ export default {
                             position: "(PI, UNAB). Ingeniero agrónomo y Dr. en Ciencias Agronómicas. Profesor asociado, Facultad de Ciencias Biológicas.",
                         },
                         {
-                            name: "Alvaro Castro",
+                            name: "Álvaro Castro",
                             position: "Research and development coordinator, UC Davis Chile.  Bioquímico de la Universidad de Chile y doctorado en Biotecnología de la Universidad de Santiago.",
                         },
                         {
@@ -691,7 +690,7 @@ export default {
                 },
             ],
             customer: [
-                "VSPT wine group y Viña Concha y Toro"],
+                "VSPT Wine Group y Viña Concha y Toro"],
             investment: "USD $896.380",
             description: [//comentarios en amarillo
                 "Un aspecto relevante para asegurar la calidad de los vinos es asegurar la identidad genética de las plantas de vid utilizadas. Este desafío es particularmente complejo al tratar de identificar clones dentro de una variedad, debido a que no existen diferencias observables a simple vista. Con el objetivo de diferenciar entre clones, se desarrolló una serie de marcadores genéticos basados en secuenciación, los cuales permiten una prospección más rápida y de menor costo por planta. Los marcadores desarrollados permiten la identificación de clones específicos dentro de las variedades Cabernet Sauvignon, Sauvignon blanc, Merlot, Chardonnay y Pinot Noir. Además durante el desarrollo de este proyecto se secuenció la variedad Carmener, cepa de carácter icónico para la viticultura chilena.",
@@ -708,7 +707,7 @@ export default {
                 "La licencia de los marcadores fue transferida a Concha y Toro, uno de los mandantes del estudio, con lo cual pueden dar cuenta de la identidad de los clones utilizados en la producción.",
             ],
             partnership: [
-                "UC Davis California",
+                "UC Davis",
                 "Universidad Andrés Bello",
                 "Grupos técnicos de las compañías ligadas al proyecto, Concha y Toro y Viña San Pedro.",
             ],
@@ -775,7 +774,7 @@ export default {
                 "El estudio representa una línea base que levanta el estado del arte en el sector, identificando iniciativas de innovación en cinco subsectores del agro y los principales desafíos que enfrentan para promover las estrategias circulares. ",
             ],
             how: [
-                "Se estableció un panel experto internacional con la participación de investigadores de UC Davis California y el Instituto para la Gestión Aplicada de Flujos de Materiales (IfaS) de la Universidad de Ciencias Aplicadas de Trier de Alemania. Este panel tuvo el propósito de apoyar en el levantamiento de políticas y programas referentes a nivel internacional, así como también en la validación de recomendaciones finales del estudio. Las regulaciones recientemente implementadas en California, sirvieron como un ejemplo concreto de un entorno regulatorio y normativo que impulsa innovación en torno a la EC.",
+                "Se estableció un panel experto internacional con la participación de investigadores de UC Davis y el Instituto para la Gestión Aplicada de Flujos de Materiales (IfaS) de la Universidad de Ciencias Aplicadas de Trier de Alemania. Este panel tuvo el propósito de apoyar en el levantamiento de políticas y programas referentes a nivel internacional, así como también en la validación de recomendaciones finales del estudio. Las regulaciones recientemente implementadas en California, sirvieron como un ejemplo concreto de un entorno regulatorio y normativo que impulsa innovación en torno a la EC.",
                 "A nivel local se conformó un comité estratégico público-privado que apoyó durante el estudio en el levantamiento de antecedentes, retroalimentó el seguimiento de actividades y validó los reportes. Para el levantamiento de antecedentes nacionales se realizaron 25 entrevistas, cinco talleres y dos paneles de trabajo con el comité estratégico.  ",
             ],
             value: [
@@ -783,10 +782,10 @@ export default {
                 "Adicionalmente, el estudio releva el valor de una gestión sustentable y regenerativa de la agricultura, que permite reducir el uso de agroquímicos, hacer un uso más eficiente del agua y disminuir la contaminación. ",
             ],
             partnership: [
-                "Food Loss Waste Initiative, UC Davis California",
-                "Biological and Agricultural Engineering UC Davis California",
-                "Western Center for Agricultural Health and Safety, Food Science and Technology UC Davis California",
-                "Laboratorio de Soil Ecology and Pest Management Lab UC Davis California",
+                "Food Loss Waste Initiative, UC Davis",
+                "Biological and Agricultural Engineering UC Davis",
+                "Western Center for Agricultural Health and Safety, Food Science and Technology UC Davis",
+                "Laboratorio de Soil Ecology and Pest Management Lab UC Davis",
             ]
         },
         {
@@ -806,7 +805,7 @@ export default {
                 "Endófitos",
             name:
                 "Estrategias de mitigación con énfasis en control biológico de enfermedades de la madera de la vid",
-            date: "Marzo de 2017 a la actualidad (aún en ejecución)",
+            date: "Marzo de 2017 a la actualidad",
             team: [
                 {
                     teamName: "Equipo",
@@ -816,7 +815,7 @@ export default {
                             position: "Junior Researcher. UC Davis Chile. Bioquímica.",
                         },
                         {
-                            name: "Alvaro Castro",
+                            name: "Álvaro Castro",
                             position: "Research and Development Coordinator. UC Davis Chile.  Bioquímico y doctorado en Biotecnología.",
                         },
                         {
@@ -867,7 +866,7 @@ export default {
                 },
             ],
             customer: [
-                "VSPT wine group",
+                "VSPT Wine Group",
                 "Universidad de Talca",
                 "Univiveros",
             ],
@@ -920,7 +919,7 @@ export default {
                             position: "Innovation and Extension Specialist, UC Davis Chile, Ingeniero Civil Industrial.",
                         },
                         {
-                            name: "Alvaro Castro",
+                            name: "Álvaro Castro",
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico y PhD en Biotecnología. ",
                         },
                     ],
@@ -1060,7 +1059,7 @@ export default {
                             position: "PI, Universidad Andrés Bello. Bioquímico y Dr. en Bioquímica. ",
                         },
                         {
-                            name: "Alvaro Castro",
+                            name: "Álvaro Castro",
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico y Dr. en Biotecnología.",
                         },
                         {
@@ -1076,7 +1075,7 @@ export default {
             ],
             customer: [
                 "Viña Concha y Toro",
-                "VSPT wine group",
+                "VSPT Wine Group",
             ],
             investment: "CLP $120.000.000",
             description: [
@@ -1111,7 +1110,7 @@ export default {
             title:
                 "Orobanche - Sugal",
             name:
-                "Modelo de control integrado para Phelipanche ramosa en cultivo de tomate industrial en Chile",
+                "Modelo de control integrado para <em>Phelipanche ramosa</em> en cultivo de tomate industrial en Chile",
             date: "Noviembre de 2018  a noviembre de 2020.",
             team: [
                 {
@@ -1122,16 +1121,12 @@ export default {
                             position: "UC Davis Chile ",
                         },
                         {
-                            name: "Juan Carlos Galaz",
-                            position: "UC Davis Chile",
-                        },
-                        {
                             name: "Yaakov Goldwasser",
                             position: "Israel",
                         },
                         {
                             name: "Juan Carlos Galaz",
-                            position: "ingeniero agrónomo, magister de la Universidad de Alberta Canadá. UC Davis Chile.",
+                            position: "Ingeniero agrónomo, magister de la Universidad de Alberta Canadá. UC Davis Chile.",
                         },
                         {
                             name: "Yaakov Goldwasser",
@@ -1143,7 +1138,7 @@ export default {
             customer: ["Sugal Chile Ltda."],
             investment: "CLP $292.000.000",
             description: [
-                "Desde 1982, en Chile existe la Phelipanche ramosa, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y la Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
+                "Desde 1982, en Chile existe la <em>Phelipanche ramosa</em>, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y la Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
                 "Para la empresa Sugal Chile, que administra un total de de 7.500 hectáreas de tomate industrial en la zona central del país, esta maleza es prioritaria en sus programas de manejo del cultivo. Para monitorearla y controlar el efecto de los herbicidas en el suelo y los cultivos, se desarrolló un modelo de control integrado. Adicionalmente, se implementó una herramienta para el registro histórico de los niveles de infestación de los predios de los agricultores que tienen contrato de producción de tomate con Sugal, que sirva como base para la utilización de una herramienta de apoyo a la toma de decisiones con relación al control de la maleza.",
             ],
             how: [
@@ -1256,8 +1251,8 @@ export default {
                 },
             ],
             customer: [
-                "<strong>Primera temporada 2017:</strong><br /> VSPT wine group, Viña Concha y Toro y Universidad de Talca. ",
-                "<strong>Segunda temporada (2018 y 2019):</strong> <br/>VSPT wine group, Universidad de Talca, Viña Santa Rita y Universidad Federico Santa María.",
+                "<strong>Primera temporada 2017:</strong><br /> VSPT Wine Group, Viña Concha y Toro y Universidad de Talca. ",
+                "<strong>Segunda temporada (2018 y 2019):</strong> <br/>VSPT Wine Group, Universidad de Talca, Viña Santa Rita y Universidad Federico Santa María.",
             ],
             investment: "CLP $225.000.000",
             description: [
@@ -1277,7 +1272,7 @@ export default {
                 "Este modelo fue estudiado en conjunto con las tres viñas más grandes del país y durante la temporada 2020 comenzó la etapa de implementación en la bodega de Molina de VSPT Wine Group.",
             ],
             partnership: [
-                "UC Davis California",
+                "UC Davis",
                 "Universidad de Talca ",
                 "Universidad Federico Santa María",
                 "Grupos técnicos de las compañías VSPT Wine Group, Viña Santa Rita y Viña Concha y Toro.",
@@ -1421,11 +1416,11 @@ export default {
                 "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en el uso de la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
             ],
             how: [
-                "Para la ejecución de este proyecto, el equipo científico realizó un muestreo intensivo en plantas cultivadas y endémicas de la zona y se aislaron más de 400 microorganismos, los cuales fueron caracterizados en base a sus propiedades benéficas para agricultura (bioestimulantes y biocontroladores). Mediante la ejecución de diversas pruebas de laboratorio, tanto cualitativas como cuantitativas, se acotó la lista de microorganismos de acuerdo a ciertos parámetros muy específicos hasta llegar a una bacteria identificada como Pseudomonas lini cepa S57, la cual a nivel de laboratorio cumple con los requisitos para desarrollar un bioestimulante y biofungicida funcional para la Región de Arica y Parinacota. Se optimizó el crecimiento de la bacteria para favorecer su masa celular empleando metodologías de escalamiento en biorreactor. Asimismo, se trabajó en la generación y prueba de distinto tipo de formulaciones líquidas, polvos mojables y granulares, las que se están evaluando para la validación de resultados en invernaderos de la Universidad de Tarapacá. ",
+                "Para la ejecución de este proyecto, el equipo científico realizó un muestreo intensivo en plantas cultivadas y endémicas de la zona y se aislaron más de 400 microorganismos, los cuales fueron caracterizados en base a sus propiedades benéficas para agricultura (bioestimulantes y biocontroladores). Mediante la ejecución de diversas pruebas de laboratorio, tanto cualitativas como cuantitativas, se acotó la lista de microorganismos de acuerdo a ciertos parámetros muy específicos hasta llegar a una bacteria identificada como <em>Pseudomona lini cepa S57</em>, la cual a nivel de laboratorio cumple con los requisitos para desarrollar un bioestimulante y biofungicida funcional para la Región de Arica y Parinacota. Se optimizó el crecimiento de la bacteria para favorecer su masa celular empleando metodologías de escalamiento en biorreactor. Asimismo, se trabajó en la generación y prueba de distinto tipo de formulaciones líquidas, polvos mojables y granulares, las que se están evaluando para la validación de resultados en invernaderos de la Universidad de Tarapacá. ",
             ],
             value: [
                 "En este estudio, se inició el desarrollo de un bioproducto agrícola compatible con las condiciones salino-bóricas de la Región de Arica y Parinacota, las cuales limitan el uso de otros bioproductos comerciales disponibles en la zona. Este nuevo bioproducto está compuesto por una formulación que contiene la bacteria <em>Pseudomonas lini</em> cepa S57 obtenida de plantas cultivadas en el antiplano, y posee actividades estimulantes de crecimiento vegetal y biofungicida contra algunas enfermedades como Botrytis. Estas dos funcionalidades dieron origen a 2 patentes que fueron solicitadas al instituto de propiedad intelectual (INAPI). Hasta ahora, la bacteria <em>P. lini</em> cepa S57 se ha formulado en preparaciones líquidas y granulares, cuyas propiedades están en evaluación y validación en campo.",
-                "La bacteria mencionada, como ya se mencionó, es parte de una colección de recursos genéticos microbianos aislados en la Región de Arica y Parinacota y que cuenta con una variedad de microorganismos de zonas extremófilas caracterizados parcialmente de acuerdo a sus funcionalidades para la agricultura. La colección posee más de 400 microorganismos con un inmenso potencial biotecnológico que se espera poder ponerlo al servicio de la academia para investigación, industria agrícola, farmacéutica, alimentaria y otras para su explotación y beneficio de la sociedad.",
+                "La bacteria mencionada, es parte de una colección de recursos genéticos microbianos aislados en la Región de Arica y Parinacota y que cuenta con una variedad de microorganismos de zonas extremófilas caracterizados parcialmente de acuerdo a sus funcionalidades para la agricultura. La colección posee más de 400 microorganismos con un inmenso potencial biotecnológico que se espera poder ponerlo al servicio de la academia para investigación, industria agrícola, farmacéutica, alimentaria y otras para su explotación y beneficio de la sociedad.",
             ],
             partnership: [
                 "Laboratorio de Patología Vegetal y Bioproductos de la Facultad de Ciencias Agronómicas de la Universidad de Tarapacá. ",
@@ -1452,7 +1447,7 @@ export default {
                         },
                         {
                             name: "Daniele Zaccaria",
-                            position: "UC Davis California, Investigador Principal, Ph.D. Civil and Environmental Engineering. Especialista en Manejo del Agua Cooperative Extension UC Davis, California.",
+                            position: "UC Davis, Investigador Principal, Ph.D. Civil and Environmental Engineering. Especialista en Manejo del Agua Cooperative Extension UC Davis, California.",
                         },
                         {
                             name: "Alejandra Acuña",
@@ -1487,7 +1482,7 @@ export default {
             partnership: [
                 "Viña San Pedro, Pencahue ",
                 "Pontificia Universidad Católica de Valparaíso ",
-                "UC Davis California",
+                "UC Davis",
             ],
         },
         {
@@ -1582,7 +1577,7 @@ export default {
                             position: "PI, Universidad Andrés Bello. Bioquímico y Dr. en Bioquímica Universidad de Chile.",
                         },
                         {
-                            name: "Alvaro Castro",
+                            name: "Álvaro Castro",
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico de la Universidad de Chile y doctorado en Biotecnología de la Universidad de Santiago. ",
                         },
                         {
@@ -1606,7 +1601,7 @@ export default {
             ],
             customer: [
                 "Viña Concha y Toro",
-                "VSPT wine group.",
+                "VSPT Wine Group.",
             ],
             investment: "USD $500.000",
             description: [
@@ -1629,7 +1624,7 @@ export default {
                 "A partir del trabajo de cultivo de placas por parte de los investigadores de la Universidad de Talca, fue reportada por primera vez la presencia de <em>Eutypa lata</em> este hongo fitopatógeno es catalogado, desde la década del 70, como uno de los más letales para la vid y actualmente en Estados Unidos, específicamente en toda el área de California, los daños que causa son sumamente importantes, al igual que en viñedos de Australia, Sudáfrica y Europa.",
             ],
             partnership: [
-                "UC Davis (mencionar el área o laboratorio de UC Davis California)",
+                "UC Davis",
                 "Universidad Andrés Bello ",
                 "Universidad de Talca",
                 "Grupos técnicos de Concha y Toro y Viña San Pedro.",

@@ -70,7 +70,7 @@ export default {
       {
         id: 101,
         date: "2008",
-        description: "Acuerdo UC/Chile California",
+        description: "Acuerdo Chile – California",
       },
       {
         id: 102,
