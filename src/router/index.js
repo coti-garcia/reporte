@@ -62,7 +62,7 @@ export const routes = [
                 // component: Home,
             },
             {
-                path: '/reporteUCDavisChile/',
+                path: '/reporte/',
                 name: 'Reporte',
                 // component: Home,
             }
