@@ -51,7 +51,7 @@ export default {
       {
         id: "publication-3",
         authors:
-          "Mauricio A. Lolas, Alvaro Castro, Rubén Polanco, Felipe Gainza-Cortés, Enrique Ferrada, Mark R. Sosnowski, and Gonzalo A. Díaz. ",
+          "Mauricio A. Lolas, Álvaro Castro, Rubén Polanco, Felipe Gainza-Cortés, Enrique Ferrada, Mark R. Sosnowski, and Gonzalo A. Díaz.",
         title:
           "First Report of Eutypa lata Causing Dieback of Grapevines (Vitis vinifera) in Chile.",
         other: "Disease Notes",
@@ -60,7 +60,7 @@ export default {
       {
         id: "publication-4",
         authors:
-          "Andrea Minio, Mélanie Massonnet, Rosa Figueroa-Balderas, Alvaro Castro, Dario Cantu. ",
+          "Andrea Minio, Mélanie Massonnet, Rosa Figueroa-Balderas, Álvaro Castro, Darío Cantu. ",
         title: "Diploid Genome Assembly of the Wine Grape Carménère.",
         other: "G3",
         link: "https://www.g3journal.org/content/9/5/1331.abstract",
@@ -77,7 +77,7 @@ export default {
       {
         id: "publication-6",
         authors:
-          "Isidora Silva-Valderrama, Diana Toapanta, Maria de los Angeles Miccono, Gonzalo Diaz, Mauricio Lolas, Dario Cantu, Alvaro Castro. ",
+          "Isidora Silva-Valderrama, Diana Toapanta, María de los Ángeles Miccono, Gonzalo Díaz, Mauricio Lolas, Darío Cantu, Álvaro Castro. ",
         title:
           "Biocontrol potential of grapevine endophytes against grapevine trunk pathogens. ",
         other: "bioRxiv",

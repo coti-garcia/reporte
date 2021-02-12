@@ -38,7 +38,7 @@ export default {
       {
         id: "2001",
         date: "8/1/2020",
-        title: "Fertil en microorganismos ",
+        title: "Fértil en microorganismos ",
         media: "Revista Mundo Agro",
         link: "https://www.mundoagro.cl/revistas/129/56/",
       },
@@ -52,7 +52,7 @@ export default {
       {
         id: "2003",
         date: "07-06-2020",
-        title: "Eytypa lata y su primer hallazgo en vides chilenas ",
+        title: "Eutypa lata y su primer hallazgo en vides chilenas ",
         media: "Revista Red Agrícola",
         link:
           "https://www.redagricola.com/cl/eutypa-lata-y-su-primer-hallazgo-en-vides-chilenas/#:~:text=Investigadores%20de%20la%20Universidad%20de,en%20casi%20todo%20el%20mundo.",
@@ -83,7 +83,7 @@ export default {
       {
         id: "2007",
         date: "01/01/2020",
-        title: "Preparción versus reacción",
+        title: "Preparación versus reacción",
         media: "Revista Mundo Agro",
         link: "https://www.mundoagro.cl/revistas/122/62/",
       },
@@ -104,14 +104,14 @@ export default {
       {
         id: "2010",
         date: "01/07/2019",
-        title: "Con caliad objetiva",
+        title: "Con calidad objetiva",
         media: "Revista Mundo Agro",
         link: "https://www.mundoagro.cl/revistas/116/50/",
       },
       {
         id: "2011",
         date: "01/07/2019",
-        title: "Cambio climátivo y objetivo",
+        title: "Cambio climático y objetivo",
         media: "Revista Mundo Agro",
         link: "Revista Mundo Agro",
       },
@@ -139,7 +139,7 @@ export default {
       {
         id: "2015",
         date: "01/10/2019",
-        title: "Extensión l estilo californiano",
+        title: "Extensión al estilo californiano",
         media: "Revista Mundo Agro",
         link: "https://www.mundoagro.cl/revistas/119/52/",
       },

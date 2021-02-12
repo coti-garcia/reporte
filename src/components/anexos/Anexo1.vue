@@ -48,7 +48,7 @@ export default {
             unit: "Food Science and Technology Department",
             name: "Bruce German Ph.D. ",
             position:
-              "Professor and Chemist Department Food science and Technology Director, Foods For Health Institute",
+              "Professor and Chemist Department Food Science and Technology Director, Foods For Health Institute",
           },
           {
             id: "staff-3",
@@ -62,7 +62,7 @@ export default {
             unit: "Food Science and Technology Department",
             name: "Edward (Ned) Spang Ph.D.",
             position:
-              "Food science and Technology; Faculty lead Food Loss and Waste Collaborative",
+              "Food Science and Technology; Faculty lead Food Loss and Waste Collaborative",
           },
           {
             id: "staff-5",
@@ -83,7 +83,7 @@ export default {
             unit: "Human Ecology Department",
             name: "David de la Peña Ph.D.  ",
             position:
-              "Program Director Landscape Architecture + Environmental Design; Human Ecology Department, College of agricultural & environmental Sciences",
+              "Program Director Landscape Architecture + Environmental Design; Human Ecology Department, College of Agricultural & Environmental Sciences",
           },
           {
             id: "staff-8",
@@ -111,7 +111,7 @@ export default {
             unit: "Land, air and water resources Department",
             name: "Sam Sandoval, Ph.D.",
             position:
-              "Associate Professor Departament of Land, air and water resources; Cooperative Extension Specialist in Water Management",
+              "Associate Professor Departament of Land, Air and Water Resources; Cooperative Extension Specialist in Water Management",
           },
           {
             id: "staff-12",
@@ -277,7 +277,7 @@ export default {
           },
           {
             id: "staff-402",
-            unit: "Teacher Education and preparation",
+            unit: "Teacher Education and Preparation",
             name: "Margarita Jiménez-Silva Ph.D.",
             position:
               "Associate Professor and Director of Teacher Education, School of Education, UC Davis",
@@ -299,7 +299,7 @@ export default {
               "School of Veterinary Medicine & One Health Institute in Veterinary Medicine",
             name: "Woutrina Smith, Ph.D.",
             position:
-              "Professor Medicine & Epidemiology, veterinary medicine. Associate Director, One Health Institute Veterinary Medicine; School of Veterinary Medicine",
+              "Professor Medicine & Epidemiology, Veterinary Medicine. Associate Director, One Health Institute Veterinary Medicine; School of Veterinary Medicine",
           },
           {
             id: "staff-503",

@@ -39,20 +39,20 @@ export default {
       {
         id: "tesis-1",
         authors: "Richard Bustos y Wladimir Esteban",
-        type: "Tesis de Magister",
+        type: "Tesis de Magíster",
         title:
           "EVALUACIÓN DEL MÉTODO DE RENOVACIÓN SUPERFICIAL PARA ESTIMAR FLUJOS DE CALOR LATENTE SOBRE UN VIÑEDO (cv. Cabernet sauvignon) REGADO POR GOTEO",
-        grade: "Magister en hortofruticultura",
+        grade: "Magíster en hortofruticultura",
         other: "Asociados a proyecto “Surface renewal”",
         path: "surface-renewal",
       },
       {
         id: "tesis-2",
         authors: "Felipe Sáez",
-        type: "Tesis de Magister",
+        type: "Tesis de Magíster",
         title:
           "Desarrollo de un método de detección de Botryosphaeriaceae asociadas a la enfermedad de la madera de Vitis vinifera basado en PCR isotérmico",
-        grade: "Magister en Biotecnología",
+        grade: "Magíster en Biotecnología",
         other:
           "Asociado a proyecto “Microbial diagnostics using Omic-Based Technologies”",
         path: "diagnistico-lamp",

@@ -23,7 +23,7 @@ export default {
       },
       {
         id: "1002",
-        name: "Alvaro Gonzalo Castro Oyarzun",
+        name: "Álvaro Gonzalo Castro Oyarzún",
         grade: "PhD",
       },
       {
@@ -43,7 +43,7 @@ export default {
       },
       {
         id: "1006",
-        name: "Catalina Belen Pavez Reyes",
+        name: "Catalina Belén Pavez Reyes",
         grade: "Master",
       },
       {
@@ -73,12 +73,12 @@ export default {
       },
       {
         id: "1012",
-        name: "Daniela Quiroz Larrain",
+        name: "Daniela Quiroz Larraín",
         grade: "Master",
       },
       {
         id: "1013",
-        name: "David Ignacio Bravo Avila",
+        name: "David Ignacio Bravo Ávila",
         grade: "Profesional",
       },
       {
@@ -113,7 +113,7 @@ export default {
       },
       {
         id: "1020",
-        name: "Felipe Esteban Sáez Cortez.",
+        name: "Felipe Esteban Sáez Cortez",
         grade: "Master",
       },
       {
@@ -128,7 +128,7 @@ export default {
       },
       {
         id: "1023",
-        name: "Freddy Boehmwald Thieleman",
+        name: "Freddy Boehmwald Thilemann",
         grade: "PhD",
       },
       {
@@ -138,7 +138,7 @@ export default {
       },
       {
         id: "1025",
-        name: "Gustavo Adolfo Garay Palma ",
+        name: "Gustavo Adolfo Garay Palma",
         grade: "Master",
       },
       {
@@ -153,7 +153,7 @@ export default {
       },
       {
         id: "1028",
-        name: "Jaime Alarcón Soto ",
+        name: "Jaime Alarcón Soto",
         grade: "PhD (c)",
       },
       {
@@ -173,7 +173,7 @@ export default {
       },
       {
         id: "1032",
-        name: "Javier Sebastian Navarrete Muñoz",
+        name: "Javier Sebastián Navarrete Muñoz",
         grade: "PhD",
       },
       {
@@ -193,7 +193,7 @@ export default {
       },
       {
         id: "1036",
-        name: "Katterinne Mendez Carrasco ",
+        name: "Katterinne Mendez Carrasco",
         grade: "Profesional",
       },
       {
@@ -208,7 +208,7 @@ export default {
       },
       {
         id: "1039",
-        name: "Mabel Arismendi  Macuer ",
+        name: "Mabel Arismendi  Macuer",
         grade: "Profesional",
       },
       {
@@ -218,17 +218,17 @@ export default {
       },
       {
         id: "1041",
-        name: "Marcelo Alberto Castro Marchant ",
+        name: "Marcelo Alberto Castro Marchant",
         grade: "Técnico",
       },
       {
         id: "1042",
-        name: "Marcelo Herrera ",
+        name: "Marcelo Herrera",
         grade: "Profesional",
       },
       {
         id: "1043",
-        name: "María de Los Angeles Miccono",
+        name: "María de los Ángeles Miccono",
         grade: "Master",
       },
       {
@@ -243,12 +243,12 @@ export default {
       },
       {
         id: "1046",
-        name: "Maribel Rojas Arroyo ",
+        name: "Maribel Rojas Arroyo",
         grade: "Master",
       },
       {
         id: "1047",
-        name: "Matias Agustin Garib Andrighetti",
+        name: "Matías Agustín Garib Andrighetti",
         grade: "Profesional",
       },
       {
@@ -263,22 +263,22 @@ export default {
       },
       {
         id: "1050",
-        name: "Mónica Desireé Rodriguez Campos",
+        name: "Mónica Desireé Rodríguez Campos",
         grade: "Master",
       },
       {
         id: "1051",
-        name: "Natalia Díaz Furmento ",
+        name: "Natalia Díaz Furmento",
         grade: "Master",
       },
       {
         id: "1052",
-        name: "Olivia Valdés Piñera ",
+        name: "Olivia Valdés Piñera",
         grade: "Profesional",
       },
       {
         id: "1053",
-        name: "Pablo Andres Chicurel Correa",
+        name: "Pablo Andrés Chicurel Correa",
         grade: "Profesional",
       },
       {
@@ -298,12 +298,12 @@ export default {
       },
       {
         id: "1057",
-        name: "Patricio Román San Pedro ",
+        name: "Patricio Román San Pedro",
         grade: "Master",
       },
       {
         id: "1058",
-        name: "Pedro Izquierdo Huneeus ",
+        name: "Pedro Izquierdo Huneeus",
         grade: "Profesional",
       },
       {
@@ -318,7 +318,7 @@ export default {
       },
       {
         id: "1061",
-        name: "Rodrigo Antonio Riquelme Hormazabal",
+        name: "Rodrigo Antonio Riquelme Hormazábal",
         grade: "Profesional",
       },
       {
@@ -368,7 +368,7 @@ export default {
       },
       {
         id: "1071",
-        name: "Gonzalo Javier Hernández Oliva ",
+        name: "Gonzalo Javier Hernández Oliva",
         grade: "Técnico",
       },
     ],

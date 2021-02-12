@@ -38,7 +38,7 @@
       <div class="col-12 col-md-9 description">
         Producto y mecanismo como bioestimulante basado en la bacteria
         <em>Pseudomonas lini</em> cepa S57 (Depósito CChRGM 2930) para uso
-        agrícola en ambientes salino-bóricos. El producto actúa como promotora
+        agrícola en ambientes salino-bóricos. El producto actúa como promotor
         del crecimiento vegetal, produciendo auxinas y sideróforos, fijando
         nitrógeno y permitiendo la solubilización de fosfatos, además de
         estimular el crecimiento de la parte aérea de plantas. Patente ad-portas

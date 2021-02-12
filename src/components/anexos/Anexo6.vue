@@ -102,7 +102,7 @@ export default {
             id: "13",
             focus: "I&E",
             area: "Water",
-            name: "Irrigation Extension in BioBio",
+            name: "Irrigation Extension in BioBío",
           },
           {
             id: "14",
@@ -263,13 +263,13 @@ export default {
             id: "39",
             focus: "I&E",
             area: "Enology",
-            name: "Vitiviniculture Extension in Araucania",
+            name: "Vitiviniculture Extension in Araucanía",
           },
           {
             id: "40",
             focus: "I&E",
             area: "Environment",
-            name: "Chile Lagos Limpios Innitiative",
+            name: "Chile Lagos Limpios Initiative",
           },
           {
             id: "41",
