@@ -68,7 +68,7 @@ export default {
                             position: "",
                         },
                         {
-                            name: "Richard Bastias",
+                            name: "Richard Bastías",
                             position: "(UdeC)",
                         },
                         {
@@ -81,8 +81,8 @@ export default {
             customer: ["Inchalam S.A."],
             investment: "CLP $288.400.000",
             description: [
-                "La fruticultura nacional ha incorporado gradualmente tecnologías para ser competitiva a nivel internacional y responder a las preferencias de consumo. Con ello, han incorporado nuevos sistemas productivos en que las operaciones se realizan en huertos de alta densidad de plantación, con árboles que provienen de patrones enanizantes que permiten huertos peatonales y homogéneos, entre otros. Es así como los sistemas de conducción en frutales se han ido sofisticando y, dependiendo de su vigor, se han introducido nuevas estructuras (trellis system) que utilizan alambre y que permiten tanto conducir y dar forma al frutal, como en entregar un soporte adicional ante eventos externos cuando se encuentran en plena producción.",
-                "Sumado a estos desafíos, el cambio y variabilidad climática ha permitido el uso de cubiertas o techos que minimizan los efectos y condiciones extremas, extendiendo la fruticultura a otras locaciones, en condiciones de suelo y clima más complejos, pero que permiten aprovechar una ventana comercial mayor.",
+                "La fruticultura nacional ha incorporado gradualmente tecnologías para ser competitiva a nivel internacional y responder a las preferencias de consumo. Con ello, han incorporado nuevos sistemas productivos en que las operaciones se realizan en huertos de alta densidad de plantación, con árboles que provienen de patrones enanizantes que permiten huertos peatonales y homogéneos, entre otros. Es así como los sistemas de conducción en frutales se han ido sofisticando y, dependiendo de su vigor, se han introducido nuevas estructuras (trellis system) que utilizan alambre y que permiten tanto conducir y dar forma al frutal, como entregar un soporte adicional ante eventos externos cuando se encuentran en plena producción.",
+                "Sumado a estos desafíos, el cambio y variabilidad climática han permitido el uso de cubiertas o techos que minimizan los efectos y condiciones extremas, extendiendo la fruticultura a otras locaciones, en condiciones de suelo y clima más complejos, pero que permiten aprovechar una ventana comercial mayor.",
                 "Ante este escenario, los diferentes actores, entre los que destacan los proveedores de servicios e insumos asociados al establecimiento de estos nuevos huertos, han pasado desde un esquema prueba y error a la incorporación de criterios técnicos que permitan cumplir las expectativas en calidad y funcionalidad.",
                 "Desde esta perspectiva, la compañía buscó identificar, definir e implementar un enfoque más cercano a los clientes y usuarios finales, que permita entender sus necesidades en el uso de estas estructuras y en la entrega de conocimiento y tecnologías con las cuales responder a las exigencias actuales y futuras de los agricultores.",
             ],
@@ -92,7 +92,7 @@ export default {
                   <ul>
                   <li>Identificación de las tecnologías claves y habilitantes en frutales priorizados.</li>
                   <li>Construcción de una hoja de ruta para la compañía.</li>
-                  <li>Gira tecnológica a EE. UU. para conocer los entornos de innovación de los estados de California, Oregon y Washington.</li>
+                  <li>Gira tecnológica a EE.UU. para conocer los entornos de innovación de los estados de California, Oregon y Washington.</li>
                   <li>Construcción y ejecución de un programa de extensión y difusión.</li>
                   </ul> `,
             ],
@@ -181,12 +181,12 @@ export default {
             ],
             value: [
                 "Hubo un avance científico significativo en la búsqueda e identificación de potenciales agentes causales del DFA, problema que está presente en toda la distribución forestal natural de este árbol en nuestro país.",
-                "También, se creó una colección de microorganismos pública y disponible a la comunidad científica (depositada en INIA) con microorganismos patogénicos asociados a A. araucana y se logró respaldar con datos más robustos la diferenciación genética entre poblaciones de A. araucana de la cordillera de Costa (Nahuelbuta) y la cordillera de los Andes. Estos resultados ayudarán a mejorar el diseño de programas de manejo y conservación. ",
+                "También se creó una colección de microorganismos pública y disponible a la comunidad científica (depositada en INIA) con microorganismos patogénicos asociados a A. araucana y se logró respaldar con datos más robustos la diferenciación genética entre poblaciones de A. araucana de la cordillera de Costa (Nahuelbuta) y la cordillera de los Andes. Estos resultados ayudarán a mejorar el diseño de programas de manejo y conservación. ",
             ],
             partnership: [
                 "Universidad Andrés Bello",
                 "Fundación Mar Adentro – Bosque Pehuén.",
-                "Comunidades región del Biobío: Trapatrapa, Pitril, Callaqui, Alto Bíobío/Villa Ralco, Ralco, El Barco, Ralco Lepoy.",
+                "Comunidades Región del Biobío: Trapatrapa, Pitril, Callaqui, Alto Bíobío/Villa Ralco, Ralco, El Barco, Ralco Lepoy.",
                 "Comunidades Región de La Araucanía: Reigolil, Epeukura, Curarrehue Centro, Catripulli (Loncofilo), Puesco. ",
                 "Vivero forestal de CONAF, Curacautín, Región de La Araucanía.",
             ],
@@ -290,7 +290,7 @@ export default {
                             position: "Technician, UC Davis Chile. Ingeniero en Biotecnología de la Universidad Tecnológica Inacap y magíster en Gestión y emprendimiento de la Universidad Adolfo Ibáñez. ",
                         },
                         {
-                            name: "Catalina Pavéz",
+                            name: "Catalina Pavez",
                             position: "Researcher, UC Davis Chile, Ingeniero y magíster en Biotecnología de la Universidad Andrés bello.",
                         },
                         {
@@ -304,7 +304,7 @@ export default {
             investment: "CPL $19.400.000",
             description: [
                 "La agricultura en suelos de origen volcánico se basa en un uso excesivo, exclusivo e ineficiente de fertilizantes sintéticos producidos de fuentes no renovables y/o mediante procesos de una gran huella de carbono, por lo que un producto de origen biológico es una gran alternativa. ",
-                "Este tipo de suelos presentan como característica la baja disponibilidad de fósforo y pH ácidos, para lo cual, se utilizan enmiendas de cal agrícola. Por este motivo, Cal Austral decidió generar un bioproducto que complemente el que utilizan actualmente. Así surgieron BioCal y BioCal Plus. ",
+                "Este tipo de suelos presenta como característica la baja disponibilidad de fósforo y pH ácidos, para lo cual, se utilizan enmiendas de cal agrícola. Por este motivo, Cal Austral decidió generar un bioproducto que complemente el que utilizan actualmente. Así surgieron BioCal y BioCal Plus. ",
                 "Para ello, se realizó un estudio de línea base para un futuro desarrollo, el que consistió en una descripción fisicoquímica del proceso actual de producción de cal y de algunos desechos de la producción de mitílidos en la isla de Chiloé, y el aislamiento de microorganismos nativos de suelos de la Región de Los Lagos de Chile, además de su caracterización funcional en relación con la solubilización de fosfatos. ",
             ],
             how: [
@@ -446,20 +446,20 @@ export default {
             customer: ["CORFO"],
             investment: "CLP $1.172.505.874",
             description: [
-                "Los valles de Tutuvén, Itata, Biobío y Malleco, ubicados en las regiones de Maule, Ñuble, Biobío y Araucanía respectivamente, son los productores de uva y vinos más antiguos de Latinoamérica. En ellos se encuentran las variedades tradicionales Cinsault, Carignan, País y Moscatel de Alejandría, entre otras.  Estos territorios han quedado rezagados, perdiendo competitividad respecto a otros valles, donde predominan fundamentalmente variedades finas europeas de uva.",
+                "Los valles de Tutuvén, Itata, Biobío y Malleco, ubicados en las regiones de Maule, Ñuble, Biobío y Araucanía, respectivamente, son los productores de uva y vinos más antiguos de Latinoamérica. En ellos se encuentran las variedades tradicionales Cinsault, Carignan, País y Moscatel de Alejandría, entre otras.  Estos territorios han quedado rezagados, perdiendo competitividad respecto a otros valles, donde predominan fundamentalmente variedades finas europeas de uva.",
                 "Para mejorar la calidad y distribución del vino producido por las pymes de la zona, se creó el CEVS, organismo articulador entre el sector privado, el público e investigadores. Su objetivo era ofrecer servicios de diagnóstico y asistencia técnica a las empresas para adquirir conocimientos, prácticas y tecnologías para mejorar sus procesos productivos y capacidad de innovar. ",
             ],
             how: [
-                "El CEVS, tomó las mejores prácticas del sistema de Extensión Cooperativa de la Universidad de California, UC Cooperative Extension, que constituye una red de investigadores, académicos y asesores, con oficinas en distintos condados de California, las cuales operan como centros de resolución de problemas, representando un puente entre los problemas locales y el poder de la investigación de la Universidad de California (UC).",
-                "Así fue que se abordaron las principales brechas identificadas inicialmente en el sector vitivinícola del territorio. Para ello, se desarrollaron 192 servicios diagnósticos, con el objetivo de conocer la condición productiva, tecnológica, de gestión y comercialización inicial de los productores, definiendo en conjunto con ellos cuáles son eran las brechas prioritarias en su sistema productivo. ",
-                "También, se llevaron a cabo 448 servicios de asistencia técnica individual, involucrando la generación e implementación de un plan de trabajo en conjunto con las empresas y su seguimiento a lo largo de la temporada productiva. Los servicios de asistencia más solicitados fueron el manejo enológico y de viñedo, con un 39% y 32% respectivamente.",
+                "El CEVS tomó las mejores prácticas del sistema de Extensión Cooperativa de la Universidad de California, UC Cooperative Extension, que constituye una red de investigadores, académicos y asesores, con oficinas en distintos condados de California, las cuales operan como centros de resolución de problemas, representando un puente entre los problemas locales y el poder de la investigación de la Universidad de California (UC).",
+                "Así fue que se abordaron las principales brechas identificadas inicialmente en el sector vitivinícola del territorio. Para ello, se desarrollaron 192 servicios diagnósticos, con el objetivo de conocer la condición productiva, tecnológica, de gestión y comercialización inicial de los productores, definiendo en conjunto con ellos cuáles eran las brechas prioritarias en su sistema productivo. ",
+                "También se llevaron a cabo 448 servicios de asistencia técnica individual, involucrando la generación e implementación de un plan de trabajo en conjunto con las empresas y su seguimiento a lo largo de la temporada productiva. Los servicios de asistencia más solicitados fueron el manejo enológico y de viñedo, con un 39% y 32%, respectivamente.",
                 "El otro tipo de servicio entregado por el Centro fue el de difusión y formación tecnológica. Se realizaron un total de 60 actividades: 25 talleres y charlas técnicas, dos cursos, nueve seminarios nacionales e internacionales y 24 reuniones, presentaciones, giras. También se desarrollaron diversos materiales de extensión como fichas técnicas, newsletter y videos.",
             ],
             value: [
                 "El CEVS contribuyó a fortalecer el ecosistema de extensión regional. Hasta ese momento, no existía una estructura formal que articulara y coordinara el accionar de los actores del sistema, por lo que los esfuerzos eran individuales, de corto alcance y, en ocasiones, duplicados.",
-                "Otras contribuciones  del CEVS fueron el apoyo a la formalización de las pymes y la vinculación entre la ciencia y la empresa, ya que el modelo de trabajo del CEVS, buscó entregar las condiciones para realizar investigación aplicada e innovación, basada en problemas reales y con validación en terreno. ",
+                "Otras contribuciones del CEVS fueron el apoyo a la formalización de las pymes y la vinculación entre la ciencia y la empresa, ya que el modelo de trabajo del CEVS, buscó entregar las condiciones para realizar investigación aplicada e innovación, basada en problemas reales y con validación en terreno. ",
                 "Entre los indicadores que dan cuenta del aporte del trabajo realizado, se destaca que el 94% de los productores atendidos mejoró la calidad física y organoléptica de sus vinos, el 54% incrementó los rendimientos de uva, el 8% adquirió equipamiento y maquinaria, y el 21% incrementó sus ventas totales. Esto se debe fundamentalmente al aumento de vinos envasados, destinados a mercados de mayor valor.",
-                "De acuerdo a los registros del CEVS, el 81% de las empresas atendidas logró aumentar sus ventas por sobre el 10%. El 60% de estas declaró haber disminuido sus costos productivos y el 68% haber aumentado su producción. Además, el 60% de estas empresas, logró mantener o aumentar el empleo.",
+                "De acuerdo a los registros del CEVS, el 81% de las empresas atendidas logró aumentar sus ventas por sobre el 10%. El 60% de estas declaró haber disminuido sus costos productivos y el 68% haber aumentado su producción. Además, el 60% de estas empresas logró mantener o aumentar el empleo.",
                 "En términos de la comercialización del vino, cuando las empresas fueron diagnosticadas por el CEVS, el 84% del vino producido se destinaba mayormente a venta a granel, principalmente a empresas envasadoras de la zona o a grandes viñas de la zona central. Luego de los servicios de extensión ofrecidos por el CEVS, las empresas han logrado comercializar el 38% de sus vinos envasados, principalmente en formato de vidrio (750cc), en mercados orientados al segmento Horeca, nacional e internacional, incrementando así su nivel de ventas.",
             ],
             partnership: [
@@ -520,11 +520,11 @@ export default {
             ],
             investment: "CLP $158.780.955",
             description: [
-                "Los lagos de la Patagonia son una fuente de biodiversidad y una plataforma única en cuanto al desarrollo económico y social en Chile. Chile Lagos Limpios (ChLL) fue creada en 2018 para proteger este ecosistema aplicando la ciencia, la educación y las mejores prácticas para preservarlo. Para ello, nació la alianza con UC Davis Chile, que trajo la experiencia del Tahoe Environmental Research Center (TERC), que trabaja en Lake Tahoe, en California, EE. UU. ",
+                "Los lagos de la Patagonia son una fuente de biodiversidad y una plataforma única en cuanto al desarrollo económico y social en Chile. Chile Lagos Limpios (ChLL) fue creada en 2018 para proteger este ecosistema aplicando la ciencia, la educación y las mejores prácticas para preservarlo. Para ello, nació la alianza con UC Davis Chile, que trajo la experiencia del Tahoe Environmental Research Center (TERC), que trabaja en Lake Tahoe, en California, EE.UU. ",
                 "Hoy el proyecto está monitoreando los lagos Ranco y Panguipulli, basándose en la experiencia de TERC en Lake Tahoe y Clear Lake en el marco de un fondo adjudicado para desarrollar un proyecto de colaboración académica entre UC Davis y el Centro de Desarrollo Local de la PUC en Villarrica.",
             ],
             how: [
-                "El modelo de gestión del TERC y la información generada en sus investigaciones, fueron la base para crear el marco de trabajo. Entre las herramientas utilizadas está un modelo predictivo que permite analizar cuantitativamente la calidad del agua de los lagos. Con esta técnica, es posible delinear escenarios futuros adaptados al desarrollo económico y el cambio climático.",
+                "El modelo de gestión del TERC y la información generada en sus investigaciones fueron la base para crear el marco de trabajo. Entre las herramientas utilizadas está un modelo predictivo que permite analizar cuantitativamente la calidad del agua de los lagos. Con esta técnica es posible delinear escenarios futuros adaptados al desarrollo económico y el cambio climático.",
                 "Actualmente se están monitoreando los lagos Ranco y Panguipulli, con planes de expansión a Llanquihue, y se están realizando las primeras modelaciones del lago Ranco en el Tahoe Environmental Research Center. Se espera tener el modelo calibrado y funcionando a finales de 2020. Con esto se podrán prever escenarios de movimiento de contaminantes y su impacto en el lago.",
             ],
             value: [
@@ -609,7 +609,7 @@ export default {
             investment: "CLP $151.325.000",
             description: [
                 "El proyecto CIMHi es una plataforma web de hidrometría superficial y subterránea del río Aconcagua. Su desarrollo está basado en un modelo de trabajo colaborativo en el que participan profesionales de distintas organizaciones y que persigue aunar voluntades en torno a la gestión conjunta del recurso hídrico de la cuenca del río Aconcagua.",
-                "Con el objetivo de disminuir las asimetrías de información y extender el conocimiento hacia los usuarios, la plataforma web entrega información en línea de 60 estaciones de medición con datos fluviométricos y meteorológicos, incluyendo rutas de nieve. Los datos son proporcionados por la Dirección General de Aguas (DGA), Codelco y las juntas de vigilancia de la primera, segunda y tercera sección del río Aconcagua. Próximamente, se incorporarán datos de Esval.",
+                "Con el objetivo de disminuir las asimetrías de información y extender el conocimiento hacia los usuarios, la plataforma web entrega información en línea de 60 estaciones de medición con datos fluviométricos y meteorológicos, incluyendo rutas de nieve. Los datos son proporcionados por la Dirección General de Aguas (DGA), Codelco y las juntas de vigilancia de la primera, segunda y tercera sección del río Aconcagua. Próximamente se incorporarán datos de Esval.",
                 "La plataforma también contempla una amplia biblioteca de reportes, informes y estudios hidrológicos, agrícolas, planificación, económicos, etc., desarrollados en la cuenca del río Aconcagua, a la cual el usuario puede acceder y descargar libremente. ",
                 "Adicionalmente, CIMHi incorpora la simulación de los resultados del Modelo Hidrológico de Planificación de la cuenca del río Aconcagua desarrollado por la DGA. En ella, el usuario puede visualizar la hidrología superficial y subterránea del río desde el año 1950 hasta marzo 2020. Esta información es relevante ya que es el modelo utilizado por la DGA para toma de decisiones y además permite entender mejor la dinámica de la cuenca en distintos escenarios climáticos, demográficos y productivos.",
             ],
@@ -617,7 +617,7 @@ export default {
                 "En la última década, diversos actores y usuarios de agua del río Aconcagua han manifestado su interés en disponer de una plataforma de monitoreo en línea con información representativa de caudales, meteorología, pozos, etc., que ayude a una mejor gestión del recurso hídrico. En este contexto, las juntas de vigilancia de la 1ª, 2ª y 3ª sección en conjunto con la Dirección General de Aguas y UC Davis Chile postularon y a fines de 2018 se ha adjudicaron un proyecto Corfo de Bienes Públicos Estratégicos con el objetivo de desarrollar la <strong>Plataforma Web CIMHi</strong> para fortalecer la gestión sustentable del agua y dar apoyo a la toma de decisiones en la distribución y uso del recurso hídrico. ",
             ],
             value: [
-                `La plataforma CIMHI se ha perfilado desde su origen como un conjunto de herramientas que están disponibles para todos los usuarios de aguas de manera de extender el conocimiento y disminuir las brechas de información, permitiendo con ello apoyar la administración integrada del recurso hídrico y brindando información a los actores que administran y velan por la correcta distribución del recurso. En este contexto, CIMHi aporta:
+                `La plataforma CIMHi se ha perfilado desde su origen como un conjunto de herramientas que están disponibles para todos los usuarios de aguas de manera de extender el conocimiento y disminuir las brechas de información, permitiendo con ello apoyar la administración integrada del recurso hídrico y brindando información a los actores que administran y velan por la correcta distribución del recurso. En este contexto, CIMHi aporta:
                   <ol>
                     <li>Herramientas con información confiable, validada por los usuarios de agua y que colaboren a mejorar la gestión hídrica y la toma de decisiones.</li>
                     <li>Disminuye las asimetrías de información y las incertidumbres en los balances hídricos.</li>
@@ -651,7 +651,7 @@ export default {
                     teamName: "Equipo",
                     members: [
                         {
-                            name: "Dario Cantu",
+                            name: "Darío Cantu",
                             position: "PI, UC Davis. Biólogo de plantas y máster en Ciencias Agrícolas (Milán, Italia, 2004). Ph.D. en Biología Vegetal UC Davis.",
                         },
                         {
@@ -693,7 +693,7 @@ export default {
                 "VSPT Wine Group y Viña Concha y Toro"],
             investment: "USD $896.380",
             description: [//comentarios en amarillo
-                "Un aspecto relevante para asegurar la calidad de los vinos es asegurar la identidad genética de las plantas de vid utilizadas. Este desafío es particularmente complejo al tratar de identificar clones dentro de una variedad, debido a que no existen diferencias observables a simple vista. Con el objetivo de diferenciar entre clones, se desarrolló una serie de marcadores genéticos basados en secuenciación, los cuales permiten una prospección más rápida y de menor costo por planta. Los marcadores desarrollados permiten la identificación de clones específicos dentro de las variedades Cabernet Sauvignon, Sauvignon blanc, Merlot, Chardonnay y Pinot Noir. Además durante el desarrollo de este proyecto se secuenció la variedad Carmener, cepa de carácter icónico para la viticultura chilena.",
+                "Un aspecto relevante para sostener la calidad de los vinos es asegurar la identidad genética de las plantas de vid utilizadas. Este desafío es particularmente complejo al tratar de identificar clones dentro de una variedad, debido a que no existen diferencias observables a simple vista. Con el objetivo de diferenciar entre clones, se desarrolló una serie de marcadores genéticos basados en secuenciación, los cuales permiten una prospección más rápida y de menor costo por planta. Los marcadores desarrollados permiten la identificación de clones específicos dentro de las variedades Cabernet Sauvignon, Sauvignon blanc, Merlot, Chardonnay y Pinot Noir. Además durante el desarrollo de este proyecto se secuenció la variedad Carménére, cepa de carácter icónico para la viticultura chilena.",
             ],
             how: [
                 "Se estableció un grupo técnico en conjunto a las compañías para ajustar el sistema de identificación clonal a sus necesidades.",
@@ -744,7 +744,7 @@ export default {
                             position: "Ingeniero agrónomo de la Universidad de Chile y máster en Agricultura en Economías Rurales de la Universidad de Alberta (Canadá)",
                         },
                         {
-                            name: "Natalia Diaz",
+                            name: "Natalia Díaz",
                             position: "Máster en Economía Agraria de la Universidad Católica de Chile (PUC)",
                         },
                         {
@@ -770,11 +770,11 @@ export default {
                 "Oficina de Estudios y Políticas Agrarias (ODEPA), Ministerio de Agricultura de Chile"],
             investment: "CLP $15.000.000",
             description: [//comentarios en amarillo
-                "La Oficina de Estudios y Políticas Agrarias (ODEPA) del Ministerio de Agricultura, encargó a UC Davis Chile el estudio “Economía Circular en el Sector Agroalimentario Chileno”, con la finalidad de conocer la situación en nuestro país y establecer un benchmark respecto de otros países en que se aplican prácticas productivas sostenibles y respetuosas del ecosistema.",
+                "La Oficina de Estudios y Políticas Agrarias (ODEPA) del Ministerio de Agricultura encargó a UC Davis Chile el estudio “Economía Circular en el Sector Agroalimentario Chileno”, con la finalidad de conocer la situación en nuestro país y establecer un benchmark respecto de otros países en que se aplican prácticas productivas sostenibles y respetuosas del ecosistema.",
                 "El estudio representa una línea base que levanta el estado del arte en el sector, identificando iniciativas de innovación en cinco subsectores del agro y los principales desafíos que enfrentan para promover las estrategias circulares. ",
             ],
             how: [
-                "Se estableció un panel experto internacional con la participación de investigadores de UC Davis y el Instituto para la Gestión Aplicada de Flujos de Materiales (IfaS) de la Universidad de Ciencias Aplicadas de Trier de Alemania. Este panel tuvo el propósito de apoyar en el levantamiento de políticas y programas referentes a nivel internacional, así como también en la validación de recomendaciones finales del estudio. Las regulaciones recientemente implementadas en California, sirvieron como un ejemplo concreto de un entorno regulatorio y normativo que impulsa innovación en torno a la EC.",
+                "Se estableció un panel experto internacional con la participación de investigadores de UC Davis y el Instituto para la Gestión Aplicada de Flujos de Materiales (IfaS) de la Universidad de Ciencias Aplicadas de Trier de Alemania. Este panel tuvo el propósito de apoyar en el levantamiento de políticas y programas referentes a nivel internacional, así como también en la validación de recomendaciones finales del estudio. Las regulaciones recientemente implementadas en California sirvieron como un ejemplo concreto de un entorno regulatorio y normativo que impulsa innovación en torno a la EC.",
                 "A nivel local se conformó un comité estratégico público-privado que apoyó durante el estudio en el levantamiento de antecedentes, retroalimentó el seguimiento de actividades y validó los reportes. Para el levantamiento de antecedentes nacionales se realizaron 25 entrevistas, cinco talleres y dos paneles de trabajo con el comité estratégico.  ",
             ],
             value: [
@@ -819,7 +819,7 @@ export default {
                             position: "Research and Development Coordinator. UC Davis Chile.  Bioquímico y doctorado en Biotecnología.",
                         },
                         {
-                            name: "Dario Cantu",
+                            name: "Darío Cantu",
                             position: "PI, UC Davis. Biólogo de plantas Ph.D. en Biología Vegetal",
                         },
                         {
@@ -878,7 +878,7 @@ export default {
             how: [
                 "Para la ejecución del proyecto, se utilizaron endófitos como antagonistas lo que permite el enfrentamiento con los patógenos en el lugar donde se desarrollan, que es el tejido interno de la planta, siendo una estrategia inédita para el control de estos hongos.",
                 "Se realizaron muestreos en campos de tipo comercial orgánico y tradicional, además de cultivos de vides de 150 años que no habían tenido un manejo de plagas moderno. Esto permitió el biodescubrimiento de una colección de más de 350 hongos presentes en las vides.",
-                "Una selección de ellos, fue evaluada de forma tradicional utilizando cultivos duales en agar papa frente a los principales patógenos que producen estas enfermedades en el país. Dada la necesidad de hacer un puente entre los resultados obtenidos en laboratorio y lo que ocurre en la planta en campo, se establecieron nuevos ensayos, como el cultivo dual en placa con medio de cultivo hecho solo con material anual lignificado de vid, y el uso de material de poda autoclavado y natural como matriz para el antagonismo. Los resultados obtenidos alcanzaron hasta un 100% de efectividad en el control de los patógenos de las enfermedades de la madera en varios casos. Esto estableció un protocolo de evaluación de biocontroladores que permite una mejor predicción de la efectividad en campo del microorganismo utilizando las condiciones y escala de laboratorio.",
+                "Una selección de ellos fue evaluada de forma tradicional utilizando cultivos duales en agar papa frente a los principales patógenos que producen estas enfermedades en el país. Dada la necesidad de hacer un puente entre los resultados obtenidos en laboratorio y lo que ocurre en la planta en campo, se establecieron nuevos ensayos, como el cultivo dual en placa con medio de cultivo hecho solo con material anual lignificado de vid, y el uso de material de poda autoclavado y natural como matriz para el antagonismo. Los resultados obtenidos alcanzaron hasta un 100% de efectividad en el control de los patógenos de las enfermedades de la madera en varios casos. Esto estableció un protocolo de evaluación de biocontroladores que permite una mejor predicción de la efectividad en campo del microorganismo utilizando las condiciones y escala de laboratorio.",
             ],
             value: [
                 "La utilización de hongos que habitan el interior de las vides sin causarles daños para competir con aquellos que han sido identificados como patógenos, constituye una estrategia novedosa para enfrentar un problema que hasta la fecha no tiene medidas efectivas de control.  ",
@@ -940,7 +940,7 @@ export default {
                             position: "i3lab",
                         },
                         {
-                            name: "Mariuxi Lopez",
+                            name: "Mariuxi López",
                             position: "",
                         },
                     ],
@@ -950,8 +950,8 @@ export default {
                 "Escuela Politécnica del Litoral (ESPOL), Guayaquil, Ecuador."],
             investment: "USD $24.900",
             description: [
-                "La ESPOL, principal universidad pública del Ecuador, está en un proceso de mejora institucional que, entre otros asuntos, busca asegurar que sus capacidades de investigación y las de sus centros de estudio y tecnología, se conecten a una dinámica de innovación orientada a los requerimientos del mercado, la industria y los territorios donde irradia su influencia. ",
-                "La universidad encargó a UC Davis Chile evaluar el estado de ese proceso y proponer un modelo gestión, con foco en innovación, para sus centros de investigación. Esta asesoría se centró en una primera etapa en dar lineamiento estratégico y recomendaciones para que el <em>Centro de Investigaciones Biotecnológicas del Ecuador (CIBE)</em>, implemente de manera orgánica procesos y prácticas de innovación en la definición, evaluación y ejecución de sus líneas de investigación, y con ello ser capaz de formular una propuesta de valor diferenciada y ser referente a nivel nacional e internacional, en su ámbito de especialización.",
+                "La ESPOL, principal universidad pública del Ecuador, está en un proceso de mejora institucional que, entre otros asuntos, busca asegurar que sus capacidades de investigación y las de sus centros de estudio y tecnología se conecten a una dinámica de innovación orientada a los requerimientos del mercado, la industria y los territorios donde irradia su influencia. ",
+                "La universidad encargó a UC Davis Chile evaluar el estado de ese proceso y proponer un modelo gestión, con foco en innovación, para sus centros de investigación. Esta asesoría se centró en una primera etapa en dar lineamiento estratégico y recomendaciones para que el <em>Centro de Investigaciones Biotecnológicas del Ecuador (CIBE)</em> implemente de manera orgánica procesos y prácticas de innovación en la definición, evaluación y ejecución de sus líneas de investigación, y con ello ser capaz de formular una propuesta de valor diferenciada y ser referente a nivel nacional e internacional, en su ámbito de especialización.",
                 "En etapas sucesivas, se formularon propuestas de cambios en la estructura de la ESPOL para mejorar su capacidad de gestión estratégica y alineamiento de sus centros de investigación.",
             ],
             how: [
@@ -1014,7 +1014,7 @@ export default {
             customer: ["OEA"],
             investment: "CLP $69.555.381",
             description: [
-                "El HUB de Comercialización y Transferencia de Tecnología para las Amé- ricas es un programa internacional que tiene como objetivo generar vínculos entre organizaciones y capacitar a profesionales en este ámbito.  La quinta versión de esta iniciativa, se desarrolló por primera vez en Chile entre el 27 de agosto y el 7 de septiembre del 2018, y tuvo como sede el Campus RESB de la Universidad del Desarrollo (UDD).",
+                "El HUB de Comercialización y Transferencia de Tecnología para las Américas es un programa internacional que tiene como objetivo generar vínculos entre organizaciones y capacitar a profesionales en este ámbito.  La quinta versión de esta iniciativa se desarrolló por primera vez en Chile entre el 27 de agosto y el 7 de septiembre de 2018, y tuvo como sede el Campus RESB de la Universidad del Desarrollo (UDD).",
                 "Este programa de dos semanas de duración, 90 horas de trabajo práctico y teórico, contó con 37 emprendedores y profesionales (14 chilenos) seleccionados de 12 países miembros de la OEA, los cuales trabajaron con 25 expositores internacionales y 15 nacionales de alto nivel, con experiencia práctica en propiedad intelectual, desarrollo, gestión, transferencia y comercialización de tecnología. ",
             ],
             how: [
@@ -1031,8 +1031,8 @@ export default {
                 [
                     'CORFO',
                     'UDD',
-                    'MINISTERIO DE RREE',
-                    'Este evento de la Organización de los Estados Americanos (OEA), contó con el apoyo de UC Davis Chile, la Universidad del Desarrollo –sede de la actividad-, el Centro de Investigaciones Biológicas del Noroeste (CIBNOR), y el Consejo Nacional de Ciencia y Tecnología de México (CONACYT).',
+                    'MINISTERIO DE RR.EE.',
+                    'Este evento de la Organización de los Estados Americanos (OEA) contó con el apoyo de UC Davis Chile, la Universidad del Desarrollo –sede de la actividad–, el Centro de Investigaciones Biológicas del Noroeste (CIBNOR), y el Consejo Nacional de Ciencia y Tecnología de México (CONACYT).',
                     'El programa también contó con la colaboración de: la Corporación de Fomento de la Producción de Chile (CORFO); la División de Innovación del Ministerio de Economía, Fomento y Turismo de Chile (MINECON); la Dirección de Energía, Ciencia y Tecnología e Innovación (DECYTI) del Ministerio de Relaciones Exteriores de Chile; la Comisión Nacional de Investigación Científica y Tecnológica de Chile (CONICYT); el Instituto Nacional de Propiedad Industrial de Chile (INAPI); el Grupo Técnico de Innovación de la Alianza del Pacífico; el Banco Interamericano de Desarrollo (BID); la RedGT de Chile; Inchalam S.A.; AmCham Chile; StartUp Chile; Hubtec; Know Hub y Apta; el Instituto Nacional de Tecnología Industrial de Argentina (INTI); la Red OTT de México; Propiedad Intelectual y Transferencia de Tecnología S.A. de C.V. (PITTSA), México; TekCapital; Clarivate Analytics; PONS IP; Dadneo; Romero Corral Abogados; Purdue University; Georgia Tech; Oxford University (UK); la Universidad de California en Riverside; la Universidad de California en San Diego; la Universidad Politécnica de Valencia; la Universidad de Texas; IC2 Institute; la Universidad de Costa Rica; la Universidad EIA y The Not Company (NotCo.)'
                 ]
         },
@@ -1063,7 +1063,7 @@ export default {
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico y Dr. en Biotecnología.",
                         },
                         {
-                            name: "Dario Cantu",
+                            name: "Darío Cantu",
                             position: "PI, UC Davis. Biólogo de plantas y Ph.D. en Biología Vegetal.",
                         },
                         {
@@ -1126,7 +1126,7 @@ export default {
                         },
                         {
                             name: "Juan Carlos Galaz",
-                            position: "Ingeniero agrónomo, magister de la Universidad de Alberta Canadá. UC Davis Chile.",
+                            position: "Ingeniero agrónomo, magíster de la Universidad de Alberta, Canadá. UC Davis Chile.",
                         },
                         {
                             name: "Yaakov Goldwasser",
@@ -1138,7 +1138,7 @@ export default {
             customer: ["Sugal Chile Ltda."],
             investment: "CLP $292.000.000",
             description: [
-                "Desde 1982, en Chile existe la <em>Phelipanche ramosa</em>, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y la Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
+                "Desde 1982, en Chile existe la <em>Phelipanche ramosa</em>, maleza parásita que afecta a las plantaciones de tomates. Está distribuida entre las regiones de Coquimbo y La Araucanía y es considerada una maleza clave en el cultivo de tomate industrial, ya que genera pérdidas de rendimiento de hasta un 81%.",
                 "Para la empresa Sugal Chile, que administra un total de de 7.500 hectáreas de tomate industrial en la zona central del país, esta maleza es prioritaria en sus programas de manejo del cultivo. Para monitorearla y controlar el efecto de los herbicidas en el suelo y los cultivos, se desarrolló un modelo de control integrado. Adicionalmente, se implementó una herramienta para el registro histórico de los niveles de infestación de los predios de los agricultores que tienen contrato de producción de tomate con Sugal, que sirva como base para la utilización de una herramienta de apoyo a la toma de decisiones con relación al control de la maleza.",
             ],
             how: [
@@ -1147,8 +1147,8 @@ export default {
                 "Adicionalmente, se implementó una herramienta para el registro histórico de los niveles de infestación de los predios de los agricultores que tienen contrato de producción de tomate con Sugal, que servirá como base para la implementación de una herramienta de apoyo a la toma de decisiones con relación al control de la maleza.",
             ],
             value: [
-                "El valor que se espera alcanzar una vez que se implemente (aún está en etapa experimental y las empresas químicas dueñas de los herbicidas usados en Israel deben registrarlas en Chile), es equivalente a US$4,1 millones que se generan al evitar un 40% de pérdidas de un área infestada con la maleza de 1.300 hectáreas. ",
-                "Con este proyecto se dio cuenta de la relevancia de este problema agronómico en la industria productora de tomate, pues si no se enfrenta adecuadamente puede acabar con la producción en Chile. Además, al monitorear los niveles de infestación por zona geográfica, se desarrolló un programa de manejo y se ha trabajado en identificar prácticas preventivas que evitan la dispersión de la maleza desde campos infestados.",
+                "El valor que se espera alcanzar una vez que se implemente (aún está en etapa experimental y las empresas químicas dueñas de los herbicidas usados en Israel deben registrarlas en Chile), es equivalente a US$ 4,1 millones que se generan al evitar un 40% de pérdidas de un área infestada con la maleza de 1.300 hectáreas. ",
+                "Con este proyecto se dio cuenta de la relevancia de este problema agronómico en la industria productora de tomate, pues si no se enfrenta adecuadamente puede acabar con la producción en Chile. Además, al monitorear los niveles de infestación por zona geográfica se desarrolló un programa de manejo y se ha trabajado en identificar prácticas preventivas que evitan la dispersión de la maleza desde campos infestados.",
             ],
             partnership: [
                 "Sugal Chile Ltda., empresas agroquímicas que tienen las soluciones químicas de control de esta maleza, Pontificia Universidad Católica e Instituto de Investigaciones Agropecuarias, INIA.",
@@ -1236,7 +1236,7 @@ export default {
                     teamName: "Encargados microvinificaciones y bodega experimental",
                     members: [
                         {
-                            name: "Vixania Faundez",
+                            name: "Vixania Faúndez",
                             position: "Ingeniero Agrónomo Universidad de Talca (Año 1)",
                         },
                         {
@@ -1258,10 +1258,10 @@ export default {
             description: [
                 "La realidad productiva vitivinícola de Chile se ha orientado a los mercados de grandes volúmenes, por lo que la eficiencia es parte importante del negocio. Para esto, es fundamental la implementación de tecnologías que permitan a las empresas avanzar en la homogeneidad de sus procesos y en la calidad de sus vinos.",
                 "La uva, como materia prima, define en gran medida la calidad final del producto. Es un parámetro difícil de definir, ya que es subjetivo y multidimensional, sí existen consensos que permiten evaluarla de manera objetiva, a través de la medición de marcadores químicos que están asociados a atributos de color, aroma y sensaciones en boca. ",
-                "Este proyecto de investigación aplicada y colaborativa, busca desarrollar un modelo predictivo de calidad de la uva cabernet sauvignon, a través de la medición de marcadores químicos y barridos espectrales, para clasificar objetivamente y de manera temprana la calidad potencial y así optimizar los recursos y el valor agregado al proceso de elaboración de los vinos.",
+                "Este proyecto de investigación aplicada y colaborativa busca desarrollar un modelo predictivo de calidad de la uva cabernet sauvignon, a través de la medición de marcadores químicos y barridos espectrales, para clasificar objetivamente y de manera temprana la calidad potencial y así optimizar los recursos y el valor agregado al proceso de elaboración de los vinos.",
             ],
             how: [
-                "Durante el primer año de ejecución del proyecto, se implementaron una gran cantidad de mediciones analíticas (cientos de marcadores potenciales, algunos medidos en UC Davis y otros en laboratorio CTVV), los cuales se fueron reduciendo a aquéllos más relevantes y significativos. Paralelamente, se incorporaron mediciones de barridos espectrales dado el costo-beneficio que entregan, al ser mediciones rápidas y de bajo costo una vez que se cuentan con los equipos.",
+                "Durante el primer año de ejecución del proyecto se implementaron una gran cantidad de mediciones analíticas (cientos de marcadores potenciales, algunos medidos en UC Davis y otros en laboratorio CTVV), los cuales se fueron reduciendo a aquellos más relevantes y significativos. Paralelamente, se incorporaron mediciones de barridos espectrales dado el costo-beneficio que entregan, al ser mediciones rápidas y de bajo costo una vez que se cuentan con los equipos.",
                 "Se realizaron muestreos en diversos campos de Cabernet Sauvignon ubicados  en los valles de Maipo, Cachapoal, Colchagua y Maule durante las temporadas 2017, 2018 y 2019 y cubriendo un amplio rango de calidades.",
                 "Se aplicaron herramientas de machine learning para construir modelos consistentes en el tiempo, rápidos y de bajo costo. El modelo se integró a una plataforma web que le permite a los usuarios cargar la información y obtener las clasificaciones en la época de vendimia.",
             ],
@@ -1322,7 +1322,7 @@ export default {
                 "Comunidad de Aguas Subterráneas del Río Copiapó (CASUB)"],
             investment: "CLP $7.000.000",
             description: [
-                "El recurso hídrico es cada vez más escaso y su adecuado aprovechamiento es  un imperativo especialmente para Chile que se encuentra entre los 30 países con mayor stress hídrico del mundo. El momento del año en que los ríos alcanzan su mayor caudal, ofrece una gran oportunidad para implementar estrategias de recarga de los acuíferos (aguas subterráneas), que son intensamente demandados en períodos en que las aguas superficiales disminuyen significativamente.",
+                "El recurso hídrico es cada vez más escaso y su adecuado aprovechamiento es  un imperativo, especialmente para Chile que se encuentra entre los 30 países con mayor estrés hídrico del mundo. El momento del año en que los ríos alcanzan su mayor caudal, ofrece una gran oportunidad para implementar estrategias de recarga de los acuíferos (aguas subterráneas), que son intensamente demandados en períodos en que las aguas superficiales disminuyen significativamente.",
                 "El proyecto consistió en el estudio de requerimientos, evaluación de  localización, diseño, implementación y evaluación económica de un prototipo de sistema de recarga artificial del acuífero, en la cuenca del río Copiapó en la Región de Atacama.",
             ],
             how: [
@@ -1330,9 +1330,9 @@ export default {
                 "Una vez puesto en operación el dispositivo, se realizó la evaluación económica, evidenciando importantes beneficios ecológicos, tales como: protección contra la subsidencia, es decir, prevenir el hundimiento del suelo producto de la extracción de agua, la elevación de la capa freática, y el mejoramiento de las cualidades hidráulicas del terreno. El prototipo evaluado es escalable, adaptable, de fácil instalación y bajo costo, constituyendo una alternativa efectiva para realizar recarga artificial de aguas subterráneas, en partes distantes de los ríos.",
             ],
             value: [
-                "Este proyecto nace del interés y fuerte compromiso innovador de la Comunidad de Aguas subterráneas del Río Copiapó (CASUB), quienes convocaron a entidades especialistas en el diseño, gestión e implementación de proyectos hidráulicos: Sustrend, Aqua G.S.A y UC Davis Chile.",
-                "CASUB construyó e instaló, con la supervisión del profesor José Luis Arumi (Universidad de Concepción) el prototipo de recarga diseñado por la empresa Aqua y validado técnicamente por hidrólogos de UC Davis Chile. ",
-                "Una vez puesto en operación el dispositivo y evaluado técnicamente su funcionamiento, se realizó un amplio proceso de difusión de sus resultados y beneficios.",
+                "Este proyecto nace del interés y fuerte compromiso innovador de la Comunidad de Aguas subterráneas del Río Copiapó (CASUB), quienes convocaron a entidades especialistas en el diseño, gestión e implementación de proyectos hidráulicos: Sustrend, Aqua G.S.A. y UC Davis Chile.",
+                "CASUB construyó e instaló, con la supervisión del profesor José Luis Arumi (Universidad de Concepción), el prototipo de recarga diseñado por la empresa Aqua y validado técnicamente por hidrólogos de UC Davis Chile. ",
+                "Una vez puesto en operación el dispositivo y evaluado técnicamente su funcionamiento se realizó un amplio proceso de difusión de sus resultados y beneficios.",
             ],
             partnership: [
                 "Acqua G.S.A",
@@ -1413,13 +1413,13 @@ export default {
                 "Universidad de Tarapacá"],
             investment: "CLP $450.000.000 ",
             description: [
-                "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en el uso de la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
+                "La Región de Arica y Parinacota se caracteriza por la producción de tomates, pimentones y otras hortalizas siendo una de las principales fuentes de abastecimiento de este tipo de productos en los mercados de la zona central durante el invierno. Sin embargo, las prácticas agrícolas intensivas, uso inadecuado de agroquímicos y las condiciones naturales extremas han afectado sistemáticamente la productividad y la sustentabilidad medioambiental. Esto ha hecho necesario la adopción de mejores prácticas que permitan mejorar la capacidad productiva y la calidad de los suelos, preservando el medio ambiente y sus recursos. El uso de bioproductos es una tendencia creciente en la producción agrícola, pero por su naturaleza su efectividad depende fuertemente de las condiciones ambientales a las cuales están sometidos los cultivos. Este es el caso de la Región de Arica y Parinacota donde las condiciones extremas no han permitido resultados adecuados con los bioproductos disponibles, lo que dio origen al proyecto para la generación de bioproductos agrícolas con una funcionalidad que permitiera obtener mejores resultados productivos bajo esas condiciones extremas. En este escenario, se generó una colección de microorganismos aislados de distintos cultivos y plantas endémicas locales que se desarrollan en condiciones libre de agroquímicos, y se logró aislar microorganismos con características deseables para la generación de un bioproducto compatible con las condiciones salino-bóricas propias del lugar.",
             ],
             how: [
                 "Para la ejecución de este proyecto, el equipo científico realizó un muestreo intensivo en plantas cultivadas y endémicas de la zona y se aislaron más de 400 microorganismos, los cuales fueron caracterizados en base a sus propiedades benéficas para agricultura (bioestimulantes y biocontroladores). Mediante la ejecución de diversas pruebas de laboratorio, tanto cualitativas como cuantitativas, se acotó la lista de microorganismos de acuerdo a ciertos parámetros muy específicos hasta llegar a una bacteria identificada como <em>Pseudomona lini cepa S57</em>, la cual a nivel de laboratorio cumple con los requisitos para desarrollar un bioestimulante y biofungicida funcional para la Región de Arica y Parinacota. Se optimizó el crecimiento de la bacteria para favorecer su masa celular empleando metodologías de escalamiento en biorreactor. Asimismo, se trabajó en la generación y prueba de distinto tipo de formulaciones líquidas, polvos mojables y granulares, las que se están evaluando para la validación de resultados en invernaderos de la Universidad de Tarapacá. ",
             ],
             value: [
-                "En este estudio, se inició el desarrollo de un bioproducto agrícola compatible con las condiciones salino-bóricas de la Región de Arica y Parinacota, las cuales limitan el uso de otros bioproductos comerciales disponibles en la zona. Este nuevo bioproducto está compuesto por una formulación que contiene la bacteria <em>Pseudomonas lini</em> cepa S57 obtenida de plantas cultivadas en el antiplano, y posee actividades estimulantes de crecimiento vegetal y biofungicida contra algunas enfermedades como Botrytis. Estas dos funcionalidades dieron origen a 2 patentes que fueron solicitadas al instituto de propiedad intelectual (INAPI). Hasta ahora, la bacteria <em>P. lini</em> cepa S57 se ha formulado en preparaciones líquidas y granulares, cuyas propiedades están en evaluación y validación en campo.",
+                "En este estudio, se inició el desarrollo de un bioproducto agrícola compatible con las condiciones salino-bóricas de la Región de Arica y Parinacota, las cuales limitan el uso de otros bioproductos comerciales disponibles en la zona. Este nuevo bioproducto está compuesto por una formulación que contiene la bacteria <em>Pseudomonas lini</em> cepa S57 obtenida de plantas cultivadas en el antiplano, y posee actividades estimulantes de crecimiento vegetal y biofungicida contra algunas enfermedades como Botrytis. Estas dos funcionalidades dieron origen a 2 patentes que fueron solicitadas al Instituto de Propiedad Intelectual (INAPI). Hasta ahora, la bacteria <em>P. lini</em> cepa S57 se ha formulado en preparaciones líquidas y granulares, cuyas propiedades están en evaluación y validación en campo.",
                 "La bacteria mencionada, es parte de una colección de recursos genéticos microbianos aislados en la Región de Arica y Parinacota y que cuenta con una variedad de microorganismos de zonas extremófilas caracterizados parcialmente de acuerdo a sus funcionalidades para la agricultura. La colección posee más de 400 microorganismos con un inmenso potencial biotecnológico que se espera poder ponerlo al servicio de la academia para investigación, industria agrícola, farmacéutica, alimentaria y otras para su explotación y beneficio de la sociedad.",
             ],
             partnership: [
@@ -1455,7 +1455,7 @@ export default {
                         },
                         {
                             name: "Francisco Rojo",
-                            position: "co- Investigador Pontificia Universidad Católica de Valparaíso, Ingeniero Agrónomo PhD, Profesor de la Escuela de Agronomía. ",
+                            position: "Co-Investigador Pontificia Universidad Católica de Valparaíso, Ingeniero Agrónomo PhD, Profesor de la Escuela de Agronomía. ",
                         },
                         {
                             name: "Fernando Pérez",
@@ -1468,11 +1468,11 @@ export default {
                 "VSPT Wine Group"],
             investment: "CLP $280.000.000",
             description: [
-                "La disponibilidad de agua ha sido declarada como uno de los desafíos más grandes que la agricultura enfrenta actualmente. Un problema que se ha agravado debido al cambio climático, debido a recurrentes sequías, la limitada disponibilidad general de agua para riego, la expansión agrícola, y la creciente demanda urbana por aumento de la población, están forzando a la agricultura a implementar mejores técnicas de gestión de riego para mejorar la eficiencia del uso del agua.",
+                "La disponibilidad de agua ha sido declarada como uno de los desafíos más grandes que la agricultura enfrenta actualmente. Un problema que se ha agravado debido al cambio climático, debido a recurrentes sequías, la limitada disponibilidad general de agua para riego, la expansión agrícola, y la creciente demanda urbana por aumento de la población, están forzando a la agricultura a implementar mejores técnicas de gestión de riego para optimizar la eficiencia del uso del agua.",
                 "Esta línea se centró en el desarrollo de métodos para optimizar el uso del agua para riego, utilizando técnicas modernas para la estimación de la demanda real de agua en vides bajo distintas condiciones de producción (sistemas de conducción, orientación espacial de las hieras y rendimiento). La propuesta se centró en la aplicación y adopción de una tecnología desarrollada en UC Davis denominada Surface Renewal, basada en la estimación de la evapotranspiración real de un cultivo.",
             ],
             how: [
-                "Este proyecto ha sido ejecutado durante cuatro temporadas específicamente en viñas de cabernet sauvignon, ubicadas en Pencahue VII región de Chile. Durante estas 4 temporadas se han estudiado los efectos de: rendimiento, sistema de conducción y orientación; sobre la evapotranspiración real en cada uno de los sectores de estudio, esto ha permitido recalcular los coeficientes de cultivo específicos para cada una de las variantes estudiadas.  Al mismo tiempo, se han realizado otras mediciones relevantes en la producción de vid vinífera, como por ejemplo potencial hídrico xilemático, uniformidad y presión del riego, capacidad de retención de agua del suelo, que en conjunto permiten una mejor interpretación de las diferencias observadas.",
+                "Este proyecto ha sido ejecutado durante cuatro temporadas específicamente en viñas de cabernet sauvignon, ubicadas en Pencahue VII Región de Chile. Durante estas 4 temporadas se han estudiado los efectos de: rendimiento, sistema de conducción y orientación; sobre la evapotranspiración real en cada uno de los sectores de estudio, esto ha permitido recalcular los coeficientes de cultivo específicos para cada una de las variantes estudiadas.  Al mismo tiempo, se han realizado otras mediciones relevantes en la producción de vid vinífera, como por ejemplo potencial hídrico xilemático, uniformidad y presión del riego, capacidad de retención de agua del suelo, que en conjunto permiten una mejor interpretación de las diferencias observadas.",
                 "Para la ejecución de este proyecto se establecieron alianzas de colaboración con entidades nacionales (PUCV) y se estableció un comité técnico liderado por especialistas de UC Davis.",
             ],
             value: [
@@ -1522,7 +1522,7 @@ export default {
                         },
                         {
                             name: "Dr. Pedro Ramos",
-                            position: "Universidad Autonoma de Nuevo Leon, Especialista en Telemedicina, México",
+                            position: "Universidad Autónoma de Nuevo León, Especialista en Telemedicina, México",
                         },
                         {
                             name: "Dr. Sergio Pillón",
@@ -1538,7 +1538,7 @@ export default {
                 ["Su objetivo fue la provisión de un insumo para contribuir a la eficiencia del sistema de salud y facilitar y acelerar los procesos de innovación, en particular aquellos dirigidos a mejorar el acceso a la salud de calidad de las personas y la oportunidad de la atención. El proyecto proporciona un glosario de definiciones, un modelo de caracterización de los escenarios de telemedicina y telesalud, el marco regulatorio aplicable, un conjunto de buenas prácticas, recomendaciones y otros elementos que apuntan a facilitar el desarrollo de las prestaciones en esta modalidad en Chile, de tal forma que puedan ser asimiladas como procedimientos normales integrados y de apoyo al sistema de salud dentro de un marco de calidad y seguridad. "],
             how: [
                 "Este proyecto inició con un levantamiento de terminologías, definiciones, procesos, servicios, normas de calidad y modelos comerciales de telemedicina utilizados en Chile y el resto del mundo. La información recopilada fue analizada e integrada en una propuesta preliminar, adaptada a la realidad nacional y consensuada con los socios estratégicos del proyecto, el Ministerio de Salud y otros actores relevantes del sistema de salud público y privado nacional.",
-                "En el desarrollo de esta propuesta integrada de lineamientos para el desarrollo de la telemedicina y su posterior validación, fue clave la participación de expertos internacionales en Telemedicina; Dr. Sergio Pillón,  y Dr. Pedro Ramos y Dr James Marcin M.D., M.P.H., director del UC Davis Center for Health and Technology.",
+                "En el desarrollo de esta propuesta integrada de lineamientos para el desarrollo de la telemedicina y su posterior validación fue clave la participación de expertos internacionales en Telemedicina; Dr. Sergio Pillón,  y Dr. Pedro Ramos y Dr James Marcin M.D., M.P.H., director del UC Davis Center for Health and Technology.",
                 "La propuesta de lineamientos fue discutida en talleres de trabajo con distintos agentes públicos y privados de telesalud y con la comunidad de beneficiarios que atenderá el proyecto, en un modelo de estudio de casos.",
                 "Los lineamientos corregidos fueron presentados a la comunidad en seminarios especializados, desarrollados en Concepción y Santiago, que contaron con la participación de los expertos que colaboraron en su desarrollo.",
                 "Finalmente, la sustentabilidad de los resultados del proyecto quedó a cargo y resguardo del Ministerio de Salud.",
@@ -1581,7 +1581,7 @@ export default {
                             position: "Research and Development Coordinator, UC Davis Chile.  Bioquímico de la Universidad de Chile y doctorado en Biotecnología de la Universidad de Santiago. ",
                         },
                         {
-                            name: "Dario Cantu",
+                            name: "Darío Cantu",
                             position: "PI, UC Davis. Biólogo de plantas y Master en Ciencias Agrícolas (Milán, Italia, 2004). Ph.D. en Biología Vegetal UC Davis.",
                         },
                         {
@@ -1609,7 +1609,7 @@ export default {
                 "El proyecto se enfocó en desarrollar estrategias para detectar, en etapas tempranas de crecimiento de las plantas, la presencia de hongos y virus que pueden inducir patogenicidad en etapas fenológicas posteriores de la vid. Con tecnologías de secuenciación de ADN y ARN, el objetivo fue detectar la presencia, densidad y complejidad de fitopatógenos en material producido por viveros y productores antes de su establecimiento en el campo. ",
             ],
             how: [
-                "El trabajo se centró en establecer estrategias para la detección en etapas tempranas de desarrollo de las vides, la presencia de hongos y virus que pueden producir enfermedades en las etapas posteriores. A partir de las tecnologías de secuenciación, se desarrolló una línea base de conocimiento que fue utilizada con el objetivo de detectar la presencia, densidad y complejidad de posibles patógenos en material vegetal producido por los viveros antes de la puesta en campo de éste. Durante los meses de verano de dos temporadas (2015-2016 y 2016-2017) se realizaron actividades de muestreo en campos con plantas que tenían claros síntomas de decaimiento de brazos, hojas cloróticas e internodos cortos, todos signos de enfermedades de la madera que, en términos generales, busca evaluar la diversidad de los consorcios y su variación en el tiempo (estudio longitudinal). Con el material colectado, se ejecutaron las actividades necesarias para el aislamiento e identificación de hongos de la madera (UTALCA) y para el aislamiento de ADN. ",
+                "El trabajo se centró en establecer estrategias para la detección en etapas tempranas de desarrollo de las vides, la presencia de hongos y virus que pueden producir enfermedades en las etapas posteriores. A partir de las tecnologías de secuenciación, se desarrolló una línea base de conocimiento que fue utilizada con el objetivo de detectar la presencia, densidad y complejidad de posibles patógenos en material vegetal producido por los viveros antes de la puesta en campo de éste. Durante los meses de verano de dos temporadas (2015-2016 y 2016-2017) se realizaron actividades de muestreo en campos con plantas que tenían claros síntomas de decaimiento de brazos, hojas cloróticas e internodos cortos, todos signos de enfermedades de la madera que, en términos generales, busca evaluar la diversidad de los consorcios y su variación en el tiempo (estudio longitudinal). Con el material colectado se ejecutaron las actividades necesarias para el aislamiento e identificación de hongos de la madera (UTALCA) y para el aislamiento de ADN. ",
                 "Respecto a la identificación viral durante el año 2017, fueron transferidos una serie de protocolos que han sido desarrollados y validados en UC Davis en California para la detección de una serie de virus para los cuales existe evidencia de ser agentes causantes de enfermedades en vides.",
             ],
             value: [
