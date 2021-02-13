@@ -174,9 +174,7 @@
                         "
                         :alt="project.name"
                       />
-                      <h6 class="text-white">
-                        {{ prevProject.name }}
-                      </h6>
+                      <h6 class="text-white" v-html="prevProject.name"></h6>
                     </div>
                   </router-link>
                 </div>
@@ -200,9 +198,7 @@
                         "
                         :alt="project.name"
                       />
-                      <h6 class="text-white">
-                        {{ nextProject.name }}
-                      </h6>
+                      <h6 class="text-white" v-html="nextProject.name"></h6>
                     </div>
                   </router-link>
                 </div>

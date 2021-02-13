@@ -51,7 +51,7 @@
           </p>
           <p>
             Con cinco años de vida, nuestro
-            <em>Centro de Innovación UC Davis Chile</em>, se ha convertido en un
+            <em>Centro de Innovación UC Davis Chile</em> se ha convertido en un
             verdadero puente que conecta la investigación, el desarrollo
             tecnológico y las innovaciones con aplicaciones concretas que crean
             valor público, privado, académico y empresarial.
@@ -87,7 +87,7 @@
         <div class="col-12 col-md-8">
           <div>
             <p>
-              Considerando por una parte, las capacidades y fortalezas de la
+              Considerando por una parte las capacidades y fortalezas de la
               Universidad de California y, por otra, la necesidad de la economía
               chilena de incrementar sus actividades de I+D e innovación, UC
               Davis Chile procura ser un catalizador de proyectos e iniciativas,
@@ -95,7 +95,7 @@
               desarrollos y tecnologías desde California a Chile.
             </p>
             <p>
-              Para cumplir con este propósito UC Davis Chile, no sólo apalanca
+              Para cumplir con este propósito, UC Davis Chile no sólo apalanca
               las fortalezas del Campus Californiano, sino que también actúa en
               colaboración con socios académicos locales y con actores
               empresariales.

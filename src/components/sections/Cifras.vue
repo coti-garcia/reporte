@@ -34,7 +34,7 @@
         <div class="row">
           <div class="col-12 col-md-10 blue big-text">
             <p>
-              La experiencia internacional conocida por todos, muestra que la
+              La experiencia internacional conocida por todos muestra que la
               investigación fundamental es normalmente financiada por fondos
               públicos, tanto a través de los fondos basales entregados a las
               universidades, como por proyectos individuales en los que éstas

@@ -41,7 +41,7 @@
             abordando requerimientos más amplios del sector agroalimentario,
             para avanzar luego hacia iniciativas en medioambiente, recursos
             hídricos, sustentabilidad, extensionismo, economía circular,
-            contaminación atmosférica y calidad de aíre, eficiencia energética e
+            contaminación atmosférica y calidad de aire, eficiencia energética e
             iluminación y telemedicina, entre otros, lo que nos ha permitido ir
             fortaleciendo el vínculo entre ciencia e industria en temáticas de
             gran relevancia, tanto para Chile como para California.
@@ -55,7 +55,7 @@
               >brindar soluciones tecnológicas, basadas en ciencia, al mercado y
               a la sociedad.
             </em>
-            Esto, nos ha permitido ser protagonistas y testigos del impacto de
+            Esto nos ha permitido ser protagonistas y testigos del impacto de
             nuestro trabajo en comunidades y sobre todo en las personas. El
             compartir la experiencia de California con Chile ha sido inspirador
             para quienes han sido parte y para los beneficiarios de los
@@ -65,7 +65,7 @@
           </p>
           <p>
             De este modo, queremos compartir con ustedes nuestra experiencia y
-            al mismo tiempo, invitarlos a ser parte de los desafíos que
+            al mismo tiempo invitarlos a ser parte de los desafíos que
             pretendemos abordar de aquí en adelante con el objetivo de seguir
             siendo una institución cuyo aporte está al servicio del país.
           </p>

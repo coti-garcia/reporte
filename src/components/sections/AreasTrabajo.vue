@@ -404,7 +404,7 @@ export default {
         id: 501,
         num: 1,
         trabajamos:
-          "Identificar y priorizar problemas en conjunto con los actores de las industrias",
+          "Identificar y priorizar problemas en conjunto con los actores de las industrias.",
         ofrecemos:
           "•	Desarrollo de diagnósticos en co-creación con los actores de las industrias, utilizando metodologías y herramientas que faciliten su identificación y priorización.",
       },
@@ -412,15 +412,15 @@ export default {
         id: 502,
         num: 2,
         trabajamos:
-          "Facilitar la interacción con agentes de investigación, educación, agroindustria e instituciones relevantes",
+          "Facilitar la interacción con agentes de investigación, educación, agroindustria e instituciones relevantes.",
         ofrecemos:
-          "Creación de redes de colaboración, con investigadores (nacionales y de California), asesores, productores, proveedores, etc.  para implementar soluciones acordes a las necesidades de la industria.",
+          "Creación de redes de colaboración, con investigadores (nacionales y de California), asesores, productores, proveedores, etc. para implementar soluciones acordes a las necesidades de la industria.",
       },
       {
         id: 503,
         num: 3,
         trabajamos:
-          "Desarrollar capacidades para el mejoramiento de prácticas y adopción de soluciones",
+          "Desarrollar capacidades para el mejoramiento de prácticas y adopción de soluciones.",
         ofrecemos:
           "Desarrollo de actividades de extensión: cursos, talleres, días de campo, etc. ",
       },
@@ -438,7 +438,7 @@ export default {
         id: 505,
         num: 5,
         trabajamos:
-          "Validar y adaptar tecnologías y/o prácticas al contexto nacional	",
+          "Validar y adaptar tecnologías y/o prácticas al contexto nacional.",
         ofrecemos:
           "Validación de prácticas y/o tecnologías en California posibles de adaptar en Chile, implementando pilotos en condiciones reales de producción.",
       },

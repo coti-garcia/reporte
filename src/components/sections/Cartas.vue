@@ -18,7 +18,7 @@
           <div class="testimonial-slider__author">
                       
             <span class="bodega quote">  
-              Este documento es una pausa en el camino para reflexionar sobre nuestros logros y forma de trabajo, de manera de seguir apoyando la innovación en la industria y la sociedad chilena.
+              Este documento es una pausa en el camino para reflexionar sobre nuestros logros y forma de trabajo, de manera de seguir apoyando la innovación en la industria y la sociedad chilena."
             </span>
             <!-- <h6 class="name bodega">Dr. Mauricio Cañoles</h6>
             <div class="designation">Gerente General</div>
@@ -30,7 +30,7 @@
           <p>UC Davis Chile es uno de los Centros de Excelencia Internacional que
 han sido invitados por el Estado de Chile a formar parte de un sistema de Investigación, Desarrollo e Innovación a través del Programa de Atracción impulsado por CORFO (Corporación de Fomento de la Producción). El norte de nuestro Centro siempre ha estado claro: “brindar soluciones tecnológicas basadas en ciencia al mercado y a la sociedad”.
 </p>
-          <p>Fue a inicios del 2015 cuando nuestras actividades comienzan de forma “novedosa” en estrecha relación con la industria vitivinícola del país. Para esto, un grupo multidisciplinario (Estado, academia e industria) viajan a California para dar forma a nuestra primera hoja de ruta de trabajo técnico. Una “inmersión” en el trabajo de investigación que nuestra universidad en California, University of California, Davis, estaba haciendo en ese entonces para apoyar el desarrollo de la viticultura y enología del estado. La biotecnología y la agricultura inteligente, aplicadas de forma metódica y sistemática para enfrentar desafíos reales de la industria Californiana, fueron las primeras ventanas de la relación ciencia - industria que se abren como un modelo a observar y adaptar cautelosamente desde Chile.
+          <p>Fue a inicios de 2015 cuando nuestras actividades comienzan de forma “novedosa” en estrecha relación con la industria vitivinícola del país. Para esto, un grupo multidisciplinario (Estado, academia e industria) viaja a California para dar forma a nuestra primera hoja de ruta de trabajo técnico. Una “inmersión” en el trabajo de investigación que nuestra universidad en California, University of California, Davis, estaba haciendo en ese entonces para apoyar el desarrollo de la viticultura y enología del estado. La biotecnología y la agricultura inteligente, aplicadas de forma metódica y sistemática para enfrentar desafíos reales de la industria Californiana, fueron las primeras ventanas de la relación ciencia - industria que se abren como un modelo a observar y adaptar cautelosamente desde Chile.
 Esta ha sido una experiencia abierta a todos, parte o no del proyecto original, desde la industria hasta la academia, pasando por las instituciones del Estado.
 </p>
           <p>Después de casi seis años, vemos cómo el quehacer de UC Davis Chile se ha basado en tres pilares fundamentales:
@@ -65,7 +65,7 @@ Esta ha sido una experiencia abierta a todos, parte o no del proyecto original, 
              />
             <div class="quote-icon"><i class="fas fa-quote-left gold"></i></div>
             <div class="testimonial-slider__author">
-                <span class="bodega quote"> Con un enfoque en la agricultura y el medio ambiente, el Centro ha contribuido al bienestar de Chile y esperamos ampliar nuestras colaboraciones y contribuciones mutuamente beneficiosas.</span>
+                <span class="bodega quote"> Con un enfoque en la agricultura y el medio ambiente, el Centro ha contribuido al bienestar de Chile y esperamos ampliar nuestras colaboraciones y contribuciones mutuamente beneficiosas."</span>
                 </div>
               </div>
         </div>
