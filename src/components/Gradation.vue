@@ -19,9 +19,9 @@
           </div>
           <!-- <h5 class="icon-process-single__title">Define your ideas</h5> -->
           <div class="icon-process-single__text">
-            En la década de los ‘60 hubo una colaboración muy significativa
-            entre Chile y UC Davis. La asociación Chile - California apoyó un
-            estrecho intercambio entre científicos chilenos y californianos en
+            En la década de los 60 hubo una colaboración muy significativa entre
+            Chile y UC Davis. La asociación Chile - California apoyó un estrecho
+            intercambio entre científicos chilenos y californianos en
             agricultura.
           </div>
         </div>
