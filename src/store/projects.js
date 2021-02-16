@@ -718,9 +718,12 @@ export default {
             thumb: '09/01.jpg',
             images: [
                 "09/01.jpg",
-                "09/02.jpg",
                 "09/10.jpg",
-                "09/11.jpg"
+                "09/02.jpg",
+                "09/03.jpg",
+                "09/04.jpg",
+                "09/05.jpg",
+                "09/06.jpg",
             ],
             alt: "proyecto image",
             name:
